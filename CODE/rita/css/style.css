@@ -1,0 +1,32 @@
+body {
+	/*max-width: 900px;*/
+	margin: auto;
+}
+
+textarea {
+	width: 100%;
+	margin: 10px 0px;
+	padding: 10px;
+}
+
+body,
+input,
+textarea,
+button {
+	font-size: 30px;
+	font-family: "helvetica", sans-serif;
+}
+
+h1 {
+	margin: 10px;
+	text-align: center;
+}
+
+#input {
+	text-align: center;
+}
+
+#output {
+	white-space: pre-wrap;
+	margin: 10px 0px;
+}

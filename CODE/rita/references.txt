@@ -1,0 +1,9 @@
+https://github.com/processing/p5.js/wiki/Beyond-the-canvas
+
+http://p5js.org/reference/#/libraries/p5.dom
+
+https://cs.nyu.edu/grishman/jet/guide/PennPOS.html
+
+https://developers.google.com/youtube/v3/docs/captions/download
+
+https://forum.processing.org/two/categories/p5-js-programming-questions

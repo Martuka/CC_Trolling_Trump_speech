@@ -1,0 +1,2082 @@
+Kind: captions
+Language: en
+Style:
+::cue(c,colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c,colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00,000 --> 00:00:06,930 align:start position:19%
+<c,colorCCCCCC>there<00:00:00,719><c> are</c><00:00:00,810><c> only</c><00:00:01,020><c> three</c><00:00:01,500><c> days</c><00:00:01,620><c> left</c><00:00:02,190><c> in</c><00:00:03,030><c> this</c></c>
+
+00:00:03,270 --> 00:00:10,710 align:start position:19%
+election<c,colorE5E5E5><00:00:03,720><c> while</c><00:00:05,370><c> we</c><00:00:05,490><c> hope</c><00:00:06,029><c> the</c><00:00:06,180><c> Donald</c><00:00:06,779><c> will</c></c>
+
+00:00:06,930 --> 00:00:14,280 align:start position:19%
+become<00:00:07,319><c> the</c><c,colorE5E5E5><00:00:07,410><c> president</c><00:00:07,980><c> and</c><00:00:09,330><c> he</c></c><c,colorCCCCCC><00:00:09,510><c> works</c><00:00:10,110><c> hard</c></c>
+
+00:00:10,710 --> 00:00:17,880 align:start position:19%
+<c,colorCCCCCC>everyday<00:00:11,370><c> for</c><00:00:11,880><c> your</c><00:00:12,059><c> support</c><00:00:12,450><c> we</c><00:00:13,710><c> need</c><00:00:13,799><c> you</c></c>
+
+00:00:14,280 --> 00:00:21,600 align:start position:19%
+<c,colorE5E5E5>the<00:00:14,610><c> voters</c><00:00:15,269><c> to</c><00:00:15,599><c> go</c><00:00:15,750><c> out</c><00:00:16,289><c> vote</c><00:00:16,980><c> and</c><00:00:17,400><c> make</c><00:00:17,699><c> that</c></c>
+
+00:00:17,880 --> 00:00:24,810 align:start position:19%
+a<00:00:18,210><c> reality</c><c,colorCCCCCC><00:00:18,330><c> we</c><00:00:20,039><c> also</c><00:00:20,430><c> ask</c><00:00:21,150><c> that</c><00:00:21,270><c> you</c><00:00:21,420><c> bring</c></c>
+
+00:00:21,600 --> 00:00:31,700 align:start position:19%
+your<00:00:21,900><c> family</c><00:00:22,529><c> friends</c><00:00:22,920><c> neighbors</c><00:00:23,580><c> to</c><00:00:24,359><c> vote</c>
+
+00:00:24,810 --> 00:00:35,660 align:start position:19%
+for<c,colorCCCCCC><00:00:25,410><c> President</c><00:00:26,400><c> Donald</c><00:00:27,180><c> Trump</c></c>
+
+00:00:31,700 --> 00:00:39,680 align:start position:19%
+<c,colorE5E5E5>why<00:00:32,240><c> should</c><00:00:32,780><c> you</c><00:00:32,990><c> vote</c><00:00:33,470><c> for</c><00:00:33,740><c> Donald</c><00:00:34,400><c> because</c></c>
+
+00:00:35,660 --> 00:00:40,700 align:start position:19%
+we<00:00:36,650><c> need</c><00:00:37,280><c> a</c><00:00:37,640><c> president</c><00:00:37,940><c> who</c><00:00:39,020><c> will</c><00:00:39,170><c> keep</c><00:00:39,500><c> us</c>
+
+00:00:39,680 --> 00:00:44,600 align:start position:19%
+safe
+
+00:00:40,700 --> 00:00:48,920 align:start position:19%
+<c,colorE5E5E5>we<00:00:42,230><c> need</c><00:00:42,650><c> a</c><00:00:42,800><c> president</c><00:00:43,100><c> who</c><00:00:43,850><c> will</c><00:00:44,000><c> secure</c><00:00:44,480><c> the</c></c>
+
+00:00:44,600 --> 00:00:51,650 align:start position:19%
+border<c,colorE5E5E5><00:00:45,200><c> we</c><00:00:47,330><c> need</c><00:00:47,690><c> a</c><00:00:47,840><c> president</c><00:00:48,110><c> who</c><00:00:48,770><c> will</c></c>
+
+00:00:48,920 --> 00:00:57,110 align:start position:19%
+break<00:00:49,400><c> up</c><00:00:49,700><c> the</c><00:00:49,850><c> corruption</c><00:00:50,630><c> and</c><00:00:50,809><c> collusion</c><00:00:51,320><c> in</c>
+
+00:00:51,650 --> 00:01:01,879 align:start position:19%
+our<00:00:52,010><c> government</c><c,colorE5E5E5><00:00:52,370><c> we</c><00:00:55,580><c> need</c><00:00:55,910><c> a</c><00:00:56,090><c> president</c><00:00:56,420><c> who</c></c>
+
+00:00:57,110 --> 00:01:04,640 align:start position:19%
+will<00:00:57,200><c> bring</c><00:00:57,410><c> jobs</c><00:00:58,220><c> back</c><00:00:58,280><c> to</c><c,colorE5E5E5><00:00:58,730><c> America</c><00:00:59,420><c> we</c><00:01:01,670><c> need</c></c>
+
+00:01:01,879 --> 00:01:08,810 align:start position:19%
+a<00:01:01,970><c> president</c><00:01:02,210><c> who</c><00:01:02,870><c> will</c><00:01:03,050><c> lower</c><00:01:03,379><c> taxes</c><00:01:04,250><c> and</c>
+
+00:01:04,640 --> 00:01:11,570 align:start position:19%
+<c,colorE5E5E5>they're<00:01:04,759><c> energized</c><00:01:05,660><c> the</c><00:01:05,840><c> economy</c><00:01:06,470><c> we</c><00:01:08,360><c> need</c><00:01:08,420><c> a</c></c>
+
+00:01:08,810 --> 00:01:16,850 align:start position:19%
+president<00:01:09,110><c> who</c><00:01:09,800><c> will</c><00:01:09,979><c> not</c><00:01:10,520><c> leave</c><00:01:11,060><c> any</c>
+
+00:01:11,570 --> 00:01:21,200 align:start position:19%
+Americans<00:01:12,470><c> behind</c><c,colorE5E5E5><00:01:13,310><c> we</c><00:01:15,380><c> need</c><00:01:15,710><c> a</c><00:01:15,860><c> president</c><00:01:16,130><c> who</c></c>
+
+00:01:16,850 --> 00:01:24,920 align:start position:19%
+will<00:01:17,000><c> put</c><00:01:17,300><c> America</c><00:01:18,200><c> first</c><00:01:18,350><c> domestically</c><00:01:20,150><c> and</c>
+
+00:01:21,200 --> 00:01:27,410 align:start position:19%
+abroad<c,colorCCCCCC><00:01:21,259><c> we</c><00:01:23,509><c> need</c><00:01:23,780><c> a</c><00:01:23,840><c> president</c><00:01:24,080><c> who</c><00:01:24,740><c> will</c></c>
+
+00:01:24,920 --> 00:01:32,030 align:start position:19%
+deliver<00:01:25,160><c> the</c><00:01:25,610><c> change</c><c,colorCCCCCC><00:01:26,210><c> you</c><00:01:26,720><c> all</c><00:01:27,080><c> have</c><00:01:27,350><c> been</c></c>
+
+00:01:27,410 --> 00:01:35,420 align:start position:19%
+waiting<00:01:27,740><c> for</c><00:01:28,399><c> this</c><00:01:30,860><c> is</c><00:01:31,190><c> your</c><00:01:31,430><c> last</c><00:01:31,610><c> chance</c>
+
+00:01:32,030 --> 00:01:36,590 align:start position:19%
+<c,colorCCCCCC>your</c><c,colorE5E5E5><00:01:33,020><c> last</c><00:01:33,560><c> chance</c><00:01:34,100><c> to</c><00:01:34,729><c> make</c><00:01:34,820><c> a</c><00:01:35,119><c> real</c></c>
+
+00:01:35,420 --> 00:01:41,869 align:start position:19%
+difference
+
+00:01:36,590 --> 00:01:45,289 align:start position:19%
+ladies<00:01:38,929><c> and</c><00:01:39,140><c> gentlemen</c><00:01:39,950><c> please</c><00:01:40,850><c> say</c><00:01:41,330><c> hello</c><00:01:41,509><c> to</c>
+
+00:01:41,869 --> 00:01:48,110 align:start position:19%
+my<00:01:42,170><c> husband</c><00:01:43,009><c> and</c><00:01:43,670><c> the</c><00:01:43,819><c> future</c><00:01:44,300><c> President</c><00:01:44,569><c> of</c>
+
+00:01:45,289 --> 00:02:03,030 align:start position:19%
+the<00:01:45,440><c> United</c><00:01:45,740><c> States</c><00:01:46,100><c> of</c><00:01:46,429><c> America</c><c,colorCCCCCC><00:01:47,090><c> Donald</c></c>
+
+00:01:48,110 --> 00:02:09,509 align:start position:19%
+<c,colorCCCCCC>Trump</c>
+
+00:02:03,030 --> 00:02:12,060 align:start position:19%
+<c,colorE5E5E5>so<00:02:07,020><c> folks</c></c><c,colorCCCCCC><00:02:07,470><c> I'm</c><00:02:07,619><c> going</c></c><c,colorE5E5E5><00:02:07,830><c> to</c><00:02:07,920><c> were</c></c><c,colorCCCCCC><00:02:08,130><c> see</c><00:02:08,970><c> you</c><00:02:09,149><c> guys</c></c>
+
+00:02:09,509 --> 00:02:14,550 align:start position:19%
+in<00:02:09,750><c> a</c><00:02:09,869><c> little</c><00:02:09,990><c> while</c><00:02:10,530><c> but</c><00:02:10,740><c> what</c><00:02:11,640><c> am</c><00:02:11,760><c> I</c><c,colorE5E5E5><00:02:11,819><c> going</c><00:02:12,000><c> to</c></c>
+
+00:02:12,060 --> 00:02:24,180 align:start position:19%
+do<c,colorCCCCCC><00:02:12,270><c> what</c><00:02:13,380><c> do</c><00:02:13,470><c> i</c><00:02:13,560><c> have</c></c><c,colorE5E5E5><00:02:13,620><c> to</c><00:02:13,860><c> say</c></c><c,colorCCCCCC><00:02:14,160><c> i'm</c></c><c,colorE5E5E5><00:02:14,370><c> going</c><00:02:14,490><c> to</c></c>
+
+00:02:14,550 --> 00:02:25,020 align:start position:19%
+<c,colorCCCCCC>leave</c><c,colorE5E5E5><00:02:14,700><c> goodbye</c></c><c,colorCCCCCC><00:02:15,090><c> but</c><00:02:15,480><c> I'm</c></c><c,colorE5E5E5><00:02:15,630><c> gonna</c></c><c,colorCCCCCC><00:02:15,840><c> want</c><00:02:23,819><c> a</c><00:02:23,850><c> great</c></c>
+
+00:02:24,180 --> 00:02:28,500 align:start position:19%
+job
+
+00:02:25,020 --> 00:02:31,170 align:start position:19%
+what<00:02:25,200><c> a</c><00:02:25,260><c> great</c><00:02:25,500><c> job</c><00:02:25,739><c> and</c><00:02:28,020><c> that's</c><c,colorE5E5E5><00:02:28,140><c> five</c></c>
+
+00:02:28,500 --> 00:02:32,130 align:start position:19%
+languages<00:02:29,069><c> right</c><00:02:29,459><c> that's</c><00:02:29,819><c> not</c><00:02:30,360><c> easy</c><00:02:30,660><c> to</c><00:02:30,720><c> do</c><00:02:31,020><c> I</c>
+
+00:02:31,170 --> 00:02:34,140 align:start position:19%
+couldn't<00:02:31,560><c> do</c><00:02:31,650><c> it</c>
+
+00:02:32,130 --> 00:02:40,350 align:start position:19%
+that's<00:02:32,340><c> really</c><00:02:32,640><c> amazing</c><c,colorE5E5E5><00:02:32,880><c> thank</c><00:02:33,780><c> you</c><00:02:33,840><c> honey</c></c>
+
+00:02:34,140 --> 00:02:42,810 align:start position:19%
+<c,colorE5E5E5>and<00:02:36,600><c> i</c><00:02:36,989><c> have</c><00:02:37,230><c> my</c><00:02:37,410><c> boy</c></c><c,colorCCCCCC><00:02:37,769><c> Eric</c><00:02:38,910><c> and</c></c><c,colorE5E5E5><00:02:39,930><c> his</c><00:02:39,989><c> great</c></c>
+
+00:02:40,350 --> 00:02:48,810 align:start position:19%
+wife<00:02:40,860><c> Laura</c><00:02:41,310><c> who</c><00:02:41,519><c> comes</c><00:02:42,000><c> from</c><00:02:42,090><c> this</c><00:02:42,330><c> area</c>
+
+00:02:42,810 --> 00:02:51,150 align:start position:19%
+right<c,colorE5E5E5><00:02:43,110><c> right</c><00:02:44,250><c> alongside</c></c><c,colorCCCCCC><00:02:44,640><c> haha</c><00:02:46,050><c> and</c><00:02:48,450><c> we</c><00:02:48,569><c> have</c><00:02:48,720><c> a</c></c>
+
+00:02:48,810 --> 00:02:51,989 align:start position:19%
+very<00:02:48,989><c> very</c><00:02:49,319><c> powerful</c><c,colorE5E5E5><00:02:49,620><c> man</c><00:02:50,130><c> who</c></c><c,colorCCCCCC><00:02:50,310><c> here</c><00:02:50,610><c> is</c><00:02:50,790><c> doing</c></c>
+
+00:02:51,150 --> 00:02:53,790 align:start position:19%
+very<00:02:51,239><c> well</c>
+
+00:02:51,989 --> 00:03:04,720 align:start position:19%
+is<00:02:52,110><c> it</c><00:02:52,260><c> working</c><c,colorCCCCCC><00:02:52,500><c> out</c><00:02:52,739><c> well</c><00:02:53,550><c> come</c><00:02:53,670><c> here</c></c>
+
+00:02:53,790 --> 00:03:11,620 align:start position:19%
+governor
+
+00:03:04,720 --> 00:03:13,960 align:start position:19%
+<c,colorE5E5E5>he's<00:03:05,290><c> been</c><00:03:05,440><c> loyal</c><00:03:05,980><c> to</c></c><c,colorCCCCCC><00:03:06,160><c> trump</c><00:03:06,700><c> from</c><00:03:07,150><c> day</c></c><c,colorE5E5E5><00:03:07,360><c> one</c><00:03:08,020><c> we</c></c>
+
+00:03:11,620 --> 00:03:17,560 align:start position:19%
+needed<00:03:11,980><c> outsider</c><00:03:12,790><c> to</c><c,colorE5E5E5><00:03:12,910><c> clean</c><00:03:13,180><c> up</c></c><c,colorCCCCCC><00:03:13,360><c> washington</c></c>
+
+00:03:13,960 --> 00:03:20,980 align:start position:19%
+<c,colorE5E5E5>DC</c><c,colorCCCCCC><00:03:14,350><c> just</c><00:03:16,120><c> like</c><00:03:16,420><c> we</c></c><c,colorE5E5E5><00:03:16,570><c> have</c><00:03:16,780><c> an</c><00:03:16,840><c> outsider</c><00:03:17,500><c> to</c></c>
+
+00:03:17,560 --> 00:03:23,020 align:start position:19%
+<c,colorE5E5E5>clean<00:03:17,920><c> up</c></c><c,colorCCCCCC><00:03:18,130><c> raleigh</c><00:03:18,580><c> north</c><00:03:18,700><c> carolina</c><00:03:18,940><c> this</c></c><c,colorE5E5E5><00:03:20,800><c> is</c></c>
+
+00:03:20,980 --> 00:03:24,910 align:start position:19%
+the<00:03:21,070><c> best</c><00:03:21,430><c> of</c><00:03:21,610><c> America</c><00:03:22,150><c> god</c><00:03:22,450><c> bless</c><c,colorCCCCCC><00:03:22,810><c> you</c><00:03:22,960><c> all</c></c>
+
+00:03:23,020 --> 00:03:30,010 align:start position:19%
+<c,colorCCCCCC>thank<00:03:23,260><c> you</c><00:03:23,560><c> very</c><00:03:23,770><c> much</c></c>
+
+00:03:24,910 --> 00:03:33,610 align:start position:19%
+he's<00:03:28,390><c> a</c><00:03:28,450><c> fantastic</c><00:03:28,780><c> guy</c><00:03:29,260><c> he's</c><00:03:29,680><c> been</c><00:03:29,890><c> there</c>
+
+00:03:30,010 --> 00:03:36,730 align:start position:19%
+from<00:03:30,130><c> day</c><00:03:30,280><c> one</c><00:03:30,670><c> to</c><00:03:30,760><c> believe</c><00:03:31,060><c> me</c><00:03:31,330><c> so</c><c,colorCCCCCC><00:03:33,400><c> I</c><00:03:33,520><c> just</c></c>
+
+00:03:33,610 --> 00:03:40,990 align:start position:19%
+<c,colorE5E5E5>want<00:03:34,030><c> to</c><00:03:34,060><c> thank</c><00:03:34,150><c> everybody</c><00:03:34,750><c> for</c><00:03:36,310><c> being</c><00:03:36,430><c> here</c></c>
+
+00:03:36,730 --> 00:03:43,450 align:start position:19%
+<c,colorE5E5E5>it's<00:03:38,350><c> a</c><00:03:38,530><c> an</c><00:03:39,580><c> amazing</c><00:03:40,060><c> situation</c><00:03:40,750><c> that</c><00:03:40,870><c> we're</c></c>
+
+00:03:40,990 --> 00:03:45,970 align:start position:19%
+going<c,colorE5E5E5><00:03:41,140><c> through</c><00:03:41,320><c> but</c></c><c,colorCCCCCC><00:03:42,459><c> i</c><00:03:42,550><c> can</c></c><c,colorE5E5E5><00:03:42,730><c> tell</c><00:03:42,940><c> you</c><00:03:43,030><c> we</c><00:03:43,330><c> are</c></c>
+
+00:03:43,450 --> 00:03:49,900 align:start position:19%
+going<00:03:43,900><c> to</c><00:03:44,020><c> win</c><00:03:44,200><c> and</c><00:03:44,560><c> we're</c><c,colorCCCCCC><00:03:44,680><c> gonna</c></c><c,colorE5E5E5><00:03:44,800><c> win</c><00:03:45,040><c> big</c></c>
+
+00:03:45,970 --> 00:03:52,150 align:start position:19%
+<c,colorCCCCCC>Hillary<00:03:48,760><c> Clinton</c><00:03:49,150><c> is</c><00:03:49,209><c> all</c><00:03:49,510><c> of</c><00:03:49,690><c> these</c></c>
+
+00:03:49,900 --> 00:03:55,690 align:start position:19%
+celebrities<00:03:50,680><c> and</c><00:03:50,830><c> failed</c><00:03:51,250><c> politicians</c><00:03:52,030><c> out</c>
+
+00:03:52,150 --> 00:03:57,670 align:start position:19%
+campaigning<00:03:53,320><c> for</c><00:03:53,470><c> her</c><00:03:53,680><c> and</c><00:03:54,610><c> she</c><00:03:54,700><c> has</c><00:03:55,030><c> crowd</c><00:03:55,450><c> so</c>
+
+00:03:55,690 --> 00:04:00,820 align:start position:19%
+much<00:03:55,959><c> smaller</c><00:03:56,470><c> than</c><00:03:56,500><c> ours</c><c,colorCCCCCC><00:03:56,860><c> i</c><00:03:56,950><c> just</c><00:03:57,250><c> have</c><00:03:57,430><c> me</c></c>
+
+00:03:57,670 --> 00:04:06,610 align:start position:19%
+but<00:03:58,030><c> I</c><00:03:58,120><c> have</c><00:03:58,180><c> my</c><00:03:58,390><c> family</c><c,colorE5E5E5><00:03:59,050><c> I</c><00:03:59,650><c> have</c><00:03:59,890><c> my</c><00:04:00,100><c> family</c></c>
+
+00:04:00,820 --> 00:04:09,370 align:start position:19%
+<c,colorE5E5E5>I've<00:04:02,140><c> had</c><00:04:02,530><c> Erik</c><00:04:03,220><c> and</c><00:04:04,090><c> Laura</c><00:04:04,240><c> and</c><00:04:05,380><c> don</c><00:04:05,860><c> don</c><00:04:06,220><c> jr</c></c>
+
+00:04:06,610 --> 00:04:12,580 align:start position:19%
+and<c,colorCCCCCC><00:04:07,480><c> ivanka</c><00:04:07,990><c> nobody's</c><00:04:08,410><c> ever</c><00:04:08,620><c> heard</c><00:04:08,769><c> of</c><00:04:08,890><c> a</c><00:04:09,010><c> vaca</c></c>
+
+00:04:09,370 --> 00:04:15,280 align:start position:19%
+<c,colorE5E5E5>and</c><c,colorCCCCCC><00:04:09,970><c> Tiffany</c></c><c,colorE5E5E5><00:04:10,660><c> every</c><00:04:11,380><c> one</c><00:04:11,680><c> of</c><00:04:11,800><c> them</c><00:04:11,920><c> now</c></c><c,colorCCCCCC><00:04:12,070><c> Baron</c></c>
+
+00:04:12,580 --> 00:04:17,019 align:start position:19%
+<c,colorCCCCCC>somedays<00:04:13,209><c> a</c></c><c,colorE5E5E5><00:04:13,269><c> little</c><00:04:13,510><c> young</c><00:04:13,780><c> but</c><00:04:14,650><c> i</c><00:04:14,920><c> will</c><00:04:15,130><c> tell</c></c>
+
+00:04:15,280 --> 00:04:18,910 align:start position:19%
+you<00:04:15,519><c> I've</c><00:04:15,730><c> had</c><00:04:15,820><c> my</c><00:04:16,060><c> family</c><00:04:16,510><c> they've</c><00:04:16,720><c> been</c><00:04:16,840><c> all</c>
+
+00:04:17,019 --> 00:04:19,989 align:start position:19%
+over<00:04:17,169><c> and</c><c,colorE5E5E5><00:04:17,530><c> Mike</c><00:04:17,709><c> Pence</c><00:04:18,040><c> has</c><00:04:18,160><c> been</c><00:04:18,430><c> incredible</c></c>
+
+00:04:18,910 --> 00:04:23,169 align:start position:19%
+<c,colorE5E5E5>to</c><c,colorCCCCCC><00:04:19,000><c> buy</c><00:04:19,299><c> the</c></c><c,colorE5E5E5><00:04:19,450><c> world</c></c>
+
+00:04:19,989 --> 00:04:25,690 align:start position:19%
+<c,colorCCCCCC>I'll<00:04:20,290><c> tell</c><00:04:20,560><c> you</c></c><c,colorE5E5E5><00:04:20,680><c> he's</c><00:04:21,609><c> been</c><00:04:21,790><c> incredible</c></c><c,colorCCCCCC><00:04:21,970><c> in</c></c>
+
+00:04:23,169 --> 00:04:29,890 align:start position:19%
+three<c,colorE5E5E5><00:04:23,530><c> days</c><00:04:24,040><c> we</c><00:04:24,190><c> are</c><00:04:24,430><c> going</c><00:04:24,850><c> to</c><00:04:24,970><c> win</c><00:04:25,120><c> the</c><00:04:25,360><c> great</c></c>
+
+00:04:25,690 --> 00:04:34,930 align:start position:19%
+state<00:04:25,990><c> of</c><00:04:26,200><c> North</c><00:04:26,440><c> Carolina</c><00:04:26,650><c> and</c><00:04:29,229><c> we</c><00:04:29,380><c> are</c><00:04:29,560><c> going</c>
+
+00:04:29,890 --> 00:04:37,840 align:start position:19%
+to<00:04:30,070><c> win</c><00:04:30,340><c> back</c><00:04:30,820><c> the</c><c,colorE5E5E5><00:04:31,000><c> White</c><00:04:31,300><c> House</c><00:04:31,660><c> real</c><00:04:34,240><c> change</c></c>
+
+00:04:34,930 --> 00:04:45,940 align:start position:19%
+begins<00:04:35,260><c> with</c><00:04:35,979><c> immediately</c><00:04:37,030><c> immediately</c>
+
+00:04:37,840 --> 00:04:47,919 align:start position:19%
+<c,colorCCCCCC>repealing<00:04:40,030><c> and</c><00:04:40,510><c> replacing</c><00:04:40,630><c> Obamacare</c></c><c,colorE5E5E5><00:04:42,700><c> it's</c></c>
+
+00:04:45,940 --> 00:04:49,690 align:start position:19%
+just<00:04:46,330><c> been</c><00:04:46,479><c> announced</c><00:04:46,690><c> that</c><00:04:47,110><c> the</c><00:04:47,260><c> residents</c>
+
+00:04:47,919 --> 00:04:53,440 align:start position:19%
+of<00:04:47,950><c> North</c><00:04:48,190><c> Carolina</c><00:04:49,000><c> are</c><00:04:49,210><c> going</c><00:04:49,540><c> to</c>
+
+00:04:49,690 --> 00:04:57,130 align:start position:19%
+experience<00:04:50,020><c> massive</c><c,colorCCCCCC><00:04:51,070><c> double-digit</c></c><c,colorE5E5E5><00:04:52,060><c> premium</c></c>
+
+00:04:53,440 --> 00:04:58,810 align:start position:19%
+hikes<c,colorCCCCCC><00:04:53,710><c> so</c><00:04:54,220><c> high</c></c><c,colorE5E5E5><00:04:54,550><c> and</c><00:04:56,050><c> I</c><00:04:56,110><c> say</c><00:04:56,320><c> this</c><00:04:56,530><c> to</c><00:04:56,740><c> all</c><00:04:56,860><c> the</c></c>
+
+00:04:57,130 --> 00:05:00,070 align:start position:19%
+<c,colorCCCCCC>groups<00:04:57,430><c> because</c><00:04:57,580><c> it's</c><00:04:57,760><c> also</c><00:04:58,000><c> hired</c><00:04:58,479><c> certain</c></c>
+
+00:04:58,810 --> 00:05:02,500 align:start position:19%
+<c,colorCCCCCC>pressing<00:04:59,229><c> I</c></c><c,colorE5E5E5><00:04:59,320><c> don't</c><00:04:59,470><c> want</c><00:04:59,590><c> to</c><00:04:59,650><c> tell</c></c><c,colorCCCCCC><00:04:59,830><c> him</c></c><c,colorE5E5E5><00:04:59,919><c> what</c></c>
+
+00:05:00,070 --> 00:05:05,200 align:start position:19%
+it<c,colorCCCCCC><00:05:00,160><c> is</c></c><c,colorE5E5E5><00:05:00,400><c> so</c></c><c,colorCCCCCC><00:05:01,300><c> i</c></c><c,colorE5E5E5><00:05:01,360><c> won't</c><00:05:01,660><c> tell</c><00:05:01,810><c> you</c><00:05:01,990><c> because</c><00:05:02,050><c> right</c></c>
+
+00:05:02,500 --> 00:05:06,550 align:start position:19%
+now<00:05:02,590><c> you're</c><00:05:02,890><c> happy</c><c,colorE5E5E5><00:05:03,370><c> and</c><00:05:04,300><c> you'd</c><00:05:04,479><c> be</c><00:05:04,540><c> very</c><00:05:04,720><c> said</c></c>
+
+00:05:05,200 --> 00:05:10,150 align:start position:19%
+<c,colorCCCCCC>you<00:05:05,350><c> probably</c><00:05:05,530><c> turn</c><00:05:05,919><c> your</c><00:05:06,070><c> head</c><00:05:06,220><c> down</c><00:05:06,400><c> and</c></c>
+
+00:05:06,550 --> 00:05:13,060 align:start position:19%
+<c,colorE5E5E5>start<00:05:06,910><c> leaving</c><00:05:07,150><c> but</c><00:05:08,110><c> it's</c><00:05:08,290><c> bad</c><00:05:08,680><c> in</c><00:05:09,790><c> the</c><00:05:09,880><c> great</c></c>
+
+00:05:10,150 --> 00:05:15,940 align:start position:19%
+state<00:05:10,300><c> of</c><c,colorCCCCCC><00:05:10,540><c> Arizona</c><00:05:11,380><c> as</c><00:05:11,560><c> an</c><00:05:11,680><c> example</c><00:05:12,190><c> premiums</c></c>
+
+00:05:13,060 --> 00:05:21,820 align:start position:19%
+are<00:05:13,180><c> going</c><00:05:13,479><c> up</c><00:05:13,660><c> more</c><00:05:14,229><c> than</c><c,colorE5E5E5><00:05:14,380><c> one</c><00:05:14,860><c> hundred</c><00:05:15,250><c> and</c></c>
+
+00:05:15,940 --> 00:05:25,360 align:start position:19%
+<c,colorE5E5E5>sixteen<00:05:16,599><c> percent</c><00:05:16,990><c> 95</c><00:05:19,660><c> of</c><00:05:19,960><c> 100</c><00:05:20,830><c> north</c><00:05:21,160><c> carolina</c></c>
+
+00:05:21,820 --> 00:05:28,030 align:start position:19%
+counties<c,colorE5E5E5><00:05:22,060><c> will</c><00:05:23,260><c> only</c><00:05:23,560><c> have</c><00:05:23,890><c> one</c><00:05:24,220><c> insurer</c><00:05:24,640><c> in</c></c>
+
+00:05:25,360 --> 00:05:31,419 align:start position:19%
+the<00:05:25,479><c> obamacare</c><00:05:26,320><c> exchange</c><00:05:27,010><c> next</c><00:05:27,400><c> year</c><00:05:27,580><c> lots</c><00:05:27,940><c> of</c>
+
+00:05:28,030 --> 00:05:33,820 align:start position:19%
+luck<00:05:28,240><c> with</c><00:05:28,390><c> that</c><00:05:28,419><c> negotiation</c><c,colorE5E5E5><00:05:29,470><c> premiums</c><00:05:31,240><c> is</c></c>
+
+00:05:31,419 --> 00:05:36,550 align:start position:19%
+searching<00:05:32,020><c> companies</c><00:05:32,620><c> are</c><00:05:32,740><c> leaving</c><00:05:33,190><c> insurers</c>
+
+00:05:33,820 --> 00:05:39,520 align:start position:19%
+are<00:05:33,910><c> fleeing</c><00:05:34,360><c> doctors</c><00:05:34,990><c> are</c><00:05:35,200><c> quitting</c><00:05:35,620><c> and</c>
+
+00:05:36,550 --> 00:05:42,849 align:start position:19%
+deductibles<00:05:37,510><c> are</c><00:05:37,660><c> going</c><00:05:38,200><c> through</c><00:05:39,220><c> the</c><00:05:39,310><c> roof</c>
+
+00:05:39,520 --> 00:05:45,340 align:start position:19%
+yet<c,colorCCCCCC><00:05:40,960><c> Hillary</c><00:05:41,349><c> Clinton</c></c><c,colorE5E5E5><00:05:41,770><c> wants</c><00:05:42,130><c> to</c><00:05:42,250><c> double</c><00:05:42,640><c> down</c></c>
+
+00:05:42,849 --> 00:05:47,680 align:start position:19%
+and<c,colorCCCCCC><00:05:43,120><c> Obamacare</c></c><c,colorE5E5E5><00:05:43,840><c> making</c><00:05:44,800><c> it</c><00:05:44,919><c> even</c><00:05:45,130><c> more</c></c>
+
+00:05:45,340 --> 00:05:50,620 align:start position:19%
+expensive<00:05:45,880><c> and</c><00:05:46,390><c> in</c><00:05:46,539><c> fact</c><00:05:46,840><c> much</c><00:05:47,289><c> more</c>
+
+00:05:47,680 --> 00:05:53,349 align:start position:19%
+expensive<c,colorCCCCCC><00:05:48,039><c> i'm</c><00:05:49,300><c> asking</c><00:05:49,900><c> you</c><00:05:49,990><c> for</c><00:05:50,289><c> your</c><00:05:50,349><c> vote</c></c>
+
+00:05:50,620 --> 00:05:56,020 align:start position:19%
+so<00:05:50,950><c> we</c><00:05:51,099><c> can</c><00:05:51,340><c> repeal</c><00:05:51,880><c> and</c><00:05:52,000><c> replace</c><c,colorE5E5E5><00:05:52,090><c> Obamacare</c></c>
+
+00:05:53,349 --> 00:06:00,550 align:start position:19%
+and<c,colorE5E5E5><00:05:53,530><c> save</c></c><c,colorCCCCCC><00:05:53,830><c> healthcare</c><00:05:54,460><c> not</c><00:05:55,090><c> only</c><00:05:55,450><c> for</c><00:05:55,690><c> North</c></c>
+
+00:05:56,020 --> 00:06:03,789 align:start position:19%
+<c,colorCCCCCC>Carolina</c><c,colorE5E5E5><00:05:56,200><c> but</c><00:05:56,830><c> for</c><00:05:57,070><c> the</c><00:05:57,160><c> country</c></c><c,colorCCCCCC><00:05:57,640><c> some</c><00:05:58,539><c> s</c><00:05:58,840><c> real</c></c>
+
+00:06:00,550 --> 00:06:07,300 align:start position:19%
+change<00:06:01,240><c> also</c><00:06:01,599><c> means</c><00:06:02,229><c> restoring</c><00:06:02,470><c> honesty</c><00:06:03,580><c> to</c>
+
+00:06:03,789 --> 00:06:10,690 align:start position:19%
+government<00:06:04,419><c> as</c><00:06:05,470><c> you</c><00:06:05,740><c> know</c><00:06:05,919><c> the</c><00:06:06,250><c> FBI</c><00:06:06,550><c> has</c>
+
+00:06:07,300 --> 00:06:28,670 align:start position:19%
+reopened<00:06:07,570><c> its</c><00:06:08,110><c> criminal</c><00:06:08,560><c> investigation</c><00:06:09,640><c> of</c>
+
+00:06:10,690 --> 00:06:35,120 align:start position:19%
+<c,colorCCCCCC>Hillary</c>
+
+00:06:28,670 --> 00:06:37,400 align:start position:19%
+<c,colorCCCCCC>they're<00:06:32,270><c> also</c></c><c,colorE5E5E5><00:06:32,630><c> conducting</c><00:06:33,590><c> a</c><00:06:34,460><c> second</c></c>
+
+00:06:35,120 --> 00:06:39,560 align:start position:19%
+criminal<00:06:35,630><c> investigation</c><00:06:36,620><c> into</c><c,colorCCCCCC><00:06:36,890><c> Hillary's</c></c>
+
+00:06:37,400 --> 00:06:43,700 align:start position:19%
+pay-for-play<00:06:38,150><c> corruption</c><00:06:38,990><c> at</c><00:06:39,140><c> the</c><c,colorCCCCCC><00:06:39,200><c> State</c></c>
+
+00:06:39,560 --> 00:06:48,140 align:start position:19%
+<c,colorCCCCCC>Department</c><c,colorE5E5E5><00:06:39,650><c> it</c><00:06:42,260><c> has</c><00:06:42,410><c> just</c><00:06:42,740><c> been</c><00:06:42,860><c> confirmed</c></c>
+
+00:06:43,700 --> 00:06:50,420 align:start position:19%
+that<00:06:44,630><c> the</c><00:06:44,780><c> 650,000</c><00:06:46,730><c> emails</c><00:06:47,240><c> they</c><00:06:47,390><c> discovered</c>
+
+00:06:48,140 --> 00:06:55,220 align:start position:19%
+that<00:06:48,290><c> weren't</c><00:06:48,740><c> turned</c><00:06:49,010><c> in</c><00:06:49,160><c> by</c><00:06:49,340><c> the</c><00:06:49,430><c> way</c><00:06:49,700><c> they</c>
+
+00:06:50,420 --> 00:07:02,120 align:start position:19%
+discovered<00:06:51,170><c> them</c><c,colorCCCCCC><00:06:51,470><c> thank</c><00:06:52,370><c> you</c><00:06:52,580><c> to</c></c><c,colorE5E5E5><00:06:52,850><c> mr,</c></c><c,colorCCCCCC><00:06:53,900><c> Anthony</c></c>
+
+00:06:55,220 --> 00:07:04,220 align:start position:19%
+<c,colorCCCCCC>Weiner</c><c,colorE5E5E5><00:06:56,210><c> include</c><00:07:00,710><c> brand</c><00:07:01,160><c> new</c><00:07:01,280><c> emails</c><00:07:01,910><c> not</c></c>
+
+00:07:02,120 --> 00:07:09,560 align:start position:19%
+previously<00:07:02,750><c> turned</c><00:07:03,560><c> over</c><00:07:03,770><c> to</c><00:07:03,950><c> authorities</c>
+
+00:07:04,220 --> 00:07:13,100 align:start position:19%
+<c,colorE5E5E5>likely<00:07:06,290><c> including</c></c><c,colorCCCCCC><00:07:07,010><c> even</c><00:07:07,760><c> more</c><00:07:08,150><c> classified</c></c>
+
+00:07:09,560 --> 00:07:17,210 align:start position:19%
+information<00:07:10,280><c> and</c><c,colorCCCCCC><00:07:11,060><c> may</c><00:07:11,210><c> be</c></c><c,colorE5E5E5><00:07:11,480><c> classified</c></c><c,colorCCCCCC><00:07:12,170><c> at</c><00:07:13,040><c> the</c></c>
+
+00:07:13,100 --> 00:07:19,460 align:start position:19%
+highest<00:07:13,220><c> highest</c><00:07:14,060><c> level</c><c,colorCCCCCC><00:07:14,810><c> how</c></c><c,colorE5E5E5><00:07:15,500><c> said</c><00:07:15,980><c> however</c></c>
+
+00:07:17,210 --> 00:07:21,440 align:start position:19%
+<c,colorE5E5E5>the<00:07:17,480><c> reports</c><00:07:18,050><c> also</c><00:07:18,320><c> show</c><00:07:18,740><c> that</c><00:07:18,950><c> the</c><00:07:19,190><c> political</c></c>
+
+00:07:19,460 --> 00:07:25,910 align:start position:19%
+leadership<00:07:19,910><c> at</c><00:07:20,450><c> the</c><00:07:20,660><c> Department</c><00:07:21,290><c> of</c><00:07:21,320><c> Justice</c>
+
+00:07:21,440 --> 00:07:30,080 align:start position:19%
+is<00:07:22,670><c> trying</c><00:07:22,760><c> very</c><00:07:23,300><c> hard</c><c,colorE5E5E5><00:07:23,630><c> as</c><00:07:24,890><c> hard</c><00:07:25,370><c> as</c><00:07:25,520><c> they</c><00:07:25,670><c> can</c></c>
+
+00:07:25,910 --> 00:07:33,169 align:start position:19%
+to<00:07:26,480><c> protect</c><c,colorCCCCCC><00:07:27,350><c> Hillary</c></c><c,colorE5E5E5><00:07:28,310><c> Clinton</c></c>
+
+00:07:30,080 --> 00:07:35,780 align:start position:19%
+<c,colorCCCCCC>think<00:07:30,560><c> of</c><00:07:30,710><c> it</c><00:07:30,740><c> I</c><00:07:31,430><c> think</c><00:07:31,490><c> of</c><00:07:31,759><c> it</c></c><c,colorE5E5E5><00:07:31,909><c> you</c><00:07:32,930><c> have</c><00:07:33,050><c> a</c></c>
+
+00:07:33,169 --> 00:07:39,050 align:start position:19%
+<c,colorE5E5E5>great</c><c,colorCCCCCC><00:07:33,500><c> four</c><00:07:33,740><c> star</c><00:07:34,099><c> general</c><00:07:34,159><c> that</c><00:07:34,729><c> right</c><00:07:35,000><c> now</c></c>
+
+00:07:35,780 --> 00:07:40,219 align:start position:19%
+current<c,colorCCCCCC><00:07:36,229><c> a</c><00:07:36,530><c> current</c><00:07:37,009><c> four-star</c></c><c,colorE5E5E5><00:07:37,520><c> general</c><00:07:38,000><c> that</c></c>
+
+00:07:39,050 --> 00:07:43,699 align:start position:19%
+right<00:07:39,379><c> now</c>
+
+00:07:40,219 --> 00:07:46,310 align:start position:19%
+general<00:07:40,550><c> Cartwright</c><c,colorE5E5E5><00:07:40,939><c> james</c><00:07:41,960><c> Cartwright</c><00:07:42,590><c> is</c></c>
+
+00:07:43,699 --> 00:07:48,740 align:start position:19%
+possibly<00:07:44,569><c> going</c><00:07:44,900><c> to</c><00:07:45,080><c> be</c><00:07:45,289><c> serving</c><00:07:45,800><c> as</c><00:07:45,889><c> much</c><00:07:46,129><c> as</c>
+
+00:07:46,310 --> 00:07:52,009 align:start position:19%
+five<00:07:46,610><c> years</c><00:07:46,909><c> in</c><00:07:47,060><c> jail</c>
+
+00:07:48,740 --> 00:07:54,199 align:start position:19%
+<c,colorE5E5E5>General<00:07:49,250><c> Petraeus</c></c><c,colorCCCCCC><00:07:49,370><c> great</c><00:07:50,479><c> general</c><00:07:50,960><c> his</c><00:07:51,740><c> life</c></c>
+
+00:07:52,009 --> 00:07:56,060 align:start position:19%
+was<00:07:52,250><c> destroyed</c><c,colorCCCCCC><00:07:52,610><c> young</c><00:07:53,509><c> man</c><00:07:53,810><c> took</c><00:07:53,960><c> some</c></c>
+
+00:07:54,199 --> 00:07:58,400 align:start position:19%
+pictures<00:07:54,469><c> of</c><00:07:54,740><c> a</c><00:07:54,800><c> submarine</c><00:07:55,370><c> he's</c><00:07:55,520><c> in</c><00:07:55,669><c> jail</c><00:07:55,969><c> now</c>
+
+00:07:56,060 --> 00:08:01,099 align:start position:19%
+for<00:07:56,389><c> a</c><00:07:56,479><c> year</c><c,colorCCCCCC><00:07:56,719><c> I</c><00:07:57,379><c> watched</c><00:07:57,800><c> his</c><00:07:57,919><c> mother</c><00:07:58,280><c> the</c></c>
+
+00:07:58,400 --> 00:08:03,409 align:start position:19%
+other<00:07:58,580><c> night</c><00:07:59,030><c> and</c><c,colorCCCCCC><00:08:00,289><c> Hillary</c><00:08:00,680><c> Clinton's</c></c>
+
+00:08:01,099 --> 00:08:06,080 align:start position:19%
+running<00:08:01,430><c> for</c><c,colorE5E5E5><00:08:01,550><c> president</c><00:08:02,180><c> and</c><00:08:02,300><c> she's</c><00:08:02,629><c> done</c><00:08:02,870><c> 25</c></c>
+
+00:08:03,409 --> 00:08:12,199 align:start position:19%
+times<00:08:04,099><c> worse</c><00:08:04,400><c> than</c><00:08:04,490><c> any</c><00:08:04,940><c> of</c><00:08:05,150><c> them</c><00:08:05,270><c> or</c><00:08:05,690><c> all</c><00:08:05,870><c> of</c>
+
+00:08:06,080 --> 00:08:16,520 align:start position:19%
+them<00:08:06,139><c> put</c><00:08:06,379><c> together</c><c,colorCCCCCC><00:08:06,560><c> John</c><00:08:10,310><c> Podesta</c><00:08:10,729><c> her</c><00:08:11,419><c> boss</c></c>
+
+00:08:12,199 --> 00:08:19,370 align:start position:19%
+<c,colorE5E5E5>her<00:08:13,400><c> head</c><00:08:13,789><c> said</c><00:08:14,840><c> that</c><00:08:14,990><c> she</c><00:08:15,229><c> has</c><00:08:15,469><c> bad</c><00:08:15,860><c> instincts</c></c>
+
+00:08:16,520 --> 00:08:21,110 align:start position:19%
+<c,colorE5E5E5>pretty<00:08:17,629><c> bad</c><00:08:17,900><c> when</c><00:08:18,050><c> your</c><00:08:18,409><c> person</c><00:08:18,979><c> your</c><00:08:19,039><c> top</c></c>
+
+00:08:19,370 --> 00:08:23,479 align:start position:19%
+person<00:08:19,789><c> working</c><00:08:20,120><c> for</c><00:08:20,330><c> you</c><00:08:20,449><c> said</c><00:08:20,659><c> you</c><00:08:20,780><c> have</c><00:08:20,870><c> bad</c>
+
+00:08:21,110 --> 00:08:26,210 align:start position:19%
+instincts<c,colorE5E5E5><00:08:21,680><c> that</c><00:08:22,099><c> came</c><00:08:22,490><c> out</c><00:08:22,669><c> on</c></c><c,colorCCCCCC><00:08:22,819><c> Wikileaks</c></c>
+
+00:08:23,479 --> 00:08:29,029 align:start position:19%
+Bernie<00:08:24,650><c> Sanders</c><00:08:25,159><c> would</c><00:08:25,310><c> say</c><00:08:25,520><c> constantly</c>
+
+00:08:26,210 --> 00:08:32,329 align:start position:19%
+during<00:08:26,569><c> the</c><00:08:26,750><c> debates</c><00:08:27,349><c> which</c><00:08:28,189><c> by</c><00:08:28,370><c> the</c><00:08:28,520><c> way</c><00:08:28,550><c> she</c>
+
+00:08:29,029 --> 00:08:34,459 align:start position:19%
+received<00:08:29,659><c> the</c><00:08:30,259><c> questions</c><c,colorCCCCCC><00:08:30,860><c> nobody</c><00:08:31,729><c> ever</c><00:08:32,000><c> says</c></c>
+
+00:08:32,329 --> 00:08:37,459 align:start position:19%
+anything<00:08:32,419><c> about</c><c,colorCCCCCC><00:08:32,779><c> can</c><00:08:33,349><c> you</c><00:08:33,500><c> imagine</c><00:08:33,800><c> if</c><00:08:34,339><c> i</c></c>
+
+00:08:34,459 --> 00:08:40,610 align:start position:19%
+<c,colorE5E5E5>received<00:08:35,240><c> the</c><00:08:35,300><c> questions</c><00:08:35,990><c> to</c><00:08:36,740><c> the</c><00:08:36,890><c> debates</c></c>
+
+00:08:37,459 --> 00:08:43,789 align:start position:19%
+<c,colorE5E5E5>they<00:08:38,779><c> would</c><00:08:39,079><c> call</c><00:08:39,469><c> for</c><00:08:39,649><c> my</c><00:08:39,979><c> immediate</c></c>
+
+00:08:40,610 --> 00:08:47,029 align:start position:19%
+<c,colorE5E5E5>withdrawal</c><c,colorCCCCCC><00:08:41,089><c> you</c><00:08:42,709><c> don't</c><00:08:42,919><c> even</c><00:08:43,010><c> hear</c><00:08:43,250><c> about</c><00:08:43,399><c> it</c></c>
+
+00:08:43,789 --> 00:08:49,820 align:start position:19%
+from<00:08:43,909><c> you</c><00:08:45,740><c> don't</c><00:08:46,040><c> even</c><00:08:46,160><c> hear</c><00:08:46,459><c> about</c><00:08:46,579><c> it</c><c,colorE5E5E5><00:08:46,910><c> but</c></c>
+
+00:08:47,029 --> 00:08:52,310 align:start position:19%
+<c,colorE5E5E5>Bernie<00:08:47,360><c> Sanders</c></c><c,colorCCCCCC><00:08:47,870><c> said</c><00:08:48,050><c> she's</c><00:08:48,320><c> bad</c><00:08:49,190><c> bad</c></c>
+
+00:08:49,820 --> 00:08:53,360 align:start position:19%
+judgment<c,colorCCCCCC><00:08:50,510><c> she</c><00:08:51,199><c> does</c><00:08:51,529><c> just</c><00:08:51,680><c> take</c><00:08:51,949><c> a</c><00:08:52,010><c> look</c><00:08:52,130><c> at</c></c>
+
+00:08:52,310 --> 00:08:55,100 align:start position:19%
+what<00:08:52,339><c> she's</c><00:08:52,670><c> done</c>
+
+00:08:53,360 --> 00:08:57,170 align:start position:19%
+take<00:08:53,510><c> a</c><00:08:53,540><c> look</c><00:08:53,660><c> at</c><00:08:53,779><c> the</c><00:08:53,899><c> email</c><00:08:54,050><c> mess</c><00:08:54,860><c> how</c><c,colorE5E5E5><00:08:54,949><c> about</c></c>
+
+00:08:55,100 --> 00:08:58,279 align:start position:19%
+<c,colorE5E5E5>if<00:08:55,220><c> she's</c><00:08:55,430><c> running</c><00:08:55,730><c> the</c><00:08:55,790><c> country</c></c><c,colorCCCCCC><00:08:56,089><c> can't</c><00:08:56,990><c> even</c></c>
+
+00:08:57,170 --> 00:09:01,370 align:start position:19%
+run<00:08:57,350><c> an</c><c,colorE5E5E5><00:08:57,440><c> email</c></c>
+
+00:08:58,279 --> 00:09:03,170 align:start position:19%
+<c,colorCCCCCC>Hillary<00:08:59,300><c> created</c><00:08:59,899><c> an</c><00:09:00,050><c> illegal</c><00:09:00,529><c> email</c><00:09:00,890><c> server</c></c>
+
+00:09:01,370 --> 00:09:07,640 align:start position:19%
+to<00:09:01,459><c> shield</c><c,colorCCCCCC><00:09:01,970><c> their</c><00:09:02,060><c> criminal</c><00:09:02,480><c> activity</c><00:09:03,079><c> and</c></c>
+
+00:09:03,170 --> 00:09:11,300 align:start position:19%
+then<00:09:03,440><c> she</c><00:09:03,649><c> illegally</c><c,colorE5E5E5><00:09:04,010><c> destroyed</c><00:09:05,720><c> 33,000</c></c>
+
+00:09:07,640 --> 00:09:12,440 align:start position:19%
+emails<c,colorE5E5E5><00:09:08,149><c> after</c><00:09:08,899><c> receiving</c><00:09:09,740><c> a</c><00:09:10,190><c> congressional</c></c>
+
+00:09:11,300 --> 00:09:17,209 align:start position:19%
+subpoena
+
+00:09:12,440 --> 00:09:19,310 align:start position:19%
+<c,colorCCCCCC>I<00:09:13,430><c> mean</c><00:09:13,610><c> think</c><00:09:13,760><c> of</c><00:09:13,940><c> that</c><00:09:14,180><c> she</c><00:09:15,440><c> made</c><00:09:15,649><c> 13</c></c><c,colorE5E5E5><00:09:16,459><c> phones</c></c>
+
+00:09:17,209 --> 00:09:23,360 align:start position:19%
+disappear<00:09:17,870><c> somewhere</c><00:09:18,230><c> the</c><00:09:18,380><c> hammer</c>
+
+00:09:19,310 --> 00:09:27,020 align:start position:19%
+she<00:09:20,449><c> is</c><00:09:20,720><c> the</c><c,colorE5E5E5><00:09:20,810><c> most</c><00:09:21,019><c> corrupt</c><00:09:21,860><c> person</c><00:09:22,040><c> ever</c><00:09:23,180><c> to</c></c>
+
+00:09:23,360 --> 00:09:31,280 align:start position:19%
+seek<00:09:23,959><c> the</c><00:09:24,500><c> office</c><00:09:25,070><c> of</c><00:09:25,519><c> the</c><00:09:25,610><c> presidency</c>
+
+00:09:27,020 --> 00:09:35,780 align:start position:19%
+<c,colorE5E5E5>if<00:09:29,660><c> she</c><00:09:29,810><c> were</c><00:09:30,020><c> to</c><00:09:30,080><c> win</c><00:09:30,290><c> it</c><00:09:30,530><c> would</c><00:09:30,680><c> create</c><00:09:30,920><c> an</c></c>
+
+00:09:31,280 --> 00:09:37,790 align:start position:19%
+unprecedented<c,colorE5E5E5><00:09:32,300><c> constitutional</c><00:09:34,190><c> crisis</c><00:09:34,760><c> if</c></c>
+
+00:09:35,780 --> 00:09:40,130 align:start position:19%
+she<00:09:35,960><c> ever</c><00:09:36,140><c> got</c><00:09:36,440><c> into</c><00:09:36,770><c> the</c><00:09:36,950><c> Oval</c><00:09:37,250><c> Office</c>
+
+00:09:37,790 --> 00:09:42,860 align:start position:19%
+<c,colorCCCCCC>Hillary<00:09:38,180><c> under</c><00:09:38,360><c> special</c><00:09:38,750><c> interest</c></c><c,colorE5E5E5><00:09:39,500><c> would</c><00:09:39,650><c> rob</c></c>
+
+00:09:40,130 --> 00:09:43,760 align:start position:19%
+this<00:09:40,610><c> country</c><c,colorE5E5E5><00:09:41,570><c> blind</c><00:09:42,230><c> you've</c><00:09:42,350><c> seen</c><00:09:42,590><c> what's</c></c>
+
+00:09:42,860 --> 00:09:46,490 align:start position:19%
+happened
+
+00:09:43,760 --> 00:09:51,680 align:start position:19%
+the<00:09:44,300><c> Clinton</c><00:09:44,690><c> family</c><00:09:44,870><c> have</c><00:09:45,860><c> made</c><00:09:46,190><c> themselves</c>
+
+00:09:46,490 --> 00:09:55,520 align:start position:19%
+rich<00:09:47,120><c> by</c><00:09:48,230><c> being</c><00:09:48,410><c> in</c><00:09:48,710><c> politics</c><00:09:49,310><c> as</c><c,colorCCCCCC><00:09:50,960><c> President</c></c>
+
+00:09:51,680 --> 00:09:58,430 align:start position:19%
+<c,colorE5E5E5>Harry<00:09:52,130><c> Truman</c><00:09:52,190><c> once</c><00:09:53,330><c> said</c><00:09:53,840><c> you</c><00:09:54,470><c> can't</c><00:09:55,250><c> get</c></c>
+
+00:09:55,520 --> 00:10:01,010 align:start position:19%
+rich<00:09:55,940><c> in</c><00:09:56,150><c> politics</c><00:09:57,020><c> unless</c><00:09:57,680><c> you're</c><00:09:58,070><c> a</c><00:09:58,160><c> crook</c>
+
+00:09:58,430 --> 00:10:04,580 align:start position:19%
+which<00:09:58,640><c> is</c><00:09:58,850><c> an</c><00:09:59,000><c> interesting</c><c,colorCCCCCC><00:09:59,360><c> seventh</c></c><c,colorE5E5E5><00:10:00,170><c> harry</c></c>
+
+00:10:01,010 --> 00:10:06,950 align:start position:19%
+<c,colorE5E5E5>truman<00:10:01,700><c> my</c><00:10:02,870><c> contract</c><00:10:03,710><c> with</c><00:10:03,860><c> the</c></c><c,colorCCCCCC><00:10:03,980><c> American</c></c>
+
+00:10:04,580 --> 00:10:09,800 align:start position:19%
+voter<c,colorE5E5E5><00:10:04,940><c> begins</c><00:10:05,900><c> with</c><00:10:06,110><c> a</c><00:10:06,170><c> plan</c><00:10:06,680><c> to</c><00:10:06,740><c> end</c></c>
+
+00:10:06,950 --> 00:10:12,320 align:start position:19%
+government<00:10:07,760><c> corruption</c><00:10:08,060><c> and</c><00:10:08,930><c> to</c><00:10:09,080><c> take</c><00:10:09,530><c> our</c>
+
+00:10:09,800 --> 00:10:17,600 align:start position:19%
+country<00:10:10,100><c> back</c><00:10:10,430><c> from</c><00:10:11,210><c> the</c><00:10:11,480><c> special</c><00:10:11,960><c> interests</c>
+
+00:10:12,320 --> 00:10:19,190 align:start position:19%
+and<00:10:16,460><c> you</c><00:10:16,550><c> know</c><c,colorCCCCCC><00:10:16,670><c> I</c><00:10:16,700><c> used</c></c><c,colorE5E5E5><00:10:16,760><c> to</c><00:10:17,030><c> be</c><00:10:17,210><c> on</c><00:10:17,360><c> the</c><00:10:17,420><c> other</c></c>
+
+00:10:17,600 --> 00:10:23,240 align:start position:19%
+side<00:10:17,720><c> of</c><00:10:18,020><c> things</c><00:10:18,170><c> in</c><00:10:18,380><c> case</c><00:10:18,650><c> you</c><00:10:18,800><c> didn't</c><00:10:19,100><c> know</c>
+
+00:10:19,190 --> 00:10:26,420 align:start position:19%
+<c,colorE5E5E5>and</c><c,colorCCCCCC><00:10:20,300><c> I</c><00:10:20,420><c> let</c><00:10:20,660><c> a</c><00:10:20,690><c> very</c><00:10:20,990><c> nice</c><00:10:21,350><c> life</c><00:10:21,830><c> but</c><00:10:22,880><c> i</c></c><c,colorE5E5E5><00:10:22,940><c> also</c></c>
+
+00:10:23,240 --> 00:10:29,120 align:start position:19%
+love<00:10:23,630><c> our</c><00:10:23,780><c> country</c><00:10:24,050><c> and</c><00:10:25,520><c> this</c><00:10:25,670><c> was</c><00:10:25,910><c> an</c><00:10:26,060><c> easy</c>
+
+00:10:26,420 --> 00:10:31,610 align:start position:19%
+decision<c,colorCCCCCC><00:10:26,510><c> i</c><00:10:27,140><c> went</c><00:10:27,440><c> from</c><00:10:27,560><c> being</c><00:10:27,770><c> the</c><00:10:28,850><c> ultimate</c></c>
+
+00:10:29,120 --> 00:10:33,530 align:start position:19%
+insider<00:10:29,840><c> to</c><00:10:30,500><c> being</c><00:10:30,830><c> an</c><00:10:30,950><c> outsider</c><00:10:31,340><c> like</c>
+
+00:10:31,610 --> 00:10:35,960 align:start position:19%
+they've<00:10:31,970><c> never</c><00:10:32,030><c> seen</c><00:10:32,300><c> before</c><00:10:32,570><c> we</c><00:10:33,140><c> are</c><00:10:33,290><c> doing</c>
+
+00:10:33,530 --> 00:10:38,720 align:start position:19%
+so<00:10:33,830><c> well</c><00:10:34,010><c> this</c><00:10:34,310><c> is</c><00:10:34,520><c> a</c><00:10:34,610><c> movement</c><00:10:35,060><c> like</c><00:10:35,660><c> that</c>
+
+00:10:35,960 --> 00:10:42,620 align:start position:19%
+never<00:10:36,410><c> ever</c><00:10:37,310><c> seen</c><00:10:37,850><c> before</c>
+
+00:10:38,720 --> 00:10:45,200 align:start position:19%
+<c,colorE5E5E5>it<00:10:40,970><c> never</c><00:10:41,270><c> seen</c><00:10:41,630><c> anything</c><00:10:41,900><c> like</c><00:10:42,110><c> this</c><00:10:42,410><c> before</c></c>
+
+00:10:42,620 --> 00:10:47,630 align:start position:19%
+<c,colorCCCCCC>i<00:10:43,940><c> love</c><00:10:44,210><c> this</c><00:10:44,360><c> country</c></c>
+
+00:10:45,200 --> 00:10:50,810 align:start position:19%
+<c,colorCCCCCC>I<00:10:45,470><c> want</c><00:10:45,860><c> the</c><00:10:45,980><c> entire</c><00:10:46,130><c> corrupt</c><00:10:46,910><c> Washington</c></c>
+
+00:10:47,630 --> 00:10:54,290 align:start position:19%
+establishment<00:10:47,750><c> to</c><00:10:48,560><c> hear</c><00:10:48,800><c> the</c><00:10:48,950><c> words</c><c,colorE5E5E5><00:10:49,370><c> we</c><00:10:50,120><c> all</c></c>
+
+00:10:50,810 --> 00:10:56,870 align:start position:19%
+are<00:10:50,960><c> about</c><00:10:51,290><c> to</c><00:10:51,500><c> see</c><c,colorE5E5E5><00:10:51,710><c> when</c><00:10:53,240><c> we</c><00:10:53,420><c> win</c></c><c,colorCCCCCC><00:10:53,750><c> a</c><00:10:53,810><c> november</c></c>
+
+00:10:54,290 --> 00:11:04,340 align:start position:19%
+<c,colorE5E5E5>eight<00:10:54,590><c> we</c><00:10:54,800><c> are</c><00:10:54,980><c> going</c><00:10:55,460><c> to</c></c><c,colorCCCCCC><00:10:55,580><c> Washington</c></c><c,colorE5E5E5><00:10:56,390><c> and</c><00:10:56,660><c> we</c></c>
+
+00:10:56,870 --> 00:11:06,890 align:start position:19%
+will<00:10:57,260><c> drain</c><c,colorCCCCCC><00:10:58,070><c> la</c><00:10:58,640><c> soie</c></c><c,colorE5E5E5><00:10:59,810><c> cultural</c><00:11:01,460><c> so</c><00:11:03,680><c> true</c></c><c,colorCCCCCC><00:11:04,100><c> an</c></c>
+
+00:11:04,340 --> 00:11:09,620 align:start position:19%
+expression<c,colorCCCCCC><00:11:04,910><c> I've</c><00:11:05,030><c> gotten</c><00:11:05,360><c> to</c><00:11:05,390><c> like</c><00:11:05,630><c> at</c><00:11:06,800><c> the</c></c>
+
+00:11:06,890 --> 00:11:12,290 align:start position:19%
+core<00:11:07,190><c> of</c><00:11:07,250><c> my</c><00:11:07,460><c> contract</c><00:11:08,000><c> is</c><00:11:08,420><c> my</c><00:11:08,600><c> plan</c><00:11:09,140><c> to</c><00:11:09,320><c> bring</c>
+
+00:11:09,620 --> 00:11:15,710 align:start position:19%
+back<00:11:10,190><c> our</c><00:11:11,090><c> jobs</c>
+
+00:11:12,290 --> 00:11:18,980 align:start position:19%
+<c,colorCCCCCC>North<00:11:12,980><c> Carolina</c><00:11:13,700><c> has</c></c><c,colorE5E5E5><00:11:13,760><c> lost</c><00:11:14,540><c> nearly</c><00:11:14,600><c> half</c><00:11:15,650><c> of</c></c>
+
+00:11:15,710 --> 00:11:21,890 align:start position:19%
+its<00:11:15,980><c> manufacturing</c><c,colorE5E5E5><00:11:16,880><c> job</c><00:11:17,240><c> since</c></c><c,colorCCCCCC><00:11:17,540><c> NAFTA</c></c><c,colorE5E5E5><00:11:18,050><c> a</c><00:11:18,620><c> deal</c></c>
+
+00:11:18,980 --> 00:11:26,090 align:start position:19%
+signed<00:11:19,400><c> by</c><c,colorCCCCCC><00:11:19,580><c> bill</c><00:11:19,850><c> clinton</c><00:11:20,150><c> and</c><00:11:20,540><c> supported</c><00:11:21,110><c> by</c></c>
+
+00:11:21,890 --> 00:11:29,750 align:start position:19%
+crooked<00:11:22,340><c> Hillary</c><00:11:22,580><c> Clinton</c><c,colorCCCCCC><00:11:23,120><c> America</c><00:11:25,190><c> is</c></c><c,colorE5E5E5><00:11:25,490><c> lost</c></c>
+
+00:11:26,090 --> 00:11:32,390 align:start position:19%
+<c,colorCCCCCC>70,000<00:11:27,860><c> factory</c><00:11:28,400><c> since</c><00:11:28,670><c> China</c></c><c,colorE5E5E5><00:11:29,240><c> entered</c><00:11:29,660><c> the</c></c>
+
+00:11:29,750 --> 00:11:35,480 align:start position:19%
+<c,colorCCCCCC>World<00:11:30,050><c> Trade</c><00:11:30,260><c> Organization</c></c><c,colorE5E5E5><00:11:31,220><c> another</c><00:11:31,970><c> bill</c></c>
+
+00:11:32,390 --> 00:11:38,570 align:start position:19%
+and<c,colorE5E5E5><00:11:33,140><c> hillary</c></c><c,colorCCCCCC><00:11:33,320><c> back</c></c><c,colorE5E5E5><00:11:33,920><c> disaster</c></c>
+
+00:11:35,480 --> 00:11:40,120 align:start position:19%
+we're<00:11:36,410><c> living</c><00:11:36,800><c> through</c><00:11:36,890><c> the</c><00:11:37,190><c> greatest</c><00:11:37,430><c> jobs</c>
+
+00:11:38,570 --> 00:11:42,610 align:start position:19%
+<c,colorE5E5E5>theft<00:11:39,110><c> in</c><00:11:39,410><c> the</c><00:11:39,500><c> history</c></c>
+
+00:11:40,120 --> 00:11:45,760 align:start position:19%
+<c,colorE5E5E5>any<00:11:40,180><c> of</c><00:11:40,390><c> the</c><00:11:40,510><c> world</c><00:11:40,870><c> nobody</c><00:11:41,110><c> has</c><00:11:41,560><c> ever</c><00:11:41,950><c> taken</c></c>
+
+00:11:42,610 --> 00:11:48,430 align:start position:19%
+jobs<00:11:43,390><c> from</c><00:11:43,630><c> anyone</c><c,colorE5E5E5><00:11:44,110><c> like</c><00:11:44,860><c> other</c><00:11:45,190><c> countries</c></c>
+
+00:11:45,760 --> 00:11:51,400 align:start position:19%
+have<00:11:45,820><c> taken</c><00:11:46,240><c> our</c><00:11:46,510><c> jobs</c>
+
+00:11:48,430 --> 00:11:55,480 align:start position:19%
+thank<00:11:49,029><c> you</c><c,colorE5E5E5><00:11:49,150><c> i</c><00:11:49,240><c> love</c><00:11:49,270><c> you</c><00:11:49,540><c> too</c><00:11:49,930><c> rough</c><00:11:50,770><c> guy</c><00:11:50,920><c> he's</c></c>
+
+00:11:51,400 --> 00:11:58,720 align:start position:19%
+a<00:11:51,430><c> rough</c><00:11:51,700><c> sounding</c><00:11:52,120><c> guy</c><00:11:52,240><c> but</c><c,colorCCCCCC><00:11:52,450><c> i</c><00:11:52,510><c> do</c><00:11:52,690><c> love</c><00:11:52,870><c> him</c><00:11:53,080><c> I</c></c>
+
+00:11:55,480 --> 00:12:00,550 align:start position:19%
+do<c,colorE5E5E5><00:11:55,750><c> love</c><00:11:56,080><c> him</c><00:11:56,200><c> I</c><00:11:56,320><c> love</c><00:11:56,380><c> you</c><00:11:56,710><c> all</c></c>
+
+00:11:58,720 --> 00:12:07,990 align:start position:19%
+<c,colorCCCCCC>I<00:11:58,779><c> guess</c><00:11:59,140><c> that's</c></c><c,colorE5E5E5><00:11:59,290><c> why</c></c><c,colorCCCCCC><00:11:59,589><c> I'm</c><00:11:59,800><c> doing</c><00:11:59,950><c> this</c><00:12:00,250><c> I</c></c>
+
+00:12:00,550 --> 00:12:12,700 align:start position:19%
+guess<c,colorCCCCCC><00:12:01,000><c> right</c></c><c,colorE5E5E5><00:12:01,360><c> I</c><00:12:03,610><c> guess</c><00:12:04,210><c> pillow</c></c><c,colorCCCCCC><00:12:06,670><c> tex</c><00:12:07,180><c> laid</c><00:12:07,779><c> off</c></c>
+
+00:12:07,990 --> 00:12:16,300 align:start position:19%
+<c,colorE5E5E5>1125<00:12:10,810><c> workers</c><00:12:11,350><c> and</c><00:12:11,650><c> move</c><00:12:11,890><c> their</c><00:12:12,070><c> jobs</c><00:12:12,550><c> to</c></c>
+
+00:12:12,700 --> 00:12:19,600 align:start position:19%
+Mexico<00:12:13,300><c> and</c><00:12:14,170><c> other</c><00:12:14,260><c> countries</c><c,colorCCCCCC><00:12:14,680><c> freightliner</c></c>
+
+00:12:16,300 --> 00:12:22,660 align:start position:19%
+later<c,colorE5E5E5><00:12:16,660><c> 500</c><00:12:17,589><c> workers</c><00:12:17,980><c> in</c><00:12:18,220><c> mount</c><00:12:18,490><c> holly</c><00:12:18,580><c> and</c></c>
+
+00:12:19,600 --> 00:12:25,870 align:start position:19%
+move<00:12:19,839><c> their</c><00:12:20,050><c> jobs</c><00:12:20,529><c> to</c><c,colorCCCCCC><00:12:20,650><c> Mexico</c><00:12:21,250><c> brunswick</c></c>
+
+00:12:22,660 --> 00:12:29,620 align:start position:19%
+<c,colorCCCCCC>corporation<00:12:23,410><c> laid</c><00:12:23,650><c> off</c><00:12:23,800><c> 212</c><00:12:24,820><c> workers</c><00:12:25,300><c> and</c></c>
+
+00:12:25,870 --> 00:12:31,930 align:start position:19%
+move<00:12:26,080><c> their</c><00:12:26,290><c> jobs</c><00:12:26,830><c> to</c><c,colorE5E5E5><00:12:27,010><c> Mexico</c></c><c,colorCCCCCC><00:12:27,580><c> flextronics</c></c>
+
+00:12:29,620 --> 00:12:36,700 align:start position:19%
+<c,colorCCCCCC>I'm<00:12:30,700><c> not</c><00:12:30,850><c> gonna</c></c><c,colorE5E5E5><00:12:30,970><c> buy</c><00:12:31,120><c> their</c><00:12:31,300><c> product</c><00:12:31,750><c> anymore</c></c>
+
+00:12:31,930 --> 00:12:39,400 align:start position:19%
+<c,colorCCCCCC>laid<00:12:32,260><c> off</c></c><c,colorE5E5E5><00:12:32,529><c> 312</c><00:12:34,510><c> work</c><00:12:34,810><c> in</c></c><c,colorCCCCCC><00:12:35,110><c> charlotte</c><00:12:35,740><c> and</c><00:12:36,460><c> move</c></c>
+
+00:12:36,700 --> 00:12:41,980 align:start position:19%
+their<00:12:36,910><c> jobs</c><00:12:37,420><c> to</c><00:12:37,540><c> Mexico</c><c,colorE5E5E5><00:12:38,140><c> China</c><00:12:38,589><c> and</c><00:12:38,890><c> various</c></c>
+
+00:12:39,400 --> 00:12:44,080 align:start position:19%
+other<00:12:39,640><c> countries</c><00:12:40,210><c> and</c><00:12:41,140><c> many</c><00:12:41,290><c> many</c><00:12:41,620><c> more</c><00:12:41,740><c> we</c>
+
+00:12:41,980 --> 00:12:46,690 align:start position:19%
+could<00:12:42,100><c> go</c><00:12:42,250><c> on</c><00:12:42,430><c> all</c><00:12:42,490><c> day</c><00:12:42,640><c> long</c><00:12:42,940><c> with</c><00:12:43,240><c> that</c><00:12:43,300><c> a</c>
+
+00:12:44,080 --> 00:12:49,120 align:start position:19%
+trump<00:12:44,500><c> administration</c><00:12:45,490><c> will</c><00:12:45,670><c> stop</c><00:12:46,029><c> the</c><c,colorE5E5E5><00:12:46,209><c> jobs</c></c>
+
+00:12:46,690 --> 00:12:52,390 align:start position:19%
+from<00:12:46,839><c> leaving</c><c,colorE5E5E5><00:12:47,110><c> America</c><00:12:47,740><c> and</c><00:12:48,279><c> we</c><00:12:48,430><c> will</c><00:12:48,640><c> stop</c></c>
+
+00:12:49,120 --> 00:12:56,560 align:start position:19%
+the<00:12:49,480><c> jobs</c><00:12:50,080><c> from</c><00:12:50,560><c> leaving</c><00:12:50,920><c> North</c><00:12:51,640><c> Carolina</c>
+
+00:12:52,390 --> 00:12:59,589 align:start position:19%
+that<c,colorCCCCCC><00:12:52,600><c> i</c><00:12:52,750><c> can</c><00:12:52,959><c> tell</c><00:12:53,170><c> you</c><00:12:53,410><c> the</c><00:12:55,990><c> theft</c><00:12:56,500><c> of</c></c>
+
+00:12:56,560 --> 00:13:03,160 align:start position:19%
+American<00:12:57,430><c> prosperity</c><00:12:58,150><c> will</c><00:12:58,540><c> end</c><00:12:59,140><c> and</c><00:12:59,290><c> it</c><00:12:59,410><c> will</c>
+
+00:12:59,589 --> 00:13:05,170 align:start position:19%
+end<c,colorE5E5E5><00:12:59,680><c> immediately</c><00:13:00,400><c> upon</c><00:13:01,240><c> taking</c><00:13:01,630><c> office</c><00:13:01,750><c> if</c><00:13:03,070><c> a</c></c>
+
+00:13:03,160 --> 00:13:07,930 align:start position:19%
+company<00:13:03,640><c> wants</c><00:13:03,700><c> to</c><00:13:04,089><c> fire</c><00:13:04,480><c> their</c><00:13:04,720><c> workers</c>
+
+00:13:05,170 --> 00:13:11,110 align:start position:19%
+leave<c,colorE5E5E5><00:13:06,010><c> North</c><00:13:06,370><c> Carolina</c><00:13:07,120><c> moved</c><00:13:07,570><c> to</c><00:13:07,660><c> another</c></c>
+
+00:13:07,930 --> 00:13:14,529 align:start position:19%
+country<c,colorE5E5E5><00:13:08,470><c> and</c><00:13:09,910><c> then</c><00:13:10,180><c> ship</c><00:13:10,360><c> their</c><00:13:10,630><c> products</c></c>
+
+00:13:11,110 --> 00:13:18,790 align:start position:19%
+back<00:13:11,290><c> into</c><00:13:11,770><c> the</c><c,colorCCCCCC><00:13:11,890><c> United</c><00:13:12,160><c> States</c></c><c,colorE5E5E5><00:13:12,700><c> we</c><00:13:13,930><c> will</c><00:13:14,200><c> make</c></c>
+
+00:13:14,529 --> 00:13:22,240 align:start position:19%
+them<00:13:14,830><c> pay</c><00:13:15,040><c> a</c><00:13:15,490><c> tax</c><00:13:16,150><c> of</c><c,colorE5E5E5><00:13:16,300><c> thirty-five</c><00:13:17,350><c> percent</c></c>
+
+00:13:18,790 --> 00:13:24,160 align:start position:19%
+<c,colorE5E5E5>and<00:13:20,500><c> I'll</c><00:13:20,590><c> tell</c><00:13:20,680><c> you</c><00:13:20,860><c> what's</c><00:13:21,220><c> gonna</c><00:13:21,340><c> happen</c></c>
+
+00:13:22,240 --> 00:13:26,380 align:start position:19%
+<c,colorCCCCCC>they're<00:13:22,780><c> not</c><00:13:22,900><c> leaving</c></c><c,colorE5E5E5><00:13:23,740><c> they're</c><00:13:23,980><c> not</c><00:13:24,040><c> gonna</c></c>
+
+00:13:24,160 --> 00:13:28,120 align:start position:19%
+<c,colorE5E5E5>leave</c><c,colorCCCCCC><00:13:24,460><c> and</c></c><c,colorE5E5E5><00:13:25,300><c> for</c><00:13:25,450><c> the</c><00:13:25,540><c> ones</c><00:13:25,810><c> that</c><00:13:25,930><c> do</c><00:13:26,080><c> that's</c></c>
+
+00:13:26,380 --> 00:13:30,400 align:start position:19%
+<c,colorCCCCCC>okay<00:13:26,620><c> we'll</c><00:13:26,800><c> make</c></c><c,colorE5E5E5><00:13:26,950><c> a</c><00:13:27,100><c> fortune</c><00:13:27,280><c> when</c><00:13:27,700><c> they</c><00:13:27,850><c> sell</c></c>
+
+00:13:28,120 --> 00:13:33,190 align:start position:19%
+their<00:13:28,300><c> products</c><00:13:28,780><c> into</c><c,colorE5E5E5><00:13:28,990><c> the</c><00:13:29,140><c> schedule</c><00:13:29,470><c> but</c></c>
+
+00:13:30,400 --> 00:13:35,620 align:start position:19%
+they<00:13:30,520><c> won't</c><00:13:30,790><c> be</c><00:13:30,910><c> leaving</c><c,colorCCCCCC><00:13:31,180><c> North</c><00:13:31,600><c> Carolina</c></c><c,colorE5E5E5><00:13:32,230><c> it</c></c>
+
+00:13:33,190 --> 00:13:37,300 align:start position:19%
+<c,colorE5E5E5>in<00:13:33,370><c> so</c><00:13:33,580><c> quickly</c></c><c,colorCCCCCC><00:13:33,820><c> now</c><00:13:34,720><c> the</c><00:13:34,870><c> politicians</c></c>
+
+00:13:35,620 --> 00:13:38,500 align:start position:19%
+probably<00:13:36,220><c> knew</c><00:13:36,370><c> this</c><c,colorCCCCCC><00:13:36,550><c> i'm</c><00:13:36,760><c> sure</c><00:13:36,940><c> you've</c><00:13:37,180><c> never</c></c>
+
+00:13:37,300 --> 00:13:40,840 align:start position:19%
+heard<00:13:37,570><c> it</c><00:13:37,720><c> before</c>
+
+00:13:38,500 --> 00:13:43,300 align:start position:19%
+<c,colorE5E5E5>probably<00:13:38,950><c> have</c><00:13:39,160><c> it</c><00:13:39,310><c> but</c><00:13:40,150><c> you'll</c><00:13:40,330><c> stop</c><00:13:40,690><c> it</c></c>
+
+00:13:40,840 --> 00:13:46,840 align:start position:19%
+immediately<c,colorCCCCCC><00:13:40,960><c> the</c><00:13:41,860><c> outflow</c><00:13:42,340><c> of</c><00:13:42,460><c> jobs</c><00:13:42,970><c> from</c><00:13:43,150><c> our</c></c>
+
+00:13:43,300 --> 00:13:49,330 align:start position:19%
+country<00:13:43,750><c> is</c><00:13:44,020><c> disgraceful</c><00:13:45,100><c> to</c><00:13:45,550><c> disgrace</c><c,colorCCCCCC><00:13:46,120><c> a</c></c>
+
+00:13:46,840 --> 00:13:52,420 align:start position:19%
+trump<00:13:47,230><c> administration</c><00:13:48,250><c> will</c><00:13:48,940><c> renegotiate</c>
+
+00:13:49,330 --> 00:13:54,820 align:start position:19%
+NAFTA<c,colorE5E5E5><00:13:50,170><c> and</c><00:13:50,950><c> if</c><00:13:51,130><c> we</c><00:13:51,310><c> don't</c><00:13:51,490><c> get</c><00:13:51,730><c> the</c><00:13:51,970><c> deal</c><00:13:52,240><c> we</c></c>
+
+00:13:52,420 --> 00:13:58,420 align:start position:19%
+want<00:13:52,780><c> we</c><00:13:52,930><c> will</c><00:13:53,080><c> terminate</c><c,colorCCCCCC><00:13:53,500><c> NAFTA</c><00:13:54,220><c> and</c><00:13:54,430><c> get</c><00:13:54,700><c> a</c></c>
+
+00:13:54,820 --> 00:14:02,800 align:start position:19%
+much<00:13:55,120><c> better</c><00:13:55,300><c> deal</c><00:13:55,750><c> for</c><00:13:56,620><c> our</c><00:13:57,010><c> companies</c><00:13:57,790><c> and</c>
+
+00:13:58,420 --> 00:14:06,130 align:start position:19%
+our<00:13:58,600><c> workers</c><c,colorE5E5E5><00:13:59,110><c> we</c><00:14:01,810><c> will</c><00:14:02,020><c> also</c><00:14:02,350><c> immediately</c></c>
+
+00:14:02,800 --> 00:14:09,550 align:start position:19%
+<c,colorE5E5E5>stop<00:14:03,670><c> the</c><00:14:04,300><c> job-killing</c><00:14:05,200><c> trans-pacific</c></c>
+
+00:14:06,130 --> 00:14:12,040 align:start position:19%
+partnership<c,colorE5E5E5><00:14:06,700><c> with</c></c><c,colorCCCCCC><00:14:08,110><c> Hillary</c><00:14:08,530><c> Clinton</c><00:14:09,010><c> loved</c></c>
+
+00:14:09,550 --> 00:14:14,500 align:start position:19%
+and<00:14:09,730><c> said</c><00:14:10,120><c> it's</c><00:14:10,420><c> the</c><c,colorE5E5E5><00:14:10,510><c> gold</c><00:14:10,900><c> standard</c><00:14:11,140><c> it</c><00:14:11,830><c> is</c></c>
+
+00:14:12,040 --> 00:14:15,820 align:start position:19%
+the<00:14:12,190><c> gold</c><00:14:12,520><c> standard</c><00:14:12,580><c> for</c><00:14:13,360><c> other</c><00:14:14,170><c> countries</c>
+
+00:14:14,500 --> 00:14:18,160 align:start position:19%
+not<00:14:14,920><c> for</c><00:14:15,130><c> us</c>
+
+00:14:15,820 --> 00:14:20,320 align:start position:19%
+<c,colorE5E5E5>that'll<00:14:16,090><c> take</c><00:14:16,240><c> the</c><00:14:16,420><c> rest</c><00:14:16,660><c> of</c><00:14:16,810><c> our</c><00:14:16,960><c> jobs</c><00:14:17,530><c> as</c></c>
+
+00:14:18,160 --> 00:14:25,360 align:start position:19%
+part<00:14:18,430><c> of</c><00:14:18,490><c> our</c><00:14:18,640><c> plan</c><00:14:18,820><c> to</c><00:14:19,090><c> bring</c><00:14:19,300><c> back</c><00:14:19,510><c> jobs</c><c,colorCCCCCC><00:14:19,840><c> we</c></c>
+
+00:14:20,320 --> 00:14:27,610 align:start position:19%
+<c,colorCCCCCC>are<00:14:20,440><c> going</c><00:14:20,860><c> to</c><00:14:21,160><c> show</c></c><c,colorE5E5E5><00:14:21,610><c> and</c><00:14:22,870><c> create</c><00:14:23,440><c> lower</c><00:14:24,580><c> taxes</c></c>
+
+00:14:25,360 --> 00:14:31,870 align:start position:19%
+on<00:14:25,630><c> American</c><00:14:25,690><c> business</c><00:14:26,740><c> from</c><c,colorCCCCCC><00:14:26,950><c> thirty-five</c></c>
+
+00:14:27,610 --> 00:14:34,510 align:start position:19%
+<c,colorCCCCCC>percent</c><c,colorE5E5E5><00:14:27,760><c> down</c><00:14:29,020><c> to</c><00:14:29,260><c> fifteen</c><00:14:29,830><c> percent</c><00:14:30,250><c> it</c><00:14:31,750><c> will</c></c>
+
+00:14:31,870 --> 00:14:35,650 align:start position:19%
+start<00:14:32,500><c> the</c><00:14:32,950><c> engine</c><00:14:33,640><c> running</c><00:14:34,000><c> like</c><00:14:34,300><c> you've</c>
+
+00:14:34,510 --> 00:14:38,740 align:start position:19%
+never<00:14:34,660><c> seen</c>
+
+00:14:35,650 --> 00:14:40,420 align:start position:19%
+we<00:14:36,070><c> will</c><00:14:36,310><c> massively</c><00:14:37,030><c> cut</c><00:14:37,480><c> taxes</c><00:14:38,140><c> for</c><00:14:38,470><c> the</c>
+
+00:14:38,740 --> 00:14:43,090 align:start position:19%
+middle<00:14:38,890><c> class</c><00:14:39,190><c> and</c><c,colorCCCCCC><00:14:39,700><c> hillary</c></c><c,colorE5E5E5><00:14:40,090><c> wants</c><00:14:40,210><c> to</c></c>
+
+00:14:40,420 --> 00:14:45,430 align:start position:19%
+increase<00:14:40,750><c> your</c><00:14:40,960><c> taxes</c><00:14:41,560><c> by</c><00:14:42,190><c> a</c><00:14:42,280><c> lot</c><00:14:42,610><c> so</c><00:14:42,790><c> between</c>
+
+00:14:43,090 --> 00:14:49,270 align:start position:19%
+<c,colorCCCCCC>Obamacare<00:14:44,260><c> which</c><00:14:44,500><c> will</c><00:14:44,650><c> double</c><00:14:45,100><c> and</c><00:14:45,250><c> double</c></c>
+
+00:14:45,430 --> 00:14:51,610 align:start position:19%
+and<00:14:45,790><c> double</c><00:14:46,030><c> and</c><00:14:47,380><c> higher</c><00:14:48,160><c> taxes</c><c,colorCCCCCC><00:14:48,820><c> you're</c></c><c,colorE5E5E5><00:14:49,150><c> not</c></c>
+
+00:14:49,270 --> 00:14:54,910 align:start position:19%
+going<00:14:49,420><c> to</c><00:14:49,510><c> be</c><00:14:49,600><c> happy</c><00:14:49,720><c> if</c><00:14:50,050><c> you</c><00:14:50,200><c> have</c><c,colorE5E5E5><00:14:50,380><c> Hillary</c></c>
+
+00:14:51,610 --> 00:14:57,040 align:start position:19%
+<c,colorE5E5E5>Clinton<00:14:52,150><c> we</c><00:14:53,290><c> will</c><00:14:53,530><c> unleash</c><00:14:53,920><c> the</c></c><c,colorCCCCCC><00:14:54,280><c> American</c></c>
+
+00:14:54,910 --> 00:14:59,470 align:start position:19%
+<c,colorE5E5E5>energy<00:14:55,480><c> and</c></c><c,colorCCCCCC><00:14:55,660><c> i'll</c></c><c,colorE5E5E5><00:14:55,810><c> tell</c><00:14:56,110><c> you</c><00:14:56,200><c> we</c><00:14:56,470><c> have</c><00:14:56,650><c> such</c></c>
+
+00:14:57,040 --> 00:15:03,910 align:start position:19%
+power<00:14:57,310><c> right</c><00:14:57,820><c> under</c><00:14:58,090><c> our</c><00:14:58,300><c> feet</c><00:14:58,390><c> including</c>
+
+00:14:59,470 --> 00:15:07,900 align:start position:19%
+<c,colorCCCCCC>shale<00:15:00,400><c> oil</c></c><c,colorE5E5E5><00:15:00,610><c> natural</c><00:15:01,630><c> gas</c><00:15:02,200><c> and</c><00:15:02,740><c> clean</c><00:15:03,460><c> coal</c></c>
+
+00:15:03,910 --> 00:15:09,250 align:start position:19%
+<c,colorCCCCCC>going<00:15:05,950><c> to</c><00:15:06,010><c> put</c><00:15:06,160><c> our</c><00:15:06,280><c> miners</c><00:15:06,760><c> back</c><00:15:07,030><c> to</c><00:15:07,180><c> work</c></c>
+
+00:15:07,900 --> 00:15:12,610 align:start position:19%
+we're<c,colorE5E5E5><00:15:07,990><c> going</c><00:15:08,110><c> to</c><00:15:08,170><c> put</c><00:15:08,260><c> our</c><00:15:08,410><c> steel</c><00:15:08,800><c> workers</c></c>
+
+00:15:09,250 --> 00:15:15,820 align:start position:19%
+back<00:15:09,520><c> to</c><00:15:09,580><c> work</c><c,colorCCCCCC><00:15:09,760><c> our</c><00:15:10,930><c> plan</c><00:15:11,440><c> will</c><00:15:11,620><c> end</c><00:15:11,890><c> the</c><00:15:11,950><c> EPA</c></c>
+
+00:15:12,610 --> 00:15:18,520 align:start position:19%
+intrusion<00:15:13,390><c> into</c><00:15:13,600><c> your</c><00:15:13,780><c> family</c><00:15:14,290><c> farms</c><c,colorCCCCCC><00:15:14,890><c> stop</c></c>
+
+00:15:15,820 --> 00:15:19,430 align:start position:19%
+the<00:15:16,030><c> double</c><00:15:16,420><c> taxation</c><00:15:16,930><c> of</c><00:15:17,350><c> family</c><00:15:17,830><c> farms</c><00:15:18,040><c> at</c>
+
+00:15:18,520 --> 00:15:23,899 align:start position:19%
+that
+
+00:15:19,430 --> 00:15:27,350 align:start position:19%
+<c,colorE5E5E5>we<00:15:20,240><c> will</c><00:15:20,540><c> stop</c><00:15:20,990><c> that</c><00:15:21,290><c> their</c><00:15:21,649><c> farms</c><00:15:22,339><c> the</c><00:15:23,510><c> father</c></c>
+
+00:15:23,899 --> 00:15:30,470 align:start position:19%
+dies<00:15:24,320><c> they</c><00:15:25,190><c> have</c><00:15:25,339><c> to</c><00:15:25,490><c> sell</c><00:15:25,730><c> their</c><00:15:25,970><c> farm</c><00:15:26,420><c> to</c><00:15:27,200><c> pay</c>
+
+00:15:27,350 --> 00:15:32,899 align:start position:19%
+the<00:15:27,529><c> taxes</c><c,colorE5E5E5><00:15:28,130><c> that's</c><00:15:28,880><c> going</c><00:15:29,120><c> to</c><00:15:29,180><c> end</c><00:15:29,270><c> we</c><00:15:30,290><c> will</c></c>
+
+00:15:30,470 --> 00:15:34,730 align:start position:19%
+<c,colorE5E5E5>cancel<00:15:30,830><c> billions</c><00:15:31,610><c> of</c><00:15:31,760><c> dollars</c><00:15:32,240><c> in</c><00:15:32,330><c> global</c></c>
+
+00:15:32,899 --> 00:15:38,990 align:start position:19%
+warming<00:15:33,320><c> payments</c><00:15:33,920><c> to</c><00:15:34,010><c> the</c><c,colorCCCCCC><00:15:34,130><c> United</c><00:15:34,610><c> Nations</c></c>
+
+00:15:34,730 --> 00:15:41,209 align:start position:19%
+<c,colorCCCCCC>nobody</c><c,colorE5E5E5><00:15:35,959><c> knows</c><00:15:36,230><c> where</c><00:15:36,529><c> that</c><00:15:36,620><c> money</c><00:15:37,070><c> go</c><00:15:37,250><c> and</c><00:15:38,720><c> use</c></c>
+
+00:15:38,990 --> 00:15:45,050 align:start position:19%
+that<00:15:39,080><c> money</c><00:15:39,380><c> to</c><00:15:39,800><c> invest</c><00:15:40,070><c> in</c><c,colorCCCCCC><00:15:40,550><c> America</c></c>
+
+00:15:41,209 --> 00:15:48,770 align:start position:19%
+including<00:15:41,630><c> roads</c><00:15:42,410><c> ports</c><c,colorE5E5E5><00:15:43,250><c> bridges</c><00:15:44,149><c> waterways</c></c>
+
+00:15:45,050 --> 00:15:51,709 align:start position:19%
+<c,colorCCCCCC>will<00:15:46,459><c> build</c><00:15:46,820><c> highways</c></c><c,colorE5E5E5><00:15:47,209><c> will</c><00:15:48,080><c> fix</c><00:15:48,589><c> our</c></c>
+
+00:15:48,770 --> 00:15:54,500 align:start position:19%
+existing<00:15:49,399><c> roads</c><c,colorE5E5E5><00:15:49,910><c> will</c><00:15:50,360><c> fix</c><00:15:50,720><c> our</c><00:15:50,899><c> bridges</c><00:15:51,320><c> half</c></c>
+
+00:15:51,709 --> 00:15:56,870 align:start position:19%
+of<00:15:51,860><c> which</c><c,colorCCCCCC><00:15:52,100><c> are</c><00:15:52,370><c> in</c><00:15:52,910><c> horrible</c><00:15:53,480><c> condition</c><00:15:54,050><c> some</c></c>
+
+00:15:54,500 --> 00:16:01,670 align:start position:19%
+of<00:15:54,649><c> which</c><00:15:54,860><c> are</c><00:15:54,980><c> in</c><00:15:55,130><c> dangerous</c><00:15:55,700><c> condition</c><00:15:56,300><c> we</c>
+
+00:15:56,870 --> 00:16:04,550 align:start position:19%
+will<00:15:56,990><c> rebuild</c><00:15:57,770><c> our</c><00:15:58,760><c> infrastructure</c><00:15:59,029><c> and</c><c,colorCCCCCC><00:16:01,339><c> will</c></c>
+
+00:16:01,670 --> 00:16:07,430 align:start position:19%
+<c,colorE5E5E5>rebuild<00:16:02,060><c> our</c><00:16:02,450><c> inner</c><00:16:02,660><c> cities</c><00:16:02,899><c> the</c></c>
+
+00:16:04,550 --> 00:16:09,740 align:start position:19%
+african-american<00:16:05,720><c> community</c><00:16:05,810><c> the</c><c,colorCCCCCC><00:16:06,620><c> Hispanic</c></c>
+
+00:16:07,430 --> 00:16:13,820 align:start position:19%
+community<00:16:07,760><c> living</c><00:16:08,570><c> in</c><00:16:08,839><c> the</c><00:16:08,959><c> inner</c><00:16:09,260><c> cities</c>
+
+00:16:09,740 --> 00:16:19,070 align:start position:19%
+<c,colorE5E5E5>treated<00:16:10,610><c> so</c><00:16:10,850><c> unfairly</c></c><c,colorCCCCCC><00:16:11,209><c> high-crime</c></c><c,colorE5E5E5><00:16:12,920><c> bad</c></c>
+
+00:16:13,820 --> 00:16:20,120 align:start position:19%
+education<c,colorE5E5E5><00:16:14,209><c> no</c><00:16:15,290><c> jobs</c><00:16:15,920><c> we</c><00:16:17,060><c> will</c><00:16:17,330><c> fix</c><00:16:17,690><c> it</c><00:16:17,990><c> we</c><00:16:18,830><c> will</c></c>
+
+00:16:19,070 --> 00:16:22,940 align:start position:19%
+fix<00:16:19,459><c> it</c>
+
+00:16:20,120 --> 00:16:24,980 align:start position:19%
+believe<00:16:20,600><c> me</c><00:16:20,839><c> and</c><00:16:21,709><c> we</c><00:16:21,860><c> will</c><00:16:22,010><c> fix</c><00:16:22,339><c> it</c><00:16:22,550><c> quickly</c>
+
+00:16:22,940 --> 00:16:27,350 align:start position:19%
+<c,colorCCCCCC>the<00:16:23,510><c> Democrats</c></c><c,colorE5E5E5><00:16:24,200><c> for</c><00:16:24,320><c> a</c><00:16:24,350><c> hundred</c><00:16:24,770><c> years</c></c>
+
+00:16:24,980 --> 00:16:29,120 align:start position:19%
+they've<00:16:25,400><c> run</c><00:16:25,640><c> the</c><00:16:25,700><c> inner</c><00:16:25,940><c> cities</c><00:16:26,420><c> and</c><00:16:27,170><c> all</c>
+
+00:16:27,350 --> 00:16:31,580 align:start position:19%
+they<00:16:27,500><c> do</c><00:16:27,680><c> is</c><00:16:27,770><c> every</c><00:16:28,160><c> four</c><00:16:28,430><c> years</c><00:16:28,610><c> they</c><00:16:28,880><c> come</c>
+
+00:16:29,120 --> 00:16:33,589 align:start position:19%
+around<00:16:29,240><c> give</c><00:16:29,600><c> me</c><00:16:29,750><c> a</c><00:16:29,839><c> vote</c><00:16:30,140><c> give</c><00:16:30,320><c> me</c><00:16:30,470><c> a</c><00:16:30,529><c> vote</c><c,colorCCCCCC><00:16:30,890><c> you</c></c>
+
+00:16:31,580 --> 00:16:34,850 align:start position:19%
+given<00:16:31,910><c> the</c><00:16:31,970><c> vote</c><c,colorCCCCCC><00:16:32,120><c> they</c></c><c,colorE5E5E5><00:16:32,510><c> see</c><00:16:32,959><c> in</c></c><c,colorCCCCCC><00:16:33,170><c> four</c><00:16:33,410><c> years</c></c>
+
+00:16:33,589 --> 00:16:38,270 align:start position:19%
+they<00:16:33,800><c> do</c><00:16:33,980><c> nothing</c>
+
+00:16:34,850 --> 00:16:40,730 align:start position:19%
+we<00:16:35,270><c> will</c><00:16:35,720><c> fix</c><00:16:36,080><c> the</c><00:16:36,650><c> inner</c><00:16:36,890><c> cities</c><00:16:37,370><c> will</c><00:16:38,060><c> bring</c>
+
+00:16:38,270 --> 00:16:44,300 align:start position:19%
+back<00:16:38,510><c> jobs</c><00:16:38,720><c> will</c><00:16:39,170><c> bring</c><00:16:39,380><c> back</c><00:16:39,589><c> safety</c><c,colorCCCCCC><00:16:40,010><c> we</c><00:16:40,520><c> will</c></c>
+
+00:16:40,730 --> 00:16:46,970 align:start position:19%
+bring<00:16:40,940><c> back</c><00:16:41,240><c> education</c><c,colorCCCCCC><00:16:42,200><c> all</c><00:16:43,279><c> i</c><00:16:43,459><c> say</c><00:16:43,760><c> is</c><00:16:43,970><c> this</c></c>
+
+00:16:44,300 --> 00:16:50,750 align:start position:19%
+<c,colorE5E5E5>what<00:16:45,230><c> the</c><00:16:45,380><c> hell</c><00:16:45,680><c> do</c><00:16:45,830><c> you</c><00:16:45,890><c> have</c><00:16:46,010><c> to</c><00:16:46,310><c> lose</c></c>
+
+00:16:46,970 --> 00:16:53,959 align:start position:19%
+<c,colorE5E5E5>I<00:16:47,870><c> will</c><00:16:48,320><c> fix</c><00:16:48,650><c> it</c><00:16:48,920><c> give</c><00:16:49,190><c> us</c><00:16:49,279><c> a</c><00:16:49,520><c> chance</c></c>
+
+00:16:50,750 --> 00:16:55,880 align:start position:19%
+believe<00:16:51,140><c> me</c><c,colorCCCCCC><00:16:51,320><c> been</c><00:16:52,370><c> very</c><00:16:52,670><c> unfair</c></c><c,colorE5E5E5><00:16:53,270><c> been</c><00:16:53,660><c> very</c></c>
+
+00:16:53,959 --> 00:16:58,940 align:start position:19%
+unfair<00:16:54,500><c> to</c><00:16:54,650><c> the</c><00:16:54,770><c> african-american</c><00:16:55,070><c> community</c>
+
+00:16:55,880 --> 00:17:02,000 align:start position:19%
+<c,colorE5E5E5>Hispanic<00:16:57,230><c> communities</c></c><c,colorCCCCCC><00:16:57,800><c> give</c><00:16:58,070><c> us</c><00:16:58,250><c> a</c><00:16:58,310><c> chance</c><00:16:58,550><c> we</c></c>
+
+00:16:58,940 --> 00:17:05,420 align:start position:19%
+will<00:16:59,089><c> fix</c><00:16:59,390><c> it</c><00:16:59,660><c> we</c><00:17:00,500><c> will</c><00:17:00,650><c> become</c><00:17:01,100><c> a</c><00:17:01,160><c> rich</c><00:17:01,430><c> nation</c>
+
+00:17:02,000 --> 00:17:09,350 align:start position:19%
+once<00:17:02,329><c> again</c><00:17:02,390><c> but</c><00:17:03,800><c> to</c><00:17:03,890><c> be</c><00:17:04,069><c> rich</c><00:17:04,400><c> nation</c><00:17:04,970><c> we</c><00:17:05,360><c> must</c>
+
+00:17:05,420 --> 00:17:13,550 align:start position:19%
+also<00:17:06,050><c> be</c><00:17:06,470><c> a</c><00:17:06,800><c> safe</c><00:17:07,189><c> nation</c><c,colorCCCCCC><00:17:07,670><c> hillary</c><00:17:08,630><c> wants</c><00:17:08,900><c> a</c></c>
+
+00:17:09,350 --> 00:17:16,089 align:start position:19%
+550<00:17:10,939><c> present</c><00:17:11,420><c> increase</c><00:17:11,929><c> in</c><c,colorCCCCCC><00:17:12,170><c> Syrian</c><00:17:12,740><c> refugees</c></c>
+
+00:17:13,550 --> 00:17:19,600 align:start position:19%
+pouring<00:17:14,270><c> into</c><00:17:14,569><c> our</c><00:17:14,809><c> country</c>
+
+00:17:16,089 --> 00:17:23,350 align:start position:19%
+<c,colorE5E5E5>her<00:17:17,500><c> plan</c><00:17:17,980><c> will</c><00:17:18,159><c> import</c><00:17:18,429><c> generations</c><00:17:19,449><c> of</c></c>
+
+00:17:19,600 --> 00:17:25,480 align:start position:19%
+terrorism<00:17:20,319><c> extremism</c><00:17:20,559><c> and</c><00:17:21,730><c> radicalism</c><c,colorE5E5E5><00:17:22,419><c> into</c></c>
+
+00:17:23,350 --> 00:17:27,939 align:start position:19%
+<c,colorCCCCCC>you<00:17:23,620><c> schools</c><00:17:24,250><c> and</c><00:17:24,400><c> into</c><00:17:24,640><c> your</c><00:17:24,850><c> communities</c></c>
+
+00:17:25,480 --> 00:17:30,970 align:start position:19%
+all<00:17:25,720><c> throughout</c><c,colorE5E5E5><00:17:26,110><c> when</c><00:17:27,549><c> I'm</c><00:17:27,730><c> elected</c></c>
+
+00:17:27,939 --> 00:17:36,490 align:start position:19%
+president<00:17:28,929><c> we</c><00:17:29,080><c> will</c><00:17:29,350><c> suspend</c><00:17:30,100><c> the</c><c,colorCCCCCC><00:17:30,309><c> Syrian</c></c>
+
+00:17:30,970 --> 00:17:38,860 align:start position:19%
+refugee<00:17:31,600><c> program</c><00:17:32,380><c> and</c><00:17:34,990><c> we</c><00:17:35,140><c> will</c><00:17:35,380><c> keep</c><00:17:35,590><c> radical</c>
+
+00:17:36,490 --> 00:17:43,840 align:start position:19%
+<c,colorE5E5E5>Islamic</c><c,colorCCCCCC><00:17:37,390><c> errands</c><00:17:37,900><c> the</c><00:17:38,080><c> hell</c><00:17:38,409><c> out</c><00:17:38,620><c> of</c><00:17:38,710><c> our</c></c>
+
+00:17:38,860 --> 00:17:46,090 align:start position:19%
+country<00:17:39,190><c> have</c><00:17:40,840><c> no</c><00:17:41,020><c> choice</c><c,colorCCCCCC><00:17:41,470><c> we</c></c><c,colorE5E5E5><00:17:41,980><c> have</c><00:17:42,520><c> no</c><00:17:43,539><c> choice</c></c>
+
+00:17:43,840 --> 00:17:48,309 align:start position:19%
+and<00:17:44,110><c> we</c><00:17:44,230><c> all</c><00:17:44,409><c> have</c><00:17:44,590><c> a</c><00:17:44,650><c> heart</c><00:17:45,010><c> and</c><c,colorCCCCCC><00:17:45,640><c> will</c><00:17:45,820><c> build</c></c>
+
+00:17:46,090 --> 00:17:51,010 align:start position:19%
+safe<00:17:46,360><c> zones</c><00:17:46,779><c> in</c><c,colorE5E5E5><00:17:46,900><c> Syria</c><00:17:47,409><c> will</c><00:17:47,679><c> get</c><00:17:47,860><c> the</c></c><c,colorCCCCCC><00:17:48,010><c> Gulf</c></c>
+
+00:17:48,309 --> 00:17:52,630 align:start position:19%
+states<00:17:48,700><c> to</c><00:17:48,820><c> pay</c><c,colorE5E5E5><00:17:49,029><c> for</c><00:17:49,450><c> because</c><00:17:49,720><c> we</c><00:17:50,409><c> are</c><00:17:50,649><c> 20</c></c>
+
+00:17:51,010 --> 00:17:53,440 align:start position:19%
+trillion<00:17:51,340><c> dollars</c><00:17:51,880><c> we</c><00:17:52,029><c> don't</c><00:17:52,179><c> need</c><00:17:52,360><c> to</c><c,colorCCCCCC><00:17:52,450><c> pay</c></c>
+
+00:17:52,630 --> 00:17:55,870 align:start position:19%
+<c,colorCCCCCC>anymore</c>
+
+00:17:53,440 --> 00:17:58,120 align:start position:19%
+we<c,colorE5E5E5><00:17:53,529><c> have</c><00:17:53,649><c> to</c><00:17:53,770><c> fix</c><00:17:53,980><c> our</c><00:17:54,190><c> own</c><00:17:54,370><c> country</c><00:17:54,880><c> but</c><00:17:55,570><c> will</c></c>
+
+00:17:55,870 --> 00:18:01,600 align:start position:19%
+help<c,colorE5E5E5><00:17:56,169><c> them</c><00:17:56,500><c> and</c></c><c,colorCCCCCC><00:17:57,220><c> we'll</c><00:17:57,370><c> get</c><00:17:57,549><c> people</c><00:17:57,970><c> that</c></c>
+
+00:17:58,120 --> 00:18:03,130 align:start position:19%
+frankly<00:17:58,630><c> have</c><00:17:58,750><c> plenty</c><00:17:59,140><c> of</c><00:17:59,200><c> money</c><00:17:59,350><c> to</c><00:18:00,490><c> pay</c><00:18:00,700><c> and</c>
+
+00:18:01,600 --> 00:18:05,770 align:start position:19%
+they'll<00:18:01,720><c> be</c><00:18:01,870><c> happy</c><00:18:02,110><c> to</c><00:18:02,289><c> do</c><00:18:02,529><c> it</c>
+
+00:18:03,130 --> 00:18:07,600 align:start position:19%
+a<c,colorCCCCCC><00:18:03,250><c> trump</c></c><c,colorE5E5E5><00:18:03,669><c> administration</c><00:18:04,690><c> will</c><00:18:04,870><c> also</c><00:18:05,260><c> secure</c></c>
+
+00:18:05,770 --> 00:18:24,050 align:start position:19%
+defend<00:18:06,399><c> the</c><00:18:06,460><c> borders</c><00:18:06,580><c> of</c><00:18:06,940><c> the</c><c,colorCCCCCC><00:18:07,090><c> United</c><00:18:07,510><c> States</c></c>
+
+00:18:07,600 --> 00:18:25,880 align:start position:19%
+<c,colorE5E5E5>and<00:18:08,830><c> yes</c><00:18:09,309><c> we</c><00:18:09,850><c> will</c><00:18:10,059><c> build</c><00:18:10,690><c> a</c><00:18:10,870><c> great</c><00:18:11,200><c> wall</c></c>
+
+00:18:24,050 --> 00:18:28,820 align:start position:19%
+<c,colorCCCCCC>we've<00:18:24,680><c> received</c><00:18:25,310><c> the</c><00:18:25,400><c> first-ever</c></c>
+
+00:18:25,880 --> 00:18:31,670 align:start position:19%
+endorsement<c,colorE5E5E5><00:18:26,210><c> issued</c><00:18:27,560><c> by</c><00:18:27,710><c> America's</c></c>
+
+00:18:28,820 --> 00:18:34,340 align:start position:19%
+<c,colorE5E5E5>incredible<00:18:29,660><c> people</c></c><c,colorCCCCCC><00:18:29,960><c> the</c><00:18:30,740><c> border</c><00:18:31,040><c> patrol</c></c>
+
+00:18:31,670 --> 00:18:36,890 align:start position:19%
+officers<00:18:32,540><c> and</c><00:18:32,840><c> ice</c><00:18:33,170><c> never</c><00:18:33,590><c> given</c><00:18:34,160><c> an</c>
+
+00:18:34,340 --> 00:18:38,900 align:start position:19%
+endorsement<00:18:34,970><c> before</c><c,colorE5E5E5><00:18:35,390><c> it's</c><00:18:36,410><c> just</c><00:18:36,740><c> been</c></c>
+
+00:18:36,890 --> 00:18:42,350 align:start position:19%
+reported<00:18:37,160><c> that</c><00:18:37,610><c> as</c><00:18:37,820><c> a</c><00:18:37,910><c> result</c><00:18:38,120><c> of</c><c,colorE5E5E5><00:18:38,480><c> our</c><00:18:38,690><c> open</c></c>
+
+00:18:38,900 --> 00:18:45,860 align:start position:19%
+borders<c,colorE5E5E5><00:18:39,500><c> violent</c><00:18:40,610><c> cartels</c><00:18:40,940><c> have</c><00:18:41,510><c> spread</c></c><c,colorCCCCCC><00:18:41,930><c> into</c></c>
+
+00:18:42,350 --> 00:18:50,300 align:start position:19%
+all<c,colorE5E5E5><00:18:42,860><c> 50</c><00:18:43,370><c> of</c><00:18:43,490><c> our</c></c><c,colorCCCCCC><00:18:43,580><c> state's</c></c><c,colorE5E5E5><00:18:44,120><c> more</c><00:18:45,080><c> than</c><00:18:45,350><c> ninety</c></c>
+
+00:18:45,860 --> 00:18:52,730 align:start position:19%
+percent<00:18:46,070><c> of</c><00:18:46,610><c> those</c><00:18:46,910><c> arrested</c><00:18:47,390><c> are</c><00:18:48,530><c> illegal</c>
+
+00:18:50,300 --> 00:18:55,220 align:start position:19%
+<c,colorE5E5E5>they're<00:18:50,510><c> here</c><00:18:50,750><c> illegally</c></c><c,colorCCCCCC><00:18:51,470><c> think</c><00:18:52,490><c> of</c><00:18:52,610><c> it</c></c>
+
+00:18:52,730 --> 00:18:57,500 align:start position:19%
+ninety<00:18:53,210><c> percent</c><00:18:53,360><c> are</c><00:18:53,840><c> here</c><00:18:54,020><c> illegally</c><c,colorCCCCCC><00:18:54,290><c> you</c></c>
+
+00:18:55,220 --> 00:18:58,340 align:start position:19%
+<c,colorE5E5E5>ask<00:18:55,460><c> yourself</c><00:18:55,580><c> what</c><00:18:56,330><c> are</c><00:18:56,390><c> we</c><00:18:56,510><c> doing</c><00:18:56,960><c> what</c><00:18:57,440><c> are</c></c>
+
+00:18:57,500 --> 00:19:00,260 align:start position:19%
+we<00:18:57,560><c> doing</c>
+
+00:18:58,340 --> 00:19:02,210 align:start position:19%
+<c,colorCCCCCC>they're<00:18:58,820><c> killing</c></c><c,colorE5E5E5><00:18:59,000><c> innocent</c></c><c,colorCCCCCC><00:18:59,660><c> America's</c></c>
+
+00:19:00,260 --> 00:19:04,910 align:start position:19%
+<c,colorE5E5E5>threatening<00:19:01,190><c> and</c><00:19:01,430><c> they</c><00:19:01,520><c> are</c><00:19:01,670><c> just</c><00:19:01,820><c> killing</c></c>
+
+00:19:02,210 --> 00:19:07,340 align:start position:19%
+innocent<00:19:03,500><c> Americans</c><00:19:04,100><c> take</c><00:19:04,310><c> a</c><00:19:04,370><c> look</c><00:19:04,550><c> at</c><00:19:04,670><c> what's</c>
+
+00:19:04,910 --> 00:19:10,130 align:start position:19%
+happening<c,colorE5E5E5><00:19:05,330><c> threatening</c><00:19:06,530><c> schools</c><00:19:07,130><c> and</c></c>
+
+00:19:07,340 --> 00:19:11,900 align:start position:19%
+destroying<00:19:07,880><c> communities</c><c,colorCCCCCC><00:19:08,060><c> a</c><00:19:09,320><c> government</c><00:19:10,010><c> that</c></c>
+
+00:19:10,130 --> 00:19:15,410 align:start position:19%
+will<00:19:10,280><c> not</c><00:19:10,550><c> protect</c><00:19:11,000><c> its</c><00:19:11,270><c> people</c><c,colorCCCCCC><00:19:11,330><c> is</c><00:19:11,870><c> a</c></c>
+
+00:19:11,900 --> 00:19:20,690 align:start position:19%
+government<c,colorE5E5E5><00:19:12,200><c> that</c><00:19:12,950><c> is</c><00:19:13,070><c> unworthy</c><00:19:13,970><c> to</c><00:19:14,630><c> lead</c></c><c,colorCCCCCC><00:19:15,170><c> and</c></c>
+
+00:19:15,410 --> 00:19:22,730 align:start position:19%
+unworthy<00:19:16,100><c> to</c><00:19:16,310><c> serve</c><00:19:16,880><c> as</c><c,colorE5E5E5><00:19:19,250><c> Secretary</c><00:19:19,490><c> of</c><00:19:20,180><c> State</c></c>
+
+00:19:20,690 --> 00:19:24,740 align:start position:19%
+<c,colorE5E5E5>Hillary<00:19:20,780><c> Clinton</c><00:19:21,170><c> allowed</c><00:19:21,800><c> thousands</c><00:19:22,490><c> of</c><00:19:22,640><c> the</c></c>
+
+00:19:22,730 --> 00:19:27,350 align:start position:19%
+most<00:19:23,000><c> dangerous</c><00:19:23,150><c> and</c><00:19:23,750><c> violent</c><00:19:24,050><c> criminal</c>
+
+00:19:24,740 --> 00:19:30,260 align:start position:19%
+aliens<00:19:25,220><c> to</c><00:19:25,760><c> go</c><00:19:25,910><c> free</c><00:19:26,300><c> because</c><00:19:26,510><c> their</c><00:19:27,050><c> home</c>
+
+00:19:27,350 --> 00:19:32,870 align:start position:19%
+countries<00:19:27,980><c> were</c><00:19:28,460><c> very</c><00:19:28,820><c> smart</c><c,colorCCCCCC><00:19:29,420><c> they</c><00:19:29,870><c> wouldn't</c></c>
+
+00:19:30,260 --> 00:19:33,860 align:start position:19%
+take<c,colorCCCCCC><00:19:30,350><c> him</c><00:19:30,590><c> back</c><00:19:30,740><c> we</c><00:19:31,430><c> bring</c><00:19:31,700><c> them</c><00:19:31,820><c> there</c></c><c,colorE5E5E5><00:19:32,150><c> they</c></c>
+
+00:19:32,870 --> 00:19:38,870 align:start position:19%
+<c,colorCCCCCC>say<00:19:33,080><c> get</c><00:19:33,290><c> out</c><00:19:33,380><c> of</c><00:19:33,590><c> here</c></c>
+
+00:19:33,860 --> 00:19:40,580 align:start position:19%
+murderers<00:19:34,490><c> drug</c><00:19:35,300><c> lords</c><c,colorE5E5E5><00:19:36,020><c> gang</c><00:19:37,010><c> heads</c><00:19:37,700><c> would</c></c>
+
+00:19:38,870 --> 00:19:41,180 align:start position:19%
+bring<c,colorCCCCCC><00:19:39,140><c> their</c></c><c,colorE5E5E5><00:19:39,440><c> they</c><00:19:39,740><c> say</c><00:19:39,950><c> we</c><00:19:40,130><c> don't</c><00:19:40,250><c> want</c></c><c,colorCCCCCC><00:19:40,490><c> him</c></c>
+
+00:19:40,580 --> 00:19:43,430 align:start position:19%
+back
+
+00:19:41,180 --> 00:19:44,510 align:start position:19%
+we<00:19:41,330><c> don't</c><00:19:41,480><c> want</c><c,colorE5E5E5><00:19:41,720><c> him</c><00:19:41,840><c> back</c><00:19:42,470><c> well</c><00:19:42,980><c> let</c><00:19:43,160><c> me</c><00:19:43,280><c> tell</c></c>
+
+00:19:43,430 --> 00:19:46,640 align:start position:19%
+you<00:19:43,610><c> something</c>
+
+00:19:44,510 --> 00:19:49,100 align:start position:19%
+<c,colorE5E5E5>there<00:19:44,660><c> won't</c><00:19:44,840><c> be</c><00:19:44,990><c> one</c><00:19:45,170><c> instance</c><00:19:46,130><c> in</c><00:19:46,310><c> four</c></c>
+
+00:19:46,640 --> 00:19:51,290 align:start position:19%
+years<00:19:46,880><c> or</c><00:19:47,180><c> eight</c><00:19:47,510><c> years</c><c,colorE5E5E5><00:19:47,630><c> where</c><00:19:48,410><c> we</c><00:19:48,620><c> bring</c><00:19:48,860><c> them</c></c>
+
+00:19:49,100 --> 00:19:54,230 align:start position:19%
+into<00:19:49,340><c> their</c><00:19:49,580><c> country</c><00:19:49,910><c> that</c><00:19:50,570><c> they</c><00:19:50,720><c> come</c><00:19:50,990><c> back</c>
+
+00:19:51,290 --> 00:19:56,120 align:start position:19%
+and<00:19:51,470><c> our</c><00:19:51,710><c> country</c><00:19:52,100><c> that</c><c,colorCCCCCC><00:19:52,280><c> I</c><00:19:52,370><c> can</c><00:19:52,550><c> promise</c></c><c,colorE5E5E5><00:19:52,910><c> they</c></c>
+
+00:19:54,230 --> 00:19:57,950 align:start position:19%
+came<00:19:54,530><c> back</c><00:19:54,650><c> all</c><00:19:55,070><c> the</c><00:19:55,250><c> time</c><00:19:55,340><c> they</c><00:19:55,700><c> said</c><00:19:55,940><c> we</c>
+
+00:19:56,120 --> 00:19:59,900 align:start position:19%
+don't<00:19:56,180><c> want</c><c,colorCCCCCC><00:19:56,420><c> them</c></c><c,colorE5E5E5><00:19:56,690><c> and</c><00:19:56,900><c> she</c><00:19:57,020><c> would</c><00:19:57,230><c> say</c><00:19:57,320><c> oh</c></c>
+
+00:19:57,950 --> 00:20:01,610 align:start position:19%
+that's<c,colorE5E5E5><00:19:58,220><c> okay</c><00:19:58,670><c> bring</c></c><c,colorCCCCCC><00:19:59,030><c> him</c><00:19:59,090><c> back</c><00:19:59,420><c> put</c></c><c,colorE5E5E5><00:19:59,810><c> them</c></c>
+
+00:19:59,900 --> 00:20:02,570 align:start position:19%
+right<00:20:00,080><c> out</c><c,colorE5E5E5><00:20:00,260><c> on</c><00:20:00,500><c> the</c><00:20:00,530><c> streets</c><00:20:01,010><c> and</c><00:20:01,310><c> you</c><00:20:01,490><c> know</c></c>
+
+00:20:01,610 --> 00:20:05,510 align:start position:19%
+what's<00:20:01,880><c> happened</c>
+
+00:20:02,570 --> 00:20:07,880 align:start position:19%
+<c,colorCCCCCC>Hillary<00:20:03,320><c> Clinton</c><00:20:03,710><c> supports</c></c><c,colorE5E5E5><00:20:04,370><c> totally</c><00:20:05,090><c> open</c></c>
+
+00:20:05,510 --> 00:20:10,280 align:start position:19%
+borders<c,colorCCCCCC><00:20:05,990><c> there</c><00:20:06,320><c> goes</c><00:20:06,560><c> your</c><00:20:06,680><c> country</c><00:20:07,160><c> and</c></c>
+
+00:20:07,880 --> 00:20:13,100 align:start position:19%
+support<00:20:08,360><c> sanctuary</c><00:20:09,170><c> cities</c><00:20:09,620><c> like</c><00:20:09,830><c> in</c><c,colorCCCCCC><00:20:09,980><c> san</c></c>
+
+00:20:10,280 --> 00:20:14,900 align:start position:19%
+<c,colorCCCCCC>francisco<00:20:11,000><c> where</c><00:20:12,020><c> Kate</c><00:20:12,350><c> Steinle</c><00:20:12,650><c> was</c></c>
+
+00:20:13,100 --> 00:20:19,040 align:start position:19%
+murdered<00:20:13,580><c> by</c><00:20:13,760><c> an</c><00:20:13,910><c> illegal</c><00:20:14,210><c> immigrant</c>
+
+00:20:14,900 --> 00:20:22,610 align:start position:19%
+<c,colorCCCCCC>deported<00:20:15,890><c> at</c><00:20:16,070><c> least</c></c><c,colorE5E5E5><00:20:16,580><c> five</c><00:20:17,120><c> times</c><00:20:17,600><c> thousands</c></c>
+
+00:20:19,040 --> 00:20:25,970 align:start position:19%
+<c,colorE5E5E5>of</c><c,colorCCCCCC><00:20:19,220><c> Americans</c><00:20:20,000><c> would</c><00:20:20,690><c> be</c><00:20:20,810><c> alive</c><00:20:21,050><c> today</c><00:20:21,380><c> if</c><00:20:22,430><c> it</c></c>
+
+00:20:22,610 --> 00:20:28,730 align:start position:19%
+were<00:20:22,850><c> not</c><00:20:22,910><c> for</c><00:20:23,240><c> the</c><00:20:23,360><c> open</c><00:20:23,930><c> border</c><c,colorE5E5E5><00:20:24,350><c> policy</c><00:20:25,280><c> of</c></c>
+
+00:20:25,970 --> 00:20:32,390 align:start position:19%
+<c,colorCCCCCC>obama<00:20:26,540><c> and</c><00:20:26,840><c> clinton</c></c><c,colorE5E5E5><00:20:26,990><c> here</c><00:20:28,160><c> in</c></c><c,colorCCCCCC><00:20:28,310><c> North</c><00:20:28,580><c> Carolina</c></c>
+
+00:20:28,730 --> 00:20:33,950 align:start position:19%
+<c,colorCCCCCC>20-year</c><c,colorE5E5E5><00:20:29,810><c> old</c><00:20:30,140><c> Liana</c></c><c,colorCCCCCC><00:20:30,470><c> Noma</c></c><c,colorE5E5E5><00:20:31,010><c> and</c></c><c,colorCCCCCC><00:20:31,700><c> a</c><00:20:31,850><c> run</c><00:20:32,090><c> born</c></c>
+
+00:20:32,390 --> 00:20:37,880 align:start position:19%
+child<00:20:32,780><c> were</c><00:20:33,020><c> killed</c><00:20:33,050><c> by</c><00:20:33,530><c> an</c><00:20:33,620><c> illegal</c>
+
+00:20:33,950 --> 00:20:41,480 align:start position:19%
+immigrant<00:20:34,580><c> with</c><00:20:35,720><c> two</c><00:20:35,960><c> prior</c><c,colorE5E5E5><00:20:36,620><c> deportation</c></c>
+
+00:20:37,880 --> 00:20:43,220 align:start position:19%
+<c,colorCCCCCC>leanna's</c><c,colorE5E5E5><00:20:39,230><c> killer</c><00:20:39,620><c> had</c><00:20:39,770><c> two</c><00:20:40,010><c> prior</c><00:20:40,340><c> DUI</c></c>
+
+00:20:41,480 --> 00:20:46,250 align:start position:19%
+convictions<00:20:42,260><c> for</c><00:20:42,410><c> driving</c><00:20:42,920><c> with</c><00:20:43,100><c> a</c><00:20:43,160><c> revoked</c>
+
+00:20:43,220 --> 00:20:49,820 align:start position:19%
+license<00:20:44,120><c> and</c><00:20:44,810><c> a</c><00:20:44,870><c> conviction</c><00:20:45,200><c> for</c><00:20:45,590><c> assault</c>
+
+00:20:46,250 --> 00:20:54,080 align:start position:19%
+charges<00:20:46,700><c> very</c><00:20:47,090><c> serious</c><00:20:47,690><c> assault</c><00:20:48,680><c> and</c><00:20:49,190><c> people</c>
+
+00:20:49,820 --> 00:20:58,850 align:start position:19%
+that<00:20:50,270><c> knew</c><00:20:50,570><c> him</c><c,colorE5E5E5><00:20:50,960><c> back</c><00:20:52,100><c> to</c><00:20:53,360><c> have</c><00:20:53,750><c> him</c></c>
+
+00:20:54,080 --> 00:21:01,730 align:start position:19%
+incarcerated<00:20:54,710><c> or</c><00:20:56,090><c> deported</c><c,colorCCCCCC><00:20:56,810><c> but</c><00:20:58,250><c> they</c></c>
+
+00:20:58,850 --> 00:21:04,280 align:start position:19%
+wouldn't<00:20:59,210><c> do</c><00:20:59,330><c> it</c><c,colorE5E5E5><00:20:59,480><c> another</c><00:21:00,800><c> amazing</c><00:21:01,100><c> American</c></c>
+
+00:21:01,730 --> 00:21:07,190 align:start position:19%
+<c,colorE5E5E5>lost<00:21:02,390><c> his</c><00:21:02,540><c> life</c><00:21:02,840><c> to</c><00:21:03,020><c> illegal</c><00:21:03,410><c> immigration</c><00:21:04,070><c> was</c></c>
+
+00:21:04,280 --> 00:21:10,580 align:start position:19%
+<c,colorCCCCCC>John<00:21:04,730><c> Wilkinson</c><00:21:05,210><c> whose</c><00:21:06,140><c> mother</c><00:21:06,530><c> I've</c><00:21:06,770><c> gotten</c></c>
+
+00:21:07,190 --> 00:21:12,980 align:start position:19%
+to<00:21:07,220><c> know</c><00:21:07,400><c> during</c><00:21:07,820><c> the</c><00:21:07,940><c> campaign</c><c,colorCCCCCC><00:21:08,270><c> Josh</c></c><c,colorE5E5E5><00:21:10,190><c> a</c></c>
+
+00:21:10,580 --> 00:21:16,550 align:start position:19%
+student<00:21:11,210><c> in</c><00:21:11,300><c> high</c><00:21:11,510><c> school</c><00:21:11,900><c> was</c><00:21:12,260><c> murdered</c><00:21:12,830><c> at</c>
+
+00:21:12,980 --> 00:21:18,770 align:start position:19%
+the<00:21:13,040><c> age</c><00:21:13,370><c> of</c><c,colorCCCCCC><00:21:13,490><c> 17</c><00:21:14,270><c> credible</c></c><c,colorE5E5E5><00:21:15,590><c> young</c><00:21:15,980><c> man</c><00:21:16,280><c> great</c></c>
+
+00:21:16,550 --> 00:21:22,130 align:start position:19%
+student<00:21:17,060><c> great</c><00:21:17,300><c> person</c><00:21:17,900><c> everybody</c><00:21:18,140><c> loved</c><00:21:18,650><c> him</c>
+
+00:21:18,770 --> 00:21:24,710 align:start position:19%
+he<00:21:19,460><c> was</c><00:21:19,700><c> tortured</c><c,colorE5E5E5><00:21:20,360><c> strangled</c><00:21:21,560><c> and</c><00:21:21,680><c> beaten</c><00:21:21,770><c> to</c></c>
+
+00:21:22,130 --> 00:21:31,910 align:start position:19%
+death<00:21:22,220><c> by</c><00:21:22,550><c> an</c><00:21:22,730><c> illegal</c><00:21:23,060><c> immigrant</c><c,colorE5E5E5><00:21:23,750><c> and</c><00:21:24,530><c> then</c></c>
+
+00:21:24,710 --> 00:21:38,210 align:start position:19%
+his<00:21:24,950><c> body</c><00:21:25,100><c> was</c><00:21:25,460><c> set</c><00:21:25,790><c> on</c><00:21:25,940><c> fire</c><c,colorE5E5E5><00:21:26,180><c> everybody</c><00:21:29,570><c> said</c></c>
+
+00:21:31,910 --> 00:21:41,450 align:start position:19%
+<c,colorE5E5E5>please<00:21:33,740><c> incarcerate</c><00:21:35,480><c> this</c><00:21:36,170><c> maniac</c></c><c,colorCCCCCC><00:21:36,920><c> they</c></c>
+
+00:21:38,210 --> 00:21:45,620 align:start position:19%
+wouldn't<00:21:38,570><c> do</c><00:21:38,690><c> it</c><c,colorE5E5E5><00:21:38,870><c> a</c><00:21:40,010><c> trump</c><00:21:40,400><c> administration</c></c>
+
+00:21:41,450 --> 00:21:48,740 align:start position:19%
+will<00:21:41,660><c> end</c><00:21:42,200><c> this</c><00:21:42,710><c> nightmare</c><00:21:43,400><c> of</c><00:21:44,000><c> violence</c><c,colorCCCCCC><00:21:44,630><c> we</c></c>
+
+00:21:45,620 --> 00:21:51,740 align:start position:19%
+will<c,colorCCCCCC><00:21:45,890><c> protect</c><00:21:46,550><c> American</c><00:21:47,420><c> lives</c><00:21:47,480><c> we</c><00:21:48,470><c> will</c></c>
+
+00:21:48,740 --> 00:21:54,110 align:start position:19%
+cancel<00:21:49,160><c> all</c><00:21:49,760><c> federal</c><00:21:50,300><c> funding</c><00:21:50,390><c> to</c><00:21:50,930><c> sanctuary</c>
+
+00:21:51,740 --> 00:21:58,550 align:start position:19%
+cities<c,colorE5E5E5><00:21:52,220><c> we</c><00:21:52,760><c> will</c><00:21:53,000><c> stop</c><00:21:53,510><c> illegal</c><00:21:53,810><c> immigration</c></c>
+
+00:21:54,110 --> 00:22:01,700 align:start position:19%
+<c,colorCCCCCC>deport<00:21:56,270><c> every</c><00:21:56,630><c> last</c><00:21:57,020><c> criminal</c><00:21:57,530><c> Alien</c><00:21:58,040><c> and</c></c>
+
+00:21:58,550 --> 00:22:03,950 align:start position:19%
+dismantle<00:21:59,330><c> every</c><00:21:59,900><c> criminal</c><00:22:00,260><c> gang</c><00:22:00,860><c> in</c><c,colorCCCCCC><00:22:01,040><c> cartel</c></c>
+
+00:22:01,700 --> 00:22:09,290 align:start position:19%
+<c,colorE5E5E5>threatening<00:22:02,660><c> our</c><00:22:02,810><c> citizens</c><00:22:03,530><c> and</c><00:22:03,620><c> that'll</c></c>
+
+00:22:03,950 --> 00:22:12,230 align:start position:19%
+happen<00:22:04,160><c> very</c><00:22:04,460><c> quickly</c><00:22:04,700><c> when</c><00:22:07,850><c> we</c><00:22:08,090><c> win</c><c,colorE5E5E5><00:22:08,540><c> you</c><00:22:09,110><c> will</c></c>
+
+00:22:09,290 --> 00:22:14,960 align:start position:19%
+finally<00:22:09,740><c> have</c><00:22:10,070><c> a</c><00:22:10,160><c> government</c><00:22:10,580><c> on</c><00:22:11,330><c> your</c><00:22:11,690><c> side</c>
+
+00:22:12,230 --> 00:22:17,389 align:start position:19%
+fighting<00:22:12,590><c> your</c><00:22:13,010><c> community</c><00:22:13,640><c> and</c><00:22:14,180><c> protecting</c>
+
+00:22:14,960 --> 00:22:23,059 align:start position:19%
+your<00:22:15,350><c> family</c>
+
+00:22:17,389 --> 00:22:26,749 align:start position:19%
+<c,colorE5E5E5>we<00:22:20,359><c> will</c><00:22:20,539><c> also</c><00:22:20,899><c> repeal</c><00:22:21,709><c> the</c><00:22:22,429><c> obama-clinton</c></c>
+
+00:22:23,059 --> 00:22:30,139 align:start position:19%
+defense<c,colorCCCCCC><00:22:23,839><c> requests</c><00:22:24,440><c> and</c><00:22:25,159><c> rebuild</c><00:22:25,820><c> our</c><00:22:26,119><c> badly</c></c>
+
+00:22:26,749 --> 00:22:33,649 align:start position:19%
+depleted<c,colorE5E5E5><00:22:27,649><c> military</c><00:22:29,329><c> we</c><00:22:29,539><c> have</c><00:22:29,659><c> great</c><00:22:29,899><c> people</c></c>
+
+00:22:30,139 --> 00:22:35,629 align:start position:19%
+<c,colorCCCCCC>we<00:22:32,059><c> have</c><00:22:32,269><c> great</c><00:22:32,570><c> great</c><00:22:32,929><c> people</c><00:22:33,109><c> North</c></c>
+
+00:22:33,649 --> 00:22:38,269 align:start position:19%
+<c,colorCCCCCC>Carolina<00:22:34,339><c> will</c><00:22:34,519><c> be</c><00:22:34,700><c> at</c><00:22:34,820><c> the</c><00:22:34,909><c> very</c></c><c,colorE5E5E5><00:22:35,179><c> center</c><00:22:35,539><c> of</c></c>
+
+00:22:35,629 --> 00:22:40,549 align:start position:19%
+this<00:22:35,779><c> effort</c><00:22:36,169><c> with</c><00:22:37,039><c> new</c><00:22:37,219><c> advanced</c><00:22:37,759><c> fighters</c>
+
+00:22:38,269 --> 00:22:42,649 align:start position:19%
+flying<00:22:38,749><c> from</c><00:22:38,989><c> seymour</c><00:22:39,379><c> johnson</c><00:22:39,529><c> air</c><00:22:40,099><c> force</c>
+
+00:22:40,549 --> 00:22:46,279 align:start position:19%
+base<00:22:40,909><c> we</c><00:22:41,149><c> will</c><00:22:41,359><c> have</c><00:22:41,629><c> the</c><00:22:41,809><c> newest</c><00:22:42,440><c> and</c><00:22:42,559><c> the</c>
+
+00:22:42,649 --> 00:22:47,929 align:start position:19%
+best<c,colorE5E5E5><00:22:43,099><c> not</c><00:22:43,849><c> the</c><00:22:44,029><c> old</c><00:22:44,389><c> stuff</c><00:22:44,659><c> that's</c><00:22:45,379><c> 18</c><00:22:45,829><c> and</c><00:22:45,979><c> 20</c></c>
+
+00:22:46,279 --> 00:22:49,159 align:start position:19%
+years<00:22:46,519><c> old</c><c,colorCCCCCC><00:22:46,879><c> where</c><00:22:47,329><c> they</c></c><c,colorE5E5E5><00:22:47,419><c> don't</c><00:22:47,629><c> even</c><00:22:47,719><c> make</c></c>
+
+00:22:47,929 --> 00:22:52,399 align:start position:19%
+parts<00:22:48,469><c> anymore</c>
+
+00:22:49,159 --> 00:22:55,339 align:start position:19%
+<c,colorE5E5E5>we<00:22:49,459><c> will</c><00:22:49,609><c> have</c><00:22:49,789><c> the</c><00:22:49,940><c> newest</c><00:22:50,570><c> and</c><00:22:50,690><c> the</c><00:22:50,749><c> best</c><00:22:51,229><c> and</c></c>
+
+00:22:52,399 --> 00:22:59,749 align:start position:19%
+marine<00:22:52,909><c> battalions</c><00:22:53,929><c> at</c><c,colorCCCCCC><00:22:54,109><c> Camp</c><00:22:54,559><c> Lejeune</c></c><c,colorE5E5E5><00:22:54,829><c> I</c></c><c,colorCCCCCC><00:22:55,159><c> know</c></c>
+
+00:22:55,339 --> 00:23:02,119 align:start position:19%
+<c,colorCCCCCC>camp<00:22:55,759><c> lejeune</c><00:22:56,269><c> will</c><00:22:58,639><c> we're</c><00:22:59,389><c> going</c><00:22:59,570><c> to</c><00:22:59,629><c> be</c></c>
+
+00:22:59,749 --> 00:23:04,639 align:start position:19%
+increasing<00:23:00,379><c> the</c><00:23:00,529><c> numbers</c><c,colorCCCCCC><00:23:01,009><c> and</c><00:23:01,429><c> did</c></c><c,colorE5E5E5><00:23:01,759><c> we</c><00:23:01,940><c> ever</c></c>
+
+00:23:02,119 --> 00:23:07,219 align:start position:19%
+need<00:23:02,570><c> it</c><00:23:02,749><c> more</c><00:23:03,169><c> yeah</c><c,colorE5E5E5><00:23:03,619><c> there</c><00:23:03,919><c> were</c><00:23:04,039><c> times</c><00:23:04,459><c> when</c></c>
+
+00:23:04,639 --> 00:23:10,549 align:start position:19%
+we<00:23:04,759><c> needed</c><00:23:05,089><c> it</c><00:23:05,149><c> badly</c><00:23:05,599><c> but</c><00:23:06,649><c> we're</c><00:23:06,829><c> right</c><00:23:07,070><c> at</c>
+
+00:23:07,219 --> 00:23:15,859 align:start position:19%
+the<00:23:07,249><c> top</c><00:23:07,519><c> right</c><00:23:07,820><c> now</c><00:23:08,089><c> we</c><00:23:08,539><c> need</c><00:23:09,200><c> our</c><00:23:09,649><c> great</c>
+
+00:23:10,549 --> 00:23:18,019 align:start position:19%
+military<00:23:10,969><c> and</c><00:23:14,239><c> have</c><00:23:14,450><c> major</c><00:23:15,019><c> new</c><00:23:15,200><c> investments</c>
+
+00:23:15,859 --> 00:23:20,839 align:start position:19%
+also<00:23:16,279><c> made</c><00:23:16,609><c> to</c><c,colorCCCCCC><00:23:16,729><c> Fort</c><00:23:17,059><c> Bragg</c><00:23:17,479><c> anybody</c><00:23:17,839><c> from</c></c>
+
+00:23:18,019 --> 00:23:21,739 align:start position:19%
+<c,colorCCCCCC>Fort<00:23:18,349><c> Bragg</c></c><c,colorE5E5E5><00:23:18,769><c> so</c><00:23:19,940><c> we</c><00:23:20,089><c> were</c><00:23:20,239><c> there</c><00:23:20,479><c> the</c><00:23:20,599><c> other</c></c>
+
+00:23:20,839 --> 00:23:24,469 align:start position:19%
+night
+
+00:23:21,739 --> 00:23:26,389 align:start position:19%
+<c,colorCCCCCC>we're</c><c,colorE5E5E5><00:23:22,070><c> 23,000</c><00:23:23,299><c> people</c><00:23:23,419><c> it</c><00:23:23,779><c> was</c></c><c,colorCCCCCC><00:23:23,929><c> an</c><00:23:24,049><c> admit</c></c><c,colorE5E5E5><00:23:24,320><c> was</c></c>
+
+00:23:24,469 --> 00:23:27,559 align:start position:19%
+anybody<00:23:24,919><c> there</c><c,colorCCCCCC><00:23:24,979><c> that</c></c><c,colorE5E5E5><00:23:25,669><c> was</c><00:23:25,909><c> an</c><00:23:26,059><c> amazing</c></c>
+
+00:23:26,389 --> 00:23:29,809 align:start position:19%
+evening
+
+00:23:27,559 --> 00:23:31,969 align:start position:19%
+<c,colorE5E5E5>that<00:23:27,859><c> was</c><00:23:28,039><c> an</c><00:23:28,190><c> incredible</c><00:23:28,729><c> evening</c><00:23:28,820><c> we</c><00:23:29,570><c> had</c></c>
+
+00:23:29,809 --> 00:23:34,940 align:start position:19%
+<c,colorCCCCCC>generals<00:23:30,409><c> we</c><00:23:30,559><c> had</c><00:23:30,769><c> Admirals</c><00:23:31,399><c> we</c><00:23:31,609><c> had</c></c>
+
+00:23:31,969 --> 00:23:37,639 align:start position:19%
+<c,colorE5E5E5>recipients<00:23:33,200><c> of</c><00:23:33,889><c> the</c></c><c,colorCCCCCC><00:23:34,219><c> medal</c><00:23:34,489><c> of</c><00:23:34,549><c> honor</c></c><c,colorE5E5E5><00:23:34,700><c> that</c></c>
+
+00:23:34,940 --> 00:23:39,679 align:start position:19%
+was<00:23:35,209><c> an</c><00:23:35,359><c> incredible</c><00:23:35,959><c> evening</c><00:23:36,649><c> and</c><00:23:37,249><c> some</c><00:23:37,489><c> of</c>
+
+00:23:37,639 --> 00:23:42,109 align:start position:19%
+the<00:23:37,759><c> people</c><00:23:38,179><c> who</c><00:23:38,929><c> have</c><00:23:39,109><c> given</c><00:23:39,289><c> us</c><00:23:39,559><c> the</c>
+
+00:23:39,679 --> 00:23:45,469 align:start position:19%
+endorsement<00:23:40,339><c> we</c><00:23:40,459><c> have</c><00:23:40,549><c> over</c><00:23:40,789><c> 200</c><c,colorCCCCCC><00:23:41,539><c> Admirals</c></c>
+
+00:23:42,109 --> 00:23:47,869 align:start position:19%
+and<c,colorCCCCCC><00:23:42,169><c> Generals</c></c><c,colorE5E5E5><00:23:42,739><c> we</c><00:23:43,549><c> have</c><00:23:43,700><c> 22</c><00:23:44,209><c> medal</c><00:23:44,839><c> of</c><00:23:45,049><c> honor</c></c>
+
+00:23:45,469 --> 00:23:50,149 align:start position:19%
+recipients<00:23:46,309><c> who</c><00:23:46,759><c> have</c><00:23:46,909><c> totally</c><00:23:47,299><c> endorse</c><00:23:47,570><c> me</c>
+
+00:23:47,869 --> 00:23:53,299 align:start position:19%
+the<c,colorE5E5E5><00:23:48,019><c> numbers</c><00:23:48,349><c> increasing</c><00:23:48,859><c> on</c><00:23:49,129><c> a</c><00:23:49,190><c> daily</c><00:23:49,519><c> basis</c></c>
+
+00:23:50,149 --> 00:23:56,239 align:start position:19%
+<c,colorCCCCCC>they<00:23:50,839><c> like</c></c><c,colorE5E5E5><00:23:51,139><c> our</c><00:23:51,320><c> thought</c><00:23:51,619><c> process</c><00:23:52,279><c> they</c><00:23:52,969><c> like</c></c>
+
+00:23:53,299 --> 00:23:59,149 align:start position:19%
+when<00:23:53,659><c> we</c><00:23:54,169><c> go</c><00:23:54,320><c> into</c><c,colorE5E5E5><00:23:54,649><c> Mosul</c><00:23:55,099><c> that</c><00:23:55,879><c> we</c><00:23:55,999><c> do</c><00:23:56,119><c> it</c></c>
+
+00:23:56,239 --> 00:24:00,649 align:start position:19%
+quietly<c,colorE5E5E5><00:23:56,570><c> that</c><00:23:57,919><c> we</c><00:23:58,070><c> don't</c><00:23:58,190><c> announce</c><00:23:58,519><c> it</c></c><c,colorCCCCCC><00:23:58,820><c> for</c></c>
+
+00:23:59,149 --> 00:24:04,879 align:start position:19%
+months<c,colorCCCCCC><00:23:59,450><c> in</c><00:23:59,629><c> advance</c></c>
+
+00:24:00,649 --> 00:24:08,239 align:start position:19%
+we're<00:24:01,489><c> going</c><00:24:01,969><c> into</c><00:24:02,659><c> Mosul</c><00:24:03,320><c> in</c><c,colorE5E5E5><00:24:04,099><c> four</c><00:24:04,669><c> months</c></c>
+
+00:24:04,879 --> 00:24:09,889 align:start position:19%
+why<c,colorE5E5E5><00:24:05,479><c> do</c><00:24:05,719><c> they</c><00:24:05,839><c> have</c><00:24:05,929><c> to</c><00:24:06,079><c> say</c><00:24:06,320><c> that</c><00:24:06,739><c> why</c><00:24:07,879><c> do</c><00:24:08,119><c> they</c></c>
+
+00:24:08,239 --> 00:24:12,709 align:start position:19%
+have<00:24:08,419><c> to</c><00:24:08,599><c> say</c><00:24:08,899><c> that</c><00:24:09,200><c> and</c><00:24:09,320><c> you</c><00:24:09,469><c> see</c><00:24:09,649><c> the</c>
+
+00:24:09,889 --> 00:24:16,549 align:start position:19%
+resistance<00:24:10,609><c> is</c><00:24:10,700><c> now</c><00:24:10,999><c> very</c><00:24:11,209><c> said</c><00:24:11,749><c> we're</c><00:24:12,349><c> going</c>
+
+00:24:12,709 --> 00:24:19,729 align:start position:19%
+in<00:24:13,129><c> because</c><c,colorE5E5E5><00:24:13,909><c> we</c><00:24:14,389><c> think</c><00:24:14,749><c> Isis</c><00:24:15,799><c> leaders</c><00:24:16,399><c> are</c></c>
+
+00:24:16,549 --> 00:24:21,889 align:start position:19%
+staying<00:24:17,089><c> there</c><c,colorE5E5E5><00:24:17,359><c> and</c><00:24:18,139><c> we</c><00:24:18,379><c> are</c><00:24:18,829><c> going</c><00:24:19,190><c> to</c><00:24:19,399><c> get</c></c>
+
+00:24:19,729 --> 00:24:24,079 align:start position:19%
+them<c,colorE5E5E5><00:24:20,209><c> three</c><00:24:21,019><c> months</c></c>
+
+00:24:21,889 --> 00:24:28,160 align:start position:19%
+we're<00:24:22,070><c> going</c><c,colorCCCCCC><00:24:22,369><c> into</c><00:24:22,700><c> Mosul</c><00:24:23,149><c> two</c><00:24:23,389><c> months</c></c><c,colorE5E5E5><00:24:23,929><c> we're</c></c>
+
+00:24:24,079 --> 00:24:31,970 align:start position:19%
+<c,colorE5E5E5>going</c><c,colorCCCCCC><00:24:24,469><c> into</c><00:24:24,859><c> months</c></c><c,colorE5E5E5><00:24:25,399><c> one</c><00:24:26,479><c> month</c><00:24:26,869><c> one</c><00:24:27,079><c> week</c></c>
+
+00:24:28,160 --> 00:24:34,910 align:start position:19%
+<c,colorE5E5E5>well<00:24:28,850><c> let</c><00:24:29,150><c> me</c><00:24:29,270><c> tell</c><00:24:29,390><c> you</c><00:24:29,570><c> they</c><00:24:29,750><c> left</c><00:24:30,200><c> the</c><00:24:31,640><c> first</c></c>
+
+00:24:31,970 --> 00:24:37,370 align:start position:19%
+time<00:24:32,150><c> they</c><00:24:32,300><c> heard</c><00:24:32,540><c> it</c><00:24:32,600><c> they</c><00:24:33,260><c> were</c><00:24:33,500><c> gone</c><00:24:33,650><c> and</c>
+
+00:24:34,910 --> 00:24:40,160 align:start position:19%
+<c,colorE5E5E5>it's<00:24:35,090><c> being</c><00:24:35,300><c> very</c><00:24:35,750><c> very</c><00:24:35,930><c> tough</c><00:24:36,260><c> human</c><00:24:36,830><c> shields</c></c>
+
+00:24:37,370 --> 00:24:41,330 align:start position:19%
+are<00:24:37,460><c> being</c><00:24:37,760><c> used</c><00:24:38,150><c> all</c><00:24:38,930><c> sorts</c><00:24:39,140><c> of</c><00:24:39,380><c> booby</c><00:24:39,770><c> traps</c>
+
+00:24:40,160 --> 00:24:48,320 align:start position:19%
+are<00:24:40,280><c> being</c><00:24:40,550><c> set</c>
+
+00:24:41,330 --> 00:24:50,900 align:start position:19%
+why<00:24:42,380><c> can't</c><00:24:43,220><c> we</c><00:24:43,400><c> go</c><00:24:44,540><c> with</c><c,colorCCCCCC><00:24:45,260><c> surprise</c><00:24:46,880><c> right</c></c>
+
+00:24:48,320 --> 00:24:53,180 align:start position:19%
+<c,colorCCCCCC>member<00:24:48,800><c> and</c><00:24:49,040><c> I</c><00:24:49,640><c> mean</c><00:24:49,970><c> in</c><00:24:50,120><c> high</c><00:24:50,360><c> school</c><00:24:50,810><c> it's</c></c>
+
+00:24:50,900 --> 00:24:56,510 align:start position:19%
+called<00:24:51,140><c> the</c><00:24:51,200><c> element</c><00:24:51,770><c> of</c><00:24:51,860><c> surprise</c>
+
+00:24:53,180 --> 00:24:58,550 align:start position:19%
+<c,colorE5E5E5>General<00:24:54,080><c> Douglas</c></c><c,colorCCCCCC><00:24:54,260><c> MacArthur</c><00:24:54,650><c> general</c><00:24:55,970><c> george</c></c>
+
+00:24:56,510 --> 00:25:00,350 align:start position:19%
+<c,colorCCCCCC>patton<00:24:56,600><c> can</c><00:24:57,140><c> you</c><00:24:57,290><c> imagine</c><00:24:57,500><c> what</c><00:24:58,040><c> they</c><00:24:58,340><c> would</c></c>
+
+00:24:58,550 --> 00:25:04,490 align:start position:19%
+be<c,colorE5E5E5><00:24:58,700><c> thinking</c><00:24:59,180><c> if</c><00:24:59,300><c> they</c><00:24:59,420><c> saw</c><00:24:59,630><c> this</c><00:24:59,870><c> stupidity</c></c>
+
+00:25:00,350 --> 00:25:06,410 align:start position:19%
+<c,colorCCCCCC>this<00:25:01,280><c> stupidity</c><00:25:02,030><c> of</c><00:25:02,420><c> our</c><00:25:02,540><c> leadership</c><00:25:03,200><c> and</c><00:25:04,370><c> we</c></c>
+
+00:25:04,490 --> 00:25:08,300 align:start position:19%
+have<00:25:04,670><c> a</c><00:25:04,730><c> leader</c><c,colorE5E5E5><00:25:05,090><c> only</c><00:25:05,300><c> does</c></c><c,colorCCCCCC><00:25:05,570><c> his</c><00:25:05,720><c> campaigns</c></c>
+
+00:25:06,410 --> 00:25:10,910 align:start position:19%
+for<c,colorE5E5E5><00:25:06,530><c> cooking</c></c><c,colorCCCCCC><00:25:06,920><c> I</c><00:25:06,950><c> mean</c><00:25:07,160><c> all</c><00:25:07,310><c> he's</c><00:25:07,520><c> doing</c><00:25:07,700><c> is</c></c>
+
+00:25:08,300 --> 00:25:14,780 align:start position:19%
+campaigning<00:25:08,990><c> for</c><00:25:09,680><c> crooked</c><00:25:10,310><c> Hillary</c><c,colorE5E5E5><00:25:10,550><c> that's</c></c>
+
+00:25:10,910 --> 00:25:18,350 align:start position:19%
+only<c,colorCCCCCC><00:25:11,120><c> wants</c><00:25:11,480><c> to</c><00:25:11,600><c> do</c><00:25:11,780><c> and</c><00:25:13,910><c> you</c><00:25:14,030><c> know</c></c><c,colorE5E5E5><00:25:14,060><c> she</c><00:25:14,360><c> can't</c></c>
+
+00:25:14,780 --> 00:25:20,360 align:start position:19%
+get<00:25:14,900><c> any</c><00:25:15,140><c> crowds</c><00:25:15,740><c> and</c><00:25:16,490><c> she</c><00:25:16,760><c> doesn't</c><00:25:17,480><c> have</c><00:25:17,600><c> what</c>
+
+00:25:18,350 --> 00:25:22,490 align:start position:19%
+it<00:25:18,440><c> takes</c><00:25:18,920><c> to</c><00:25:19,010><c> do</c><00:25:19,250><c> rallies</c><00:25:19,790><c> all</c><00:25:19,970><c> over</c><00:25:20,090><c> the</c>
+
+00:25:20,360 --> 00:25:26,750 align:start position:19%
+place<c,colorCCCCCC><00:25:20,750><c> she</c></c><c,colorE5E5E5><00:25:21,230><c> wants</c><00:25:21,680><c> to</c><00:25:21,770><c> go</c><00:25:21,920><c> home</c><00:25:21,980><c> and</c><00:25:22,280><c> go</c><00:25:22,400><c> to</c></c>
+
+00:25:22,490 --> 00:25:28,850 align:start position:19%
+sleep<c,colorCCCCCC><00:25:22,640><c> so</c></c><c,colorE5E5E5><00:25:23,750><c> she's</c><00:25:24,140><c> got</c></c><c,colorCCCCCC><00:25:24,320><c> Biden</c></c><c,colorE5E5E5><00:25:24,980><c> he</c><00:25:26,060><c> challenged</c></c>
+
+00:25:26,750 --> 00:25:31,790 align:start position:19%
+me<c,colorCCCCCC><00:25:26,810><c> he</c><00:25:27,680><c> challenged</c><00:25:28,310><c> me</c></c>
+
+00:25:28,850 --> 00:25:36,200 align:start position:19%
+<c,colorCCCCCC>oh<00:25:29,120><c> I'd</c><00:25:29,660><c> like</c><00:25:29,870><c> to</c><00:25:30,050><c> take</c><00:25:30,230><c> him</c></c><c,colorE5E5E5><00:25:30,620><c> i'd</c><00:25:31,280><c> like</c><00:25:31,490><c> to</c><00:25:31,610><c> take</c></c>
+
+00:25:31,790 --> 00:25:37,250 align:start position:19%
+him<00:25:32,120><c> behind</c><00:25:32,570><c> the</c><00:25:32,690><c> gym</c><c,colorCCCCCC><00:25:32,930><c> are</c><00:25:33,680><c> i</c><00:25:35,210><c> dream</c><00:25:35,690><c> of</c><00:25:35,750><c> that</c><00:25:35,870><c> I</c></c>
+
+00:25:36,200 --> 00:25:39,860 align:start position:19%
+<c,colorE5E5E5>dream</c>
+
+00:25:37,250 --> 00:25:43,940 align:start position:19%
+let<00:25:37,700><c> me</c><00:25:37,790><c> just</c><c,colorE5E5E5><00:25:38,000><c> tell</c><00:25:38,210><c> you</c><00:25:38,720><c> hey</c><00:25:39,110><c> folks</c></c><c,colorCCCCCC><00:25:39,290><c> let</c><00:25:39,770><c> me</c></c>
+
+00:25:39,860 --> 00:25:46,640 align:start position:19%
+just<00:25:40,160><c> tell</c><00:25:40,310><c> you</c><00:25:40,370><c> if</c><c,colorCCCCCC><00:25:41,090><c> I</c><00:25:41,210><c> ever</c><00:25:41,360><c> said</c><00:25:41,870><c> that</c><00:25:41,960><c> if</c></c><c,colorE5E5E5><00:25:43,820><c> I</c></c>
+
+00:25:43,940 --> 00:25:49,610 align:start position:19%
+ever<00:25:44,090><c> said</c><00:25:44,630><c> that</c><00:25:44,750><c> they</c><00:25:46,040><c> thought</c><00:25:46,130><c> it</c><00:25:46,400><c> was</c><00:25:46,430><c> so</c>
+
+00:25:46,640 --> 00:25:51,860 align:start position:19%
+cute<00:25:46,970><c> all</c><00:25:47,480><c> was</c><00:25:47,780><c> that</c><00:25:47,900><c> wonderful</c><00:25:48,350><c> what</c><c,colorCCCCCC><00:25:48,890><c> our</c></c>
+
+00:25:49,610 --> 00:25:55,130 align:start position:19%
+<c,colorE5E5E5>vice<00:25:49,880><c> president</c><00:25:50,600><c> said</c><00:25:50,900><c> if</c><00:25:51,110><c> I</c><00:25:51,230><c> ever</c><00:25:51,350><c> said</c><00:25:51,800><c> that</c></c>
+
+00:25:51,860 --> 00:25:57,500 align:start position:19%
+<c,colorE5E5E5>all<00:25:52,100><c> he's</c><00:25:52,310><c> a</c><00:25:52,400><c> bully</c><00:25:52,820><c> he's</c><00:25:53,540><c> a</c><00:25:53,720><c> horrible</c><00:25:54,200><c> person</c></c>
+
+00:25:55,130 --> 00:25:58,340 align:start position:19%
+he<00:25:55,310><c> challenged</c><00:25:56,120><c> our</c><c,colorCCCCCC><00:25:56,240><c> Vice</c><00:25:56,540><c> President</c><00:25:57,290><c> to</c><00:25:57,380><c> a</c></c>
+
+00:25:57,500 --> 00:26:02,360 align:start position:19%
+fight
+
+00:25:58,340 --> 00:26:05,480 align:start position:19%
+can<00:25:58,490><c> you</c><00:25:58,670><c> imagine</c><00:25:58,940><c> what</c><00:25:59,540><c> a</c><00:25:59,720><c> bully</c><00:26:00,050><c> he</c><00:26:00,200><c> is</c><00:26:00,470><c> much</c>
+
+00:26:02,360 --> 00:26:07,850 align:start position:19%
+smarter<00:26:02,720><c> much</c><00:26:03,290><c> better</c><00:26:03,650><c> education</c><c,colorE5E5E5><00:26:04,730><c> much</c></c>
+
+00:26:05,480 --> 00:26:10,220 align:start position:19%
+everything<c,colorE5E5E5><00:26:06,050><c> I</c><00:26:06,140><c> mean</c><00:26:06,350><c> give</c><00:26:06,860><c> me</c><00:26:06,920><c> a</c><00:26:07,070><c> break</c></c>
+
+00:26:07,850 --> 00:26:11,780 align:start position:19%
+they<00:26:07,970><c> have</c><c,colorCCCCCC><00:26:08,270><c> Biden</c><00:26:08,840><c> going</c><00:26:09,200><c> around</c><00:26:09,650><c> they</c><00:26:10,100><c> have</c></c>
+
+00:26:10,220 --> 00:26:13,700 align:start position:19%
+all<00:26:10,430><c> these</c><00:26:10,580><c> people</c><c,colorE5E5E5><00:26:10,880><c> and</c><00:26:11,330><c> then</c><00:26:11,570><c> when</c><00:26:11,750><c> they</c></c>
+
+00:26:11,780 --> 00:26:17,060 align:start position:19%
+<c,colorE5E5E5>can't<00:26:12,290><c> when</c><00:26:12,440><c> that</c><00:26:12,590><c> doesn't</c><00:26:12,950><c> work</c><00:26:13,100><c> because</c><00:26:13,400><c> you</c></c>
+
+00:26:13,700 --> 00:26:20,990 align:start position:19%
+know<c,colorCCCCCC><00:26:13,820><c> Obama</c><00:26:14,660><c> is</c><00:26:16,010><c> going</c></c><c,colorE5E5E5><00:26:16,100><c> wherever</c><00:26:16,460><c> I</c><00:26:16,640><c> go</c><00:26:16,820><c> I</c><00:26:17,000><c> see</c></c>
+
+00:26:17,060 --> 00:26:22,250 align:start position:19%
+<c,colorCCCCCC>Air<00:26:17,690><c> Force</c><00:26:18,020><c> One</c></c><c,colorE5E5E5><00:26:18,350><c> and</c><00:26:19,940><c> who's</c><00:26:20,270><c> paying</c><00:26:20,450><c> for</c></c><c,colorCCCCCC><00:26:20,690><c> Air</c></c>
+
+00:26:20,990 --> 00:26:25,970 align:start position:19%
+<c,colorCCCCCC>Force<00:26:21,290><c> One</c></c>
+
+00:26:22,250 --> 00:26:28,310 align:start position:19%
+<c,colorCCCCCC>there<00:26:23,210><c> as</c><00:26:23,450><c> he</c><00:26:23,630><c> travels</c></c><c,colorE5E5E5><00:26:24,200><c> to</c><00:26:24,290><c> campaign</c><00:26:25,100><c> but</c></c>
+
+00:26:25,970 --> 00:26:31,160 align:start position:19%
+wherever<00:26:26,180><c> I</c><00:26:26,420><c> go</c><00:26:26,660><c> and</c><00:26:27,020><c> I</c><00:26:27,110><c> see</c><00:26:27,320><c> him</c><00:26:27,470><c> screaming</c><00:26:28,220><c> at</c>
+
+00:26:28,310 --> 00:26:32,960 align:start position:19%
+people<00:26:28,730><c> that</c><00:26:28,820><c> are</c><c,colorE5E5E5><00:26:29,030><c> protesters</c><00:26:29,870><c> and</c><00:26:30,800><c> with</c><00:26:30,980><c> me</c></c>
+
+00:26:31,160 --> 00:26:34,940 align:start position:19%
+they<00:26:31,400><c> show</c><00:26:31,640><c> the</c><c,colorCCCCCC><00:26:31,820><c> protester</c><00:26:32,480><c> with</c><00:26:32,660><c> him</c><00:26:32,840><c> they</c></c>
+
+00:26:32,960 --> 00:26:37,700 align:start position:19%
+just<00:26:33,230><c> kept</c><00:26:33,500><c> the</c><00:26:33,590><c> camera</c><c,colorCCCCCC><00:26:34,040><c> they</c><00:26:34,490><c> didn't</c><00:26:34,700><c> want</c><00:26:34,880><c> to</c></c>
+
+00:26:34,940 --> 00:26:41,030 align:start position:19%
+show<00:26:35,120><c> the</c><c,colorCCCCCC><00:26:35,300><c> protest</c></c><c,colorE5E5E5><00:26:35,990><c> but</c></c><c,colorCCCCCC><00:26:36,890><c> i'll</c></c><c,colorE5E5E5><00:26:37,040><c> tell</c><00:26:37,220><c> you</c><00:26:37,370><c> what</c></c>
+
+00:26:37,700 --> 00:26:42,980 align:start position:19%
+<c,colorE5E5E5>he<00:26:38,510><c> should</c><00:26:38,810><c> not</c><00:26:38,960><c> be</c><00:26:39,260><c> campaigning</c><00:26:40,160><c> for</c><00:26:40,580><c> Hillary</c></c>
+
+00:26:41,030 --> 00:26:45,860 align:start position:19%
+<c,colorE5E5E5>Clinton<00:26:41,390><c> he</c><00:26:41,840><c> should</c><00:26:42,110><c> be</c><00:26:42,260><c> in</c><00:26:42,440><c> the</c></c><c,colorCCCCCC><00:26:42,560><c> oval</c><00:26:42,890><c> office</c></c>
+
+00:26:42,980 --> 00:26:49,490 align:start position:19%
+<c,colorCCCCCC>working<00:26:43,700><c> on</c><00:26:43,880><c> jobs</c><00:26:44,540><c> working</c><00:26:45,170><c> on</c><00:26:45,350><c> building</c><00:26:45,590><c> up</c></c>
+
+00:26:45,860 --> 00:26:52,730 align:start position:19%
+our<00:26:46,070><c> military</c><00:26:46,340><c> working</c><00:26:47,840><c> on</c><00:26:48,050><c> good</c><00:26:48,320><c> trade</c><00:26:48,830><c> deals</c>
+
+00:26:49,490 --> 00:26:54,830 align:start position:19%
+<c,colorE5E5E5>and<00:26:51,530><c> you</c><00:26:51,590><c> know</c><00:26:51,650><c> the</c><00:26:51,890><c> press</c><00:26:52,250><c> which</c><00:26:52,460><c> is</c><00:26:52,550><c> the</c></c>
+
+00:26:52,730 --> 00:26:57,380 align:start position:19%
+world's<00:26:53,330><c> most</c><00:26:53,600><c> dishonest</c><00:26:54,020><c> people</c><00:26:54,500><c> these</c>
+
+00:26:54,830 --> 00:27:03,710 align:start position:19%
+people<00:26:54,980><c> they</c><00:26:55,640><c> never</c><00:26:55,820><c> show</c><00:26:56,180><c> these</c><00:26:56,480><c> Krauts</c><c,colorCCCCCC><00:26:56,900><c> they</c></c>
+
+00:26:57,380 --> 00:27:07,100 align:start position:19%
+<c,colorE5E5E5>never<00:26:57,860><c> show</c><00:26:58,130><c> the</c><00:26:58,400><c> crowds</c><00:26:59,240><c> never</c><00:27:00,380><c> ever</c><00:27:00,770><c> they</c></c>
+
+00:27:03,710 --> 00:27:08,870 align:start position:19%
+<c,colorE5E5E5>never<00:27:04,040><c> show</c><00:27:04,310><c> the</c><00:27:04,550><c> crowds</c></c><c,colorCCCCCC><00:27:05,240><c> but</c><00:27:06,620><c> you</c><00:27:06,800><c> know</c><00:27:06,920><c> the</c></c>
+
+00:27:07,100 --> 00:27:14,090 align:start position:19%
+press<c,colorE5E5E5><00:27:07,550><c> and</c></c><c,colorCCCCCC><00:27:07,820><c> I</c><00:27:07,910><c> must</c><00:27:08,180><c> tell</c><00:27:08,270><c> you</c><00:27:08,420><c> one</c><00:27:08,720><c> of</c><00:27:08,780><c> the</c></c>
+
+00:27:08,870 --> 00:27:15,530 align:start position:19%
+things<c,colorE5E5E5><00:27:09,380><c> I've</c><00:27:09,560><c> learned</c><00:27:09,680><c> is</c></c><c,colorCCCCCC><00:27:10,730><c> the</c></c><c,colorE5E5E5><00:27:10,850><c> press</c><00:27:11,300><c> is</c></c><c,colorCCCCCC><00:27:12,860><c> I</c></c>
+
+00:27:14,090 --> 00:27:17,420 align:start position:19%
+mean<00:27:14,390><c> honestly</c><c,colorCCCCCC><00:27:14,870><c> they're</c><00:27:15,080><c> among</c><00:27:15,350><c> the</c></c><c,colorE5E5E5><00:27:15,440><c> most</c></c>
+
+00:27:15,530 --> 00:27:18,200 align:start position:19%
+dishonest<00:27:16,070><c> people</c><00:27:16,550><c> I've</c><00:27:16,820><c> ever</c><00:27:16,910><c> met</c><00:27:17,120><c> in</c><00:27:17,360><c> my</c>
+
+00:27:17,420 --> 00:27:19,610 align:start position:19%
+life
+
+00:27:18,200 --> 00:27:22,100 align:start position:19%
+they're<00:27:18,320><c> bad</c><00:27:18,650><c> people</c><c,colorCCCCCC><00:27:18,740><c> they're</c></c><c,colorE5E5E5><00:27:19,190><c> bad</c><00:27:19,520><c> people</c></c>
+
+00:27:19,610 --> 00:27:25,160 align:start position:19%
+<c,colorCCCCCC>and<00:27:20,570><c> the</c><00:27:20,690><c> other</c><00:27:20,990><c> thing</c><00:27:21,080><c> I've</c></c><c,colorE5E5E5><00:27:21,470><c> learned</c><00:27:21,860><c> is</c><00:27:22,040><c> how</c></c>
+
+00:27:22,100 --> 00:27:27,680 align:start position:19%
+great<00:27:22,880><c> the</c><00:27:23,540><c> people</c><00:27:24,020><c> of</c><00:27:24,200><c> the</c><c,colorCCCCCC><00:27:24,320><c> united</c><00:27:24,740><c> states</c></c>
+
+00:27:25,160 --> 00:27:31,340 align:start position:19%
+<c,colorE5E5E5>are<00:27:25,370><c> their</c><00:27:25,610><c> incredible</c><00:27:26,180><c> purple</c></c><c,colorCCCCCC><00:27:26,630><c> their</c></c>
+
+00:27:27,680 --> 00:27:34,370 align:start position:19%
+<c,colorE5E5E5>incredible<00:27:28,250><c> people</c><00:27:28,550><c> but</c><00:27:30,350><c> the</c><00:27:30,470><c> press</c><00:27:30,800><c> is</c><00:27:31,010><c> very</c></c>
+
+00:27:31,340 --> 00:27:37,490 align:start position:19%
+concerned<00:27:32,210><c> because</c><00:27:32,300><c> the</c><c,colorCCCCCC><00:27:32,750><c> polls</c></c><c,colorE5E5E5><00:27:33,500><c> are</c><00:27:33,650><c> so</c><00:27:33,920><c> good</c></c>
+
+00:27:34,370 --> 00:27:42,250 align:start position:19%
+by<00:27:35,150><c> the</c><00:27:35,330><c> way</c><00:27:35,360><c> the</c><00:27:35,660><c> last</c><00:27:36,080><c> fall</c><c,colorCCCCCC><00:27:36,350><c> i</c><00:27:36,950><c> hate</c><00:27:37,250><c> to</c></c><c,colorE5E5E5><00:27:37,370><c> say</c></c>
+
+00:27:37,490 --> 00:27:46,990 align:start position:19%
+<c,colorE5E5E5>we're<00:27:38,420><c> winning</c></c><c,colorCCCCCC><00:27:38,870><c> North</c><00:27:39,380><c> Carolina</c></c>
+
+00:27:42,250 --> 00:27:50,350 align:start position:19%
+<c,colorE5E5E5>we're<00:27:43,900><c> winning</c><00:27:44,410><c> in</c></c><c,colorCCCCCC><00:27:44,620><c> Ohio</c><00:27:45,250><c> we're</c><00:27:46,090><c> winning</c><00:27:46,660><c> in</c></c>
+
+00:27:46,990 --> 00:27:54,430 align:start position:19%
+<c,colorCCCCCC>New<00:27:47,110><c> Hampshire</c><00:27:47,800><c> we're</c><00:27:48,820><c> winning</c><00:27:49,420><c> in</c><00:27:49,720><c> Iowa</c></c>
+
+00:27:50,350 --> 00:27:56,050 align:start position:19%
+<c,colorCCCCCC>we're<00:27:51,340><c> winning</c><00:27:51,910><c> in</c><00:27:52,150><c> Florida</c><00:27:52,810><c> we're</c><00:27:54,070><c> winning</c></c>
+
+00:27:54,430 --> 00:27:59,860 align:start position:19%
+all<00:27:54,640><c> over</c><00:27:54,910><c> the</c><00:27:55,030><c> place</c><00:27:55,360><c> they're</c><00:27:55,510><c> going</c><00:27:55,780><c> crazy</c>
+
+00:27:56,050 --> 00:28:02,560 align:start position:19%
+<c,colorCCCCCC>one<00:27:57,250><c> of</c><00:27:57,400><c> the</c><00:27:57,490><c> people</c><00:27:57,910><c> yesterday</c><00:27:58,330><c> said</c><00:27:59,740><c> oh</c></c>
+
+00:27:59,860 --> 00:28:05,410 align:start position:19%
+goodness<00:28:00,370><c> look</c><00:28:00,700><c> at</c><00:28:00,760><c> this</c><00:28:01,000><c> supposed</c><00:28:02,230><c> to</c><00:28:02,290><c> be</c><00:28:02,440><c> a</c>
+
+00:28:02,560 --> 00:28:07,900 align:start position:19%
+you<00:28:02,770><c> know</c><00:28:02,890><c> non-biased</c><00:28:03,700><c> a</c><00:28:04,450><c> report</c><00:28:04,900><c> came</c><00:28:05,140><c> in</c><00:28:05,230><c> on</c>
+
+00:28:05,410 --> 00:28:11,530 align:start position:19%
+<c,colorE5E5E5>New<00:28:05,500><c> Hampshire</c></c><c,colorCCCCCC><00:28:05,980><c> where</c><00:28:06,340><c> up</c><00:28:06,580><c> we're</c><00:28:07,540><c> winning</c></c>
+
+00:28:07,900 --> 00:28:13,990 align:start position:19%
+we're<00:28:09,130><c> winning</c><c,colorE5E5E5><00:28:09,220><c> everywhere</c><00:28:09,940><c> but</c><00:28:11,020><c> a</c><00:28:11,080><c> report</c></c>
+
+00:28:11,530 --> 00:28:18,340 align:start position:19%
+came<00:28:11,830><c> in</c><c,colorCCCCCC><00:28:11,920><c> New</c><00:28:12,220><c> Hampshire</c></c><c,colorE5E5E5><00:28:12,790><c> says</c><00:28:13,420><c> we're</c><00:28:13,600><c> winning</c></c>
+
+00:28:13,990 --> 00:28:19,090 align:start position:19%
+<c,colorE5E5E5>and<00:28:14,620><c> the</c><00:28:14,710><c> person</c><00:28:15,190><c> goes</c></c><c,colorCCCCCC><00:28:15,490><c> oh</c><00:28:16,270><c> gosh</c><00:28:16,750><c> oh</c><00:28:17,410><c> look</c><00:28:17,830><c> look</c></c>
+
+00:28:18,340 --> 00:28:21,640 align:start position:19%
+at<00:28:18,520><c> this</c>
+
+00:28:19,090 --> 00:28:23,980 align:start position:19%
+we're<00:28:19,870><c> winning</c><00:28:20,260><c> almost</c><00:28:20,530><c> everywhere</c><c,colorCCCCCC><00:28:21,160><c> folks</c></c>
+
+00:28:21,640 --> 00:28:26,230 align:start position:19%
+<c,colorE5E5E5>this<00:28:22,090><c> is</c><00:28:22,330><c> going</c><00:28:22,630><c> to</c><00:28:22,690><c> be</c></c><c,colorCCCCCC><00:28:22,840><c> brexit</c></c><c,colorE5E5E5><00:28:23,350><c> this</c><00:28:23,620><c> is</c><00:28:23,770><c> going</c></c>
+
+00:28:23,980 --> 00:28:29,350 align:start position:19%
+<c,colorE5E5E5>to<00:28:24,070><c> be</c><00:28:24,190><c> special</c></c><c,colorCCCCCC><00:28:24,820><c> you</c><00:28:25,120><c> have</c><00:28:25,330><c> to</c></c><c,colorE5E5E5><00:28:25,630><c> get</c><00:28:25,870><c> out</c><00:28:25,990><c> and</c></c>
+
+00:28:26,230 --> 00:28:31,150 align:start position:19%
+vote<c,colorCCCCCC><00:28:26,320><c> but</c><00:28:27,610><c> this</c><00:28:27,820><c> is</c><00:28:27,970><c> going</c><00:28:28,150><c> to</c><00:28:28,270><c> be</c><00:28:28,390><c> special</c></c>
+
+00:28:29,350 --> 00:28:33,250 align:start position:19%
+we're<00:28:29,650><c> going</c><00:28:29,770><c> to</c><00:28:29,830><c> bring</c><00:28:29,950><c> our</c><00:28:30,100><c> jobs</c><00:28:30,700><c> back</c><00:28:30,880><c> we're</c>
+
+00:28:31,150 --> 00:28:35,080 align:start position:19%
+<c,colorCCCCCC>going<00:28:31,240><c> to</c></c><c,colorE5E5E5><00:28:31,330><c> take</c><00:28:31,510><c> care</c><00:28:31,630><c> of</c><00:28:31,840><c> our</c><00:28:32,020><c> incredible</c></c>
+
+00:28:33,250 --> 00:28:35,980 align:start position:19%
+veterans<00:28:33,940><c> who</c><00:28:34,060><c> have</c><00:28:34,150><c> been</c><00:28:34,300><c> mistreated</c><00:28:34,870><c> so</c>
+
+00:28:35,080 --> 00:28:39,580 align:start position:19%
+badly
+
+00:28:35,980 --> 00:28:41,530 align:start position:19%
+we're<c,colorCCCCCC><00:28:37,930><c> gonna</c></c><c,colorE5E5E5><00:28:38,050><c> build</c><00:28:38,290><c> up</c><00:28:38,560><c> our</c><00:28:38,620><c> military</c><00:28:38,770><c> we're</c></c>
+
+00:28:39,580 --> 00:28:43,660 align:start position:19%
+<c,colorCCCCCC>going<00:28:39,700><c> to</c><00:28:39,790><c> do</c><00:28:39,910><c> so</c><00:28:40,180><c> many</c><00:28:40,390><c> things</c><00:28:40,630><c> Hillary</c></c>
+
+00:28:41,530 --> 00:28:46,780 align:start position:19%
+<c,colorE5E5E5>Clinton<00:28:42,040><c> brought</c><00:28:42,310><c> death</c><00:28:42,640><c> and</c><00:28:42,760><c> disaster</c><00:28:43,090><c> to</c></c>
+
+00:28:43,660 --> 00:28:50,140 align:start position:19%
+<c,colorCCCCCC>Iraq<00:28:44,110><c> and</c><00:28:44,260><c> Syria</c><00:28:44,800><c> and</c><00:28:44,890><c> Libya</c><00:28:45,040><c> she</c><00:28:46,180><c> empowered</c></c>
+
+00:28:46,780 --> 00:28:53,470 align:start position:19%
+<c,colorCCCCCC>Iran<00:28:47,290><c> and</c><00:28:48,040><c> she</c><00:28:48,370><c> Unleashed</c><00:28:49,150><c> Isis</c><00:28:49,660><c> across</c><00:28:49,990><c> the</c></c>
+
+00:28:50,140 --> 00:28:55,690 align:start position:19%
+world<00:28:50,290><c> by</c><00:28:51,700><c> creating</c><00:28:52,030><c> the</c><00:28:52,780><c> vacuum</c><00:28:53,230><c> there</c><00:28:53,320><c> was</c>
+
+00:28:53,470 --> 00:28:58,600 align:start position:19%
+no<c,colorE5E5E5><00:28:53,650><c> Isis</c><00:28:54,160><c> when</c><00:28:54,340><c> she</c><00:28:54,460><c> was</c><00:28:54,670><c> Secretary</c><00:28:54,850><c> of</c><00:28:55,360><c> State</c></c>
+
+00:28:55,690 --> 00:28:59,620 align:start position:19%
+at<00:28:55,810><c> the</c><00:28:55,870><c> beginning</c><c,colorE5E5E5><00:28:56,290><c> she</c></c><c,colorCCCCCC><00:28:56,800><c> Unleashed</c><00:28:57,640><c> Isis</c><00:28:58,060><c> and</c></c>
+
+00:28:58,600 --> 00:29:03,280 align:start position:19%
+at<00:28:58,780><c> the</c><00:28:58,870><c> debates</c>
+
+00:28:59,620 --> 00:29:05,860 align:start position:19%
+by<00:28:59,710><c> the</c><00:28:59,830><c> way</c><00:28:59,980><c> did</c><c,colorCCCCCC><00:29:00,130><c> i</c><00:29:00,280><c> win</c><00:29:00,550><c> the</c><00:29:00,610><c> debate</c></c><c,colorE5E5E5><00:29:00,850><c> those</c></c>
+
+00:29:03,280 --> 00:29:08,560 align:start position:19%
+debates<c,colorE5E5E5><00:29:03,490><c> but</c></c><c,colorCCCCCC><00:29:05,050><c> I</c><00:29:05,140><c> was</c><00:29:05,290><c> a</c></c><c,colorE5E5E5><00:29:05,320><c> little</c><00:29:05,590><c> concerned</c></c>
+
+00:29:05,860 --> 00:29:09,280 align:start position:19%
+because<00:29:06,280><c> she</c><00:29:06,820><c> kept</c><00:29:07,090><c> sayin</c><00:29:07,570><c> for</c><00:29:07,960><c> like</c><00:29:08,080><c> a</c><00:29:08,260><c> week</c>
+
+00:29:08,560 --> 00:29:11,140 align:start position:19%
+and<00:29:08,650><c> a</c><00:29:08,740><c> half</c>
+
+00:29:09,280 --> 00:29:12,580 align:start position:19%
+she's<00:29:09,550><c> in</c><00:29:09,700><c> debate</c><00:29:10,120><c> prep</c><c,colorCCCCCC><00:29:10,450><c> I</c><00:29:10,510><c> kept</c></c><c,colorE5E5E5><00:29:10,750><c> saying</c><00:29:10,960><c> what</c></c>
+
+00:29:11,140 --> 00:29:14,560 align:start position:19%
+am<00:29:11,230><c> i</c><00:29:11,290><c> doing</c><00:29:11,620><c> that</c><c,colorCCCCCC><00:29:11,650><c> you</c><00:29:12,010><c> know</c></c><c,colorE5E5E5><00:29:12,070><c> I</c><00:29:12,220><c> don't</c><00:29:12,340><c> mind</c></c>
+
+00:29:12,580 --> 00:29:15,970 align:start position:19%
+<c,colorE5E5E5>the</c><c,colorCCCCCC><00:29:12,670><c> big</c><00:29:12,880><c> prep</c><00:29:13,120><c> but</c><00:29:13,270><c> you</c></c><c,colorE5E5E5><00:29:13,870><c> supposed</c><00:29:14,380><c> to</c><00:29:14,470><c> know</c></c>
+
+00:29:14,560 --> 00:29:19,120 align:start position:19%
+<c,colorE5E5E5>this<00:29:14,890><c> stuff</c><00:29:14,980><c> you're</c><00:29:15,250><c> not</c><00:29:15,370><c> supposed</c><00:29:15,490><c> to</c><00:29:15,820><c> be</c></c>
+
+00:29:15,970 --> 00:29:20,800 align:start position:19%
+prepping<c,colorE5E5E5><00:29:16,330><c> too</c><00:29:16,570><c> much</c><00:29:16,840><c> she</c><00:29:17,920><c> was</c><00:29:18,130><c> in</c><00:29:18,310><c> debate</c><00:29:18,730><c> prep</c></c>
+
+00:29:19,120 --> 00:29:24,970 align:start position:19%
+every<00:29:19,360><c> time</c><00:29:19,690><c> for</c><00:29:19,870><c> a</c><00:29:19,900><c> week</c><00:29:20,170><c> to</c><00:29:20,350><c> a</c><00:29:20,380><c> week</c><00:29:20,470><c> and</c><00:29:20,740><c> a</c>
+
+00:29:20,800 --> 00:29:28,540 align:start position:19%
+half<00:29:20,890><c> and</c><c,colorE5E5E5><00:29:22,450><c> and</c><00:29:23,650><c> by</c><00:29:23,770><c> the</c><00:29:23,920><c> way</c><00:29:24,040><c> every</c><00:29:24,850><c> single</c></c>
+
+00:29:24,970 --> 00:29:31,810 align:start position:19%
+online<c,colorCCCCCC><00:29:25,930><c> paul</c><00:29:26,620><c> said</c><00:29:27,310><c> i</c><00:29:27,430><c> won</c></c><c,colorE5E5E5><00:29:27,730><c> the</c><00:29:27,850><c> debates</c><00:29:28,360><c> by</c></c>
+
+00:29:28,540 --> 00:29:33,760 align:start position:19%
+<c,colorE5E5E5>many<00:29:28,810><c> as</c><00:29:28,870><c> one</c></c><c,colorCCCCCC><00:29:28,960><c> had</c><00:29:29,290><c> 9210</c></c><c,colorE5E5E5><00:29:30,160><c> but</c><00:29:31,240><c> that</c><00:29:31,360><c> we</c></c><c,colorCCCCCC><00:29:31,480><c> won</c></c><c,colorE5E5E5><00:29:31,720><c> the</c></c>
+
+00:29:31,810 --> 00:29:35,560 align:start position:19%
+debates<00:29:32,200><c> but</c><00:29:32,620><c> she's</c><00:29:32,920><c> prepping</c><c,colorCCCCCC><00:29:33,310><c> but</c><00:29:33,640><c> she</c></c>
+
+00:29:33,760 --> 00:29:38,110 align:start position:19%
+wasn't<00:29:34,060><c> really</c><00:29:34,330><c> prepping</c><c,colorCCCCCC><00:29:34,870><c> she</c><00:29:35,140><c> was</c><00:29:35,320><c> actually</c></c>
+
+00:29:35,560 --> 00:29:40,750 align:start position:19%
+resting<00:29:36,250><c> and</c><00:29:36,460><c> sleeping</c><00:29:36,640><c> folks</c><c,colorE5E5E5><00:29:37,300><c> this</c><00:29:37,600><c> is</c><00:29:37,870><c> not</c></c>
+
+00:29:38,110 --> 00:29:43,510 align:start position:19%
+what<00:29:38,380><c> you</c><00:29:38,470><c> need</c><00:29:38,740><c> for</c><00:29:39,010><c> your</c><00:29:39,160><c> president</c><c,colorE5E5E5><00:29:39,820><c> with</c></c>
+
+00:29:40,750 --> 00:29:44,890 align:start position:19%
+<c,colorCCCCCC>China<00:29:41,320><c> ripping</c><00:29:41,770><c> us</c><00:29:41,890><c> off</c><00:29:42,010><c> on</c></c><c,colorE5E5E5><00:29:42,400><c> tread</c><00:29:42,850><c> and</c><00:29:43,360><c> we're</c></c>
+
+00:29:43,510 --> 00:29:47,920 align:start position:19%
+gonna<00:29:43,600><c> have</c><00:29:43,720><c> a</c><00:29:43,750><c> great</c><00:29:43,900><c> relationship</c><00:29:44,170><c> with</c>
+
+00:29:44,890 --> 00:29:49,690 align:start position:19%
+<c,colorE5E5E5>China<00:29:45,430><c> with</c></c><c,colorCCCCCC><00:29:46,180><c> Japan</c><00:29:47,050><c> with</c><00:29:47,290><c> all</c><00:29:47,620><c> of</c><00:29:47,830><c> these</c></c>
+
+00:29:47,920 --> 00:29:52,660 align:start position:19%
+countries<00:29:48,310><c> what</c><00:29:48,700><c> they're</c><00:29:48,850><c> doing</c><00:29:49,180><c> to</c><00:29:49,270><c> us</c><00:29:49,570><c> is</c>
+
+00:29:49,690 --> 00:29:55,030 align:start position:19%
+incredible<00:29:50,320><c> incredible</c><c,colorCCCCCC><00:29:51,250><c> Mexico</c><00:29:52,420><c> at</c><00:29:52,600><c> the</c></c>
+
+00:29:52,660 --> 00:29:55,630 align:start position:19%
+border<c,colorE5E5E5><00:29:53,110><c> mexico</c><00:29:54,280><c> with</c><00:29:54,490><c> trade</c><00:29:54,760><c> we</c><00:29:54,880><c> have</c><00:29:54,970><c> a</c></c>
+
+00:29:55,030 --> 00:29:59,020 align:start position:19%
+<c,colorCCCCCC>massive</c>
+
+00:29:55,630 --> 00:30:03,010 align:start position:19%
+trade<00:29:55,930><c> deficit</c><00:29:56,470><c> with</c><00:29:56,500><c> mexico</c><c,colorE5E5E5><00:29:56,710><c> worldwide</c></c><c,colorCCCCCC><00:29:58,480><c> we</c></c>
+
+00:29:59,020 --> 00:30:05,650 align:start position:19%
+have<00:29:59,170><c> almost</c><c,colorCCCCCC><00:29:59,590><c> and</c></c><c,colorE5E5E5><00:30:00,280><c> 800</c><00:30:01,570><c> billion</c><00:30:02,080><c> dollar</c><00:30:02,680><c> trade</c></c>
+
+00:30:03,010 --> 00:30:07,300 align:start position:19%
+deficit<00:30:03,640><c> think</c><00:30:03,880><c> of</c><00:30:04,000><c> it</c><00:30:04,120><c> you</c><c,colorE5E5E5><00:30:04,870><c> say</c><00:30:05,020><c> who's</c><00:30:05,530><c> our</c></c>
+
+00:30:05,650 --> 00:30:08,680 align:start position:19%
+negotiators<c,colorCCCCCC><00:30:06,340><c> we</c><00:30:06,730><c> have</c><00:30:06,880><c> the</c><00:30:06,970><c> greatest</c></c>
+
+00:30:07,300 --> 00:30:10,900 align:start position:19%
+business<00:30:07,840><c> people</c><00:30:08,140><c> in</c><00:30:08,290><c> the</c><00:30:08,350><c> world</c><00:30:08,590><c> the</c>
+
+00:30:08,680 --> 00:30:14,710 align:start position:19%
+greatest<00:30:08,950><c> negotiators</c><00:30:09,190><c> in</c><00:30:09,850><c> the</c><00:30:09,940><c> world</c><c,colorE5E5E5><00:30:10,180><c> we</c><00:30:10,600><c> use</c></c>
+
+00:30:10,900 --> 00:30:18,280 align:start position:19%
+political<00:30:11,500><c> hacks</c><c,colorCCCCCC><00:30:11,800><c> Hillary</c><00:30:13,990><c> in</c></c><c,colorE5E5E5><00:30:14,110><c> our</c><00:30:14,260><c> failed</c></c>
+
+00:30:14,710 --> 00:30:20,530 align:start position:19%
+establishment<c,colorE5E5E5><00:30:15,640><c> have</c><00:30:16,210><c> spent</c></c><c,colorCCCCCC><00:30:16,750><c> six</c><00:30:17,620><c> trillion</c></c>
+
+00:30:18,280 --> 00:30:23,830 align:start position:19%
+dollars<00:30:18,940><c> on</c><00:30:19,240><c> wars</c><00:30:19,780><c> in</c><00:30:19,900><c> the</c><c,colorCCCCCC><00:30:19,960><c> Middle</c><00:30:20,260><c> East</c><00:30:20,500><c> that</c></c>
+
+00:30:20,530 --> 00:30:26,260 align:start position:19%
+we<00:30:20,680><c> never</c><00:30:20,890><c> win</c><c,colorE5E5E5><00:30:21,250><c> and</c><00:30:22,270><c> now</c><00:30:22,300><c> the</c><00:30:22,960><c> Middle</c><00:30:23,260><c> East</c><00:30:23,620><c> is</c></c>
+
+00:30:23,830 --> 00:30:29,290 align:start position:19%
+in<00:30:23,920><c> worse</c><00:30:24,250><c> shape</c><c,colorCCCCCC><00:30:24,340><c> Farley</c><00:30:25,510><c> I</c><00:30:25,690><c> mean</c><00:30:25,990><c> there's</c><00:30:26,140><c> not</c></c>
+
+00:30:26,260 --> 00:30:31,870 align:start position:19%
+even<00:30:26,380><c> a</c><00:30:26,530><c> contest</c><c,colorE5E5E5><00:30:26,920><c> than</c><00:30:28,360><c> ever</c><00:30:28,600><c> before</c><00:30:28,990><c> worship</c></c>
+
+00:30:29,290 --> 00:30:33,820 align:start position:19%
+than<c,colorE5E5E5><00:30:29,740><c> ever</c><00:30:29,950><c> before</c><00:30:30,400><c> they</c><00:30:31,060><c> dragged</c><00:30:31,660><c> us</c><00:30:31,690><c> into</c></c>
+
+00:30:31,870 --> 00:30:36,550 align:start position:19%
+foreign<00:30:32,530><c> wars</c><00:30:32,860><c> that</c><00:30:32,950><c> make</c><00:30:33,220><c> us</c><00:30:33,430><c> less</c><00:30:33,640><c> safe</c>
+
+00:30:33,820 --> 00:30:39,880 align:start position:19%
+<c,colorCCCCCC>shipped<00:30:34,930><c> our</c><00:30:35,110><c> goods</c><00:30:35,590><c> and</c><00:30:35,770><c> wealth</c><00:30:36,100><c> to</c><00:30:36,220><c> other</c></c>
+
+00:30:36,550 --> 00:30:43,090 align:start position:19%
+countries<00:30:36,820><c> and</c><00:30:37,780><c> they</c><00:30:37,930><c> left</c><00:30:38,260><c> our</c><00:30:38,590><c> borders</c><c,colorCCCCCC><00:30:39,190><c> wide</c></c>
+
+00:30:39,880 --> 00:30:44,890 align:start position:19%
+<c,colorCCCCCC>open</c><c,colorE5E5E5><00:30:40,420><c> at</c><00:30:40,930><c> home</c><00:30:41,230><c> we</c><00:30:42,040><c> send</c><00:30:42,430><c> our</c><00:30:42,520><c> troops</c><00:30:42,640><c> to</c></c>
+
+00:30:43,090 --> 00:30:48,610 align:start position:19%
+foreign<00:30:43,570><c> countries</c><00:30:43,630><c> to</c><00:30:44,290><c> defend</c><00:30:44,770><c> their</c>
+
+00:30:44,890 --> 00:30:52,750 align:start position:19%
+borders<c,colorE5E5E5><00:30:45,400><c> but</c><00:30:46,030><c> our</c><00:30:46,180><c> politicians</c><00:30:46,930><c> refuse</c><00:30:47,980><c> to</c></c>
+
+00:30:48,610 --> 00:30:56,110 align:start position:19%
+defend<00:30:49,090><c> our</c><00:30:49,300><c> borders</c><c,colorE5E5E5><00:30:49,510><c> that</c><00:30:51,640><c> will</c><00:30:51,940><c> change</c><00:30:52,540><c> in</c></c>
+
+00:30:52,750 --> 00:30:59,680 align:start position:19%
+november<c,colorCCCCCC><00:30:53,200><c> eight</c><00:30:53,560><c> and</c><00:30:54,580><c> Trump</c><00:30:54,970><c> administration</c></c>
+
+00:30:56,110 --> 00:31:02,290 align:start position:19%
+will<00:30:57,010><c> never</c><00:30:57,490><c> ever</c><00:30:57,880><c> put</c><00:30:58,240><c> the</c><00:30:58,360><c> interests</c><00:30:58,810><c> of</c><00:30:59,470><c> a</c>
+
+00:30:59,680 --> 00:31:08,050 align:start position:19%
+foreign<00:31:00,280><c> country</c><00:31:00,790><c> before</c><00:31:01,120><c> the</c><00:31:01,330><c> interests</c><00:31:02,200><c> of</c>
+
+00:31:02,290 --> 00:31:12,360 align:start position:19%
+our<00:31:02,590><c> country</c><00:31:02,950><c> from</c><00:31:06,580><c> now</c><00:31:06,850><c> on</c><00:31:07,360><c> it</c><00:31:07,600><c> will</c><00:31:07,720><c> be</c>
+
+00:31:08,050 --> 00:31:15,600 align:start position:19%
+America<00:31:09,340><c> first</c>
+
+00:31:12,360 --> 00:31:19,020 align:start position:19%
+<c,colorCCCCCC>two<00:31:12,870><c> all-americans</c><00:31:13,230><c> I</c><00:31:14,040><c> say</c><00:31:14,400><c> it's</c><00:31:14,940><c> time</c><00:31:15,030><c> for</c></c>
+
+00:31:15,600 --> 00:31:22,290 align:start position:19%
+change<00:31:15,690><c> it's</c><00:31:16,530><c> time</c><00:31:16,950><c> for</c><00:31:17,130><c> new</c><00:31:17,309><c> leadership</c><c,colorCCCCCC><00:31:17,429><c> can</c></c>
+
+00:31:19,020 --> 00:31:26,190 align:start position:19%
+you<00:31:19,140><c> imagine</c><c,colorCCCCCC><00:31:19,410><c> four</c><00:31:20,580><c> more</c></c><c,colorE5E5E5><00:31:21,120><c> years</c><00:31:21,360><c> of</c></c><c,colorCCCCCC><00:31:21,660><c> Obama</c></c>
+
+00:31:22,290 --> 00:31:29,100 align:start position:19%
+<c,colorE5E5E5>meaning</c><c,colorCCCCCC><00:31:23,040><c> high</c><00:31:23,640><c> taxes</c></c><c,colorE5E5E5><00:31:24,450><c> think</c><00:31:25,380><c> of</c><00:31:25,559><c> it</c></c><c,colorCCCCCC><00:31:25,679><c> high</c></c>
+
+00:31:26,190 --> 00:31:32,730 align:start position:19%
+taxes<c,colorCCCCCC><00:31:26,910><c> Isis</c><00:31:27,480><c> all</c><00:31:27,750><c> over</c><00:31:28,140><c> the</c><00:31:28,290><c> place</c></c>
+
+00:31:29,100 --> 00:31:37,170 align:start position:19%
+radical<00:31:29,790><c> Islamic</c><00:31:30,450><c> terrorists</c><00:31:31,080><c> all</c><00:31:31,380><c> thing</c><c,colorE5E5E5><00:31:31,770><c> she</c></c>
+
+00:31:32,730 --> 00:31:40,620 align:start position:19%
+will<00:31:33,360><c> be</c><00:31:33,540><c> worse</c><00:31:33,960><c> than</c><c,colorE5E5E5><00:31:34,500><c> Obama</c></c><c,colorCCCCCC><00:31:34,799><c> she</c><00:31:36,450><c> will</c><00:31:37,020><c> be</c></c>
+
+00:31:37,170 --> 00:31:43,110 align:start position:19%
+worse<c,colorE5E5E5><00:31:37,559><c> that</c></c><c,colorCCCCCC><00:31:38,400><c> obama</c></c><c,colorE5E5E5><00:31:38,970><c> just</c><00:31:39,840><c> think</c><00:31:40,200><c> about</c><00:31:40,350><c> what</c></c>
+
+00:31:40,620 --> 00:31:46,470 align:start position:19%
+we<00:31:40,920><c> can</c><00:31:41,100><c> accomplish</c><00:31:41,400><c> in</c><00:31:41,940><c> the</c><00:31:42,030><c> first</c><00:31:42,390><c> 100</c><00:31:43,020><c> days</c>
+
+00:31:43,110 --> 00:31:48,660 align:start position:19%
+of<00:31:43,440><c> a</c><c,colorE5E5E5><00:31:43,530><c> trump</c><00:31:43,860><c> administration</c></c><c,colorCCCCCC><00:31:44,760><c> we're</c><00:31:46,020><c> going</c></c><c,colorE5E5E5><00:31:46,380><c> to</c></c>
+
+00:31:46,470 --> 00:31:50,340 align:start position:19%
+have<00:31:46,710><c> the</c><00:31:46,860><c> biggest</c><00:31:46,980><c> tax</c><00:31:47,520><c> cut</c><00:31:47,880><c> since</c><c,colorCCCCCC><00:31:48,150><c> Ronald</c></c>
+
+00:31:48,660 --> 00:31:52,830 align:start position:19%
+<c,colorCCCCCC>Reagan<00:31:49,049><c> even</c><00:31:49,260><c> bigger</c><00:31:49,590><c> she's</c></c><c,colorE5E5E5><00:31:49,890><c> gonna</c><00:31:50,040><c> raise</c></c>
+
+00:31:50,340 --> 00:31:56,220 align:start position:19%
+your<00:31:50,520><c> taxes</c><c,colorCCCCCC><00:31:51,030><c> we</c><00:31:51,750><c> will</c><00:31:51,960><c> eliminate</c><00:31:52,200><c> every</c></c>
+
+00:31:52,830 --> 00:31:59,640 align:start position:19%
+unnecessary<00:31:53,790><c> job-killing</c><00:31:54,360><c> regulation</c><c,colorCCCCCC><00:31:55,620><c> can</c></c>
+
+00:31:56,220 --> 00:32:03,929 align:start position:19%
+<c,colorCCCCCC>so<00:31:56,549><c> every</c><00:31:56,970><c> illegal</c><00:31:57,419><c> Obama</c></c><c,colorE5E5E5><00:31:58,440><c> executive</c><00:31:59,309><c> order</c></c>
+
+00:31:59,640 --> 00:32:08,549 align:start position:19%
+<c,colorE5E5E5>we<00:32:00,929><c> will</c><00:32:01,140><c> protect</c><00:32:01,860><c> religious</c><00:32:02,910><c> liberty</c><00:32:03,690><c> have</c></c>
+
+00:32:03,929 --> 00:32:11,429 align:start position:19%
+to<00:32:04,110><c> do</c><00:32:04,290><c> rebuild</c><00:32:07,020><c> our</c><00:32:07,200><c> military</c><00:32:07,440><c> and</c><00:32:08,220><c> take</c>
+
+00:32:08,549 --> 00:32:16,410 align:start position:19%
+great<00:32:08,940><c> great</c><00:32:09,360><c> care</c><00:32:09,809><c> of</c><00:32:10,620><c> our</c><00:32:11,010><c> phenomenal</c>
+
+00:32:11,429 --> 00:32:18,900 align:start position:19%
+<c,colorE5E5E5>veterans<00:32:12,809><c> we</c><00:32:14,610><c> will</c><00:32:14,850><c> provide</c><00:32:15,240><c> school</c><00:32:15,900><c> choice</c></c>
+
+00:32:16,410 --> 00:32:23,910 align:start position:19%
+and<00:32:17,220><c> put</c><00:32:17,400><c> it</c><00:32:17,520><c> into</c><c,colorCCCCCC><00:32:17,850><c> common</c><00:32:18,390><c> core</c></c><c,colorE5E5E5><00:32:18,720><c> were</c></c>
+
+00:32:18,900 --> 00:32:26,490 align:start position:19%
+bringing<00:32:19,470><c> our</c><00:32:19,710><c> education</c><00:32:20,730><c> local</c><00:32:21,390><c> we</c><00:32:23,580><c> will</c>
+
+00:32:23,910 --> 00:32:27,990 align:start position:19%
+support<00:32:24,360><c> the</c><00:32:24,840><c> great</c><00:32:25,230><c> men</c><00:32:25,590><c> and</c><00:32:25,650><c> women</c><00:32:26,160><c> of</c><00:32:26,250><c> law</c>
+
+00:32:26,490 --> 00:32:31,320 align:start position:19%
+enforcement
+
+00:32:27,990 --> 00:32:34,380 align:start position:19%
+we're<00:32:29,910><c> going</c><00:32:30,150><c> to</c><00:32:30,240><c> save</c><00:32:30,600><c> the</c><c,colorCCCCCC><00:32:30,750><c> Second</c><00:32:31,290><c> Amendment</c></c>
+
+00:32:31,320 --> 00:32:37,169 align:start position:19%
+<c,colorE5E5E5>which<00:32:31,919><c> is</c><00:32:32,190><c> under</c><00:32:32,610><c> siege</c><00:32:33,120><c> and</c><00:32:33,660><c> appoint</c></c>
+
+00:32:34,380 --> 00:32:39,600 align:start position:19%
+justices<00:32:34,919><c> to</c><00:32:35,790><c> the</c><c,colorCCCCCC><00:32:35,910><c> United</c><00:32:36,480><c> States</c><00:32:36,720><c> Supreme</c></c>
+
+00:32:37,169 --> 00:32:44,730 align:start position:19%
+<c,colorCCCCCC>Court<00:32:37,440><c> who</c><00:32:38,220><c> will</c><00:32:38,400><c> uphold</c><00:32:38,610><c> and</c><00:32:39,030><c> defend</c><00:32:39,120><c> the</c></c>
+
+00:32:39,600 --> 00:32:47,340 align:start position:19%
+<c,colorE5E5E5>Constitution<00:32:40,830><c> of</c><00:32:41,190><c> the</c><00:32:41,429><c> United</c><00:32:41,549><c> States</c><00:32:42,090><c> it's</c></c>
+
+00:32:44,730 --> 00:32:49,919 align:start position:19%
+time<00:32:45,120><c> to</c><00:32:45,270><c> cut</c><00:32:45,570><c> our</c><00:32:45,630><c> ties</c><00:32:46,230><c> with</c><00:32:46,740><c> the</c><c,colorE5E5E5><00:32:46,830><c> failed</c></c>
+
+00:32:47,340 --> 00:32:52,290 align:start position:19%
+politicians<00:32:48,299><c> of</c><00:32:48,960><c> the</c><00:32:49,110><c> past</c>
+
+00:32:49,919 --> 00:32:55,799 align:start position:19%
+<c,colorCCCCCC>Hillary<00:32:50,760><c> Clinton</c><00:32:51,210><c> is</c><00:32:51,270><c> a</c><00:32:51,450><c> candidate</c><00:32:52,080><c> of</c></c>
+
+00:32:52,290 --> 00:32:59,370 align:start position:19%
+yesterday<c,colorE5E5E5><00:32:52,470><c> we</c><00:32:53,580><c> are</c><00:32:54,150><c> the</c><00:32:54,330><c> movement</c><00:32:54,990><c> of</c><00:32:55,350><c> the</c></c>
+
+00:32:55,799 --> 00:33:02,910 align:start position:19%
+future<00:32:56,490><c> we</c><c,colorE5E5E5><00:32:57,540><c> are</c><00:32:57,750><c> the</c><00:32:58,080><c> movement</c><00:32:58,559><c> of</c><00:32:58,679><c> the</c><00:32:58,799><c> future</c></c>
+
+00:32:59,370 --> 00:33:04,470 align:start position:19%
+and<00:33:01,410><c> it's</c><00:33:01,559><c> such</c><00:33:01,740><c> a</c><00:33:01,830><c> beautiful</c><c,colorCCCCCC><00:33:02,010><c> sight</c><00:33:02,580><c> look</c></c><c,colorE5E5E5><00:33:02,760><c> I'm</c></c>
+
+00:33:02,910 --> 00:33:06,450 align:start position:19%
+looking<00:33:03,210><c> all</c><00:33:03,360><c> the</c><00:33:03,419><c> way</c><00:33:03,510><c> over</c><00:33:03,809><c> to</c><00:33:03,870><c> that</c><00:33:03,960><c> hangar</c>
+
+00:33:04,470 --> 00:33:09,070 align:start position:19%
+over<00:33:04,740><c> there</c><00:33:04,830><c> the</c><00:33:05,040><c> people</c><c,colorE5E5E5><00:33:05,220><c> are</c><00:33:05,549><c> lined</c><00:33:05,910><c> up</c></c><c,colorCCCCCC><00:33:05,970><c> that</c></c>
+
+00:33:06,450 --> 00:33:12,100 align:start position:19%
+is<00:33:06,630><c> a</c><00:33:06,720><c> lot</c><00:33:06,960><c> of</c><00:33:07,200><c> people</c><00:33:07,590><c> man</c>
+
+00:33:09,070 --> 00:33:13,509 align:start position:19%
+<c,colorCCCCCC>it's<00:33:09,700><c> always</c></c><c,colorE5E5E5><00:33:09,880><c> a</c><00:33:10,059><c> lot</c><00:33:10,299><c> of</c><00:33:10,389><c> people</c><00:33:10,690><c> all</c><00:33:11,950><c> the</c><00:33:12,070><c> way</c></c>
+
+00:33:12,100 --> 00:33:17,019 align:start position:19%
+to<00:33:12,399><c> the</c><00:33:12,519><c> back</c><00:33:12,850><c> of</c><00:33:13,029><c> this</c>
+
+00:33:13,509 --> 00:33:18,610 align:start position:19%
+hello<00:33:13,750><c> folks</c><00:33:14,769><c> it's</c><00:33:16,029><c> an</c><00:33:16,120><c> amazing</c><00:33:16,720><c> thing</c><00:33:16,809><c> and</c>
+
+00:33:17,019 --> 00:33:20,259 align:start position:19%
+this<00:33:17,200><c> is</c><00:33:17,440><c> taking</c><00:33:17,769><c> place</c><00:33:17,830><c> all</c><00:33:18,130><c> over</c><00:33:18,340><c> the</c>
+
+00:33:18,610 --> 00:33:22,149 align:start position:19%
+country<00:33:19,000><c> no</c><00:33:19,029><c> matter</c><00:33:19,120><c> where</c><00:33:19,509><c> we</c><00:33:19,570><c> go</c>
+
+00:33:20,259 --> 00:33:24,639 align:start position:19%
+whether<00:33:20,529><c> it's</c><00:33:20,710><c> a</c><c,colorCCCCCC><00:33:20,769><c> hanger</c></c><c,colorE5E5E5><00:33:21,220><c> whether</c><00:33:21,970><c> it's</c></c>
+
+00:33:22,149 --> 00:33:27,009 align:start position:19%
+<c,colorCCCCCC>Hershey<00:33:22,480><c> Pennsylvania</c><00:33:22,659><c> where</c><00:33:23,649><c> the</c><00:33:24,309><c> most</c></c>
+
+00:33:24,639 --> 00:33:30,250 align:start position:19%
+incredible<00:33:25,240><c> crowd</c><00:33:25,480><c> you've</c><00:33:25,809><c> ever</c><00:33:26,019><c> seen</c>
+
+00:33:27,009 --> 00:33:31,899 align:start position:19%
+I<00:33:27,220><c> mean</c><00:33:27,490><c> just</c><c,colorE5E5E5><00:33:27,549><c> everyday</c></c><c,colorCCCCCC><00:33:28,360><c> everynight</c><00:33:29,320><c> the</c></c>
+
+00:33:30,250 --> 00:33:34,539 align:start position:19%
+crowds<00:33:30,730><c> are</c><00:33:30,789><c> incredible</c>
+
+00:33:31,899 --> 00:33:36,820 align:start position:19%
+we're<00:33:32,110><c> fighting</c><00:33:32,590><c> for</c><00:33:32,679><c> every</c><00:33:33,130><c> parent</c><00:33:33,700><c> who</c><00:33:34,269><c> lost</c>
+
+00:33:34,539 --> 00:33:37,960 align:start position:19%
+their<00:33:34,779><c> child</c><00:33:35,259><c> to</c><00:33:35,320><c> drugs</c><00:33:35,860><c> and</c><00:33:35,950><c> crime</c><00:33:36,130><c> and</c><00:33:36,460><c> gang</c>
+
+00:33:36,820 --> 00:33:39,940 align:start position:19%
+violence
+
+00:33:37,960 --> 00:33:42,759 align:start position:19%
+<c,colorE5E5E5>we're<00:33:38,169><c> fighting</c><00:33:38,620><c> for</c><00:33:38,679><c> every</c><00:33:39,070><c> community</c><00:33:39,610><c> whose</c></c>
+
+00:33:39,940 --> 00:33:45,340 align:start position:19%
+jobs<c,colorE5E5E5><00:33:40,480><c> and</c><00:33:40,659><c> dreams</c><00:33:41,139><c> have</c><00:33:41,259><c> been</c><00:33:41,379><c> ripped</c><00:33:41,830><c> out</c><00:33:41,950><c> and</c></c>
+
+00:33:42,759 --> 00:33:47,200 align:start position:19%
+shipped<00:33:43,330><c> to</c><00:33:43,899><c> other</c><00:33:44,139><c> countries</c>
+
+00:33:45,340 --> 00:33:49,000 align:start position:19%
+<c,colorE5E5E5>we're<00:33:45,519><c> fighting</c><00:33:45,970><c> for</c><00:33:46,059><c> every</c><00:33:46,480><c> American</c><00:33:46,720><c> who</c></c>
+
+00:33:47,200 --> 00:33:51,940 align:start position:19%
+believes<00:33:47,769><c> government</c><00:33:48,309><c> should</c><00:33:48,490><c> serve</c><00:33:48,850><c> the</c>
+
+00:33:49,000 --> 00:33:56,649 align:start position:19%
+people<00:33:49,179><c> not</c><00:33:49,990><c> the</c><00:33:50,200><c> donors</c><00:33:50,799><c> and</c><00:33:51,250><c> not</c><00:33:51,549><c> the</c>
+
+00:33:51,940 --> 00:34:00,159 align:start position:19%
+<c,colorCCCCCC>special<00:33:52,450><c> interest</c><00:33:52,990><c> i'm</c></c><c,colorE5E5E5><00:33:54,789><c> asking</c><00:33:55,450><c> you</c><00:33:55,539><c> to</c><00:33:56,409><c> dream</c></c>
+
+00:33:56,649 --> 00:34:04,029 align:start position:19%
+big<c,colorE5E5E5><00:33:57,129><c> because</c><00:33:57,759><c> with</c><00:33:58,269><c> your</c><00:33:58,509><c> vote</c></c><c,colorCCCCCC><00:33:58,899><c> we</c><00:33:59,529><c> are</c><00:33:59,679><c> just</c></c>
+
+00:34:00,159 --> 00:34:19,629 align:start position:19%
+three<00:34:00,730><c> days</c><00:34:01,029><c> away</c><00:34:01,570><c> from</c><00:34:02,440><c> the</c><00:34:02,679><c> change</c><c,colorCCCCCC><00:34:03,429><c> you've</c></c>
+
+00:34:04,029 --> 00:34:21,789 align:start position:19%
+been<c,colorE5E5E5><00:34:04,179><c> waiting</c><00:34:04,509><c> for</c><00:34:04,750><c> for</c><00:34:05,440><c> your</c><00:34:05,590><c> entire</c><00:34:06,009><c> life</c></c>
+
+00:34:19,629 --> 00:34:24,399 align:start position:19%
+<c,colorCCCCCC>so<00:34:20,049><c> I</c><00:34:20,109><c> want</c><00:34:20,319><c> to</c><00:34:20,440><c> thank</c><00:34:20,559><c> all</c><00:34:20,950><c> of</c><00:34:21,190><c> the</c><00:34:21,339><c> people</c><00:34:21,519><c> who</c></c>
+
+00:34:21,789 --> 00:34:28,059 align:start position:19%
+supported<00:34:22,419><c> me</c><c,colorCCCCCC><00:34:22,569><c> I</c><00:34:23,470><c> want</c></c><c,colorE5E5E5><00:34:23,799><c> to</c></c><c,colorCCCCCC><00:34:23,889><c> thank</c><00:34:24,220><c> my</c></c>
+
+00:34:24,399 --> 00:34:31,210 align:start position:19%
+incredible<00:34:24,730><c> incredible</c><00:34:26,349><c> family</c><c,colorCCCCCC><00:34:26,950><c> I</c><00:34:27,700><c> want</c></c><c,colorE5E5E5><00:34:28,000><c> to</c></c>
+
+00:34:28,059 --> 00:34:33,399 align:start position:19%
+thank<00:34:28,389><c> your</c><00:34:28,629><c> incredible</c><c,colorE5E5E5><00:34:29,230><c> governor</c></c><c,colorCCCCCC><00:34:29,769><c> get</c><00:34:31,029><c> out</c></c>
+
+00:34:31,210 --> 00:34:37,269 align:start position:19%
+<c,colorE5E5E5>and<00:34:31,389><c> vote</c><00:34:31,450><c> for</c><00:34:31,750><c> Fox</c><00:34:32,379><c> is</c><00:34:32,500><c> a</c><00:34:32,559><c> good</c><00:34:32,799><c> man</c><00:34:33,129><c> and</c><00:34:33,250><c> he's</c></c>
+
+00:34:33,399 --> 00:34:39,819 align:start position:19%
+going<00:34:33,519><c> to</c><00:34:33,579><c> do</c><00:34:33,730><c> a</c><00:34:33,819><c> great</c><00:34:33,909><c> job</c><00:34:34,210><c> but</c><00:34:36,519><c> we</c><00:34:36,730><c> are</c><00:34:36,909><c> going</c>
+
+00:34:37,269 --> 00:34:42,669 align:start position:19%
+to<00:34:37,359><c> all</c><00:34:37,659><c> get</c><00:34:37,899><c> together</c><c,colorE5E5E5><00:34:38,049><c> we're</c><00:34:39,099><c> going</c><00:34:39,129><c> to</c><00:34:39,519><c> those</c></c>
+
+00:34:39,819 --> 00:34:45,399 align:start position:19%
+<c,colorE5E5E5>Falls<00:34:40,389><c> together</c><00:34:41,619><c> we</c><00:34:41,799><c> will</c><00:34:41,980><c> make</c><00:34:42,099><c> America</c></c>
+
+00:34:42,669 --> 00:34:49,480 align:start position:19%
+wealthy<00:34:43,329><c> again</c><00:34:43,720><c> we</c><00:34:44,559><c> will</c><00:34:44,740><c> make</c><00:34:45,039><c> America</c>
+
+00:34:45,399 --> 00:34:54,220 align:start position:19%
+strong<00:34:46,210><c> again</c><00:34:46,629><c> we</c><00:34:47,440><c> will</c><00:34:47,799><c> make</c><00:34:48,279><c> America</c><00:34:48,759><c> safe</c>
+
+00:34:49,480 --> 00:34:56,289 align:start position:19%
+again<c,colorE5E5E5><00:34:49,990><c> and</c><00:34:50,710><c> we</c><00:34:50,950><c> will</c><00:34:51,759><c> make</c><00:34:51,970><c> America</c><00:34:53,019><c> great</c></c>
+
+00:34:54,220 --> 00:34:59,349 align:start position:19%
+again<c,colorE5E5E5><00:34:54,339><c> thank</c><00:34:55,329><c> you</c><00:34:55,419><c> very</c><00:34:55,509><c> much</c><00:34:55,929><c> everybody</c></c>
+
+00:34:56,289 --> 00:35:07,319 align:start position:19%
+<c,colorE5E5E5>thank<00:34:57,069><c> you</c><00:34:57,369><c> thank</c><00:34:58,180><c> you</c><00:34:58,269><c> very</c><00:34:58,359><c> much</c></c>
+
+00:34:59,349 --> 00:35:07,319 align:start position:19%
+fantastic<00:35:00,549><c> people</c><00:35:01,210><c> god</c><00:35:01,390><c> bless</c><00:35:01,690><c> you</c><00:35:01,779><c> everybody</c>
+
