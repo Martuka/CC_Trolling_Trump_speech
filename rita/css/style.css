@@ -30,3 +30,15 @@ h1 {
 	white-space: pre-wrap;
 	margin: 10px 0px;
 }
+
+.paging-button {
+  visibility: hidden;
+}
+
+.button-container {
+  clear: both;
+}
+
+.text-display {
+	text-align: center;
+}
