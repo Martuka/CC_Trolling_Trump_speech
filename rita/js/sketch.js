@@ -29,6 +29,7 @@ function prepareHTML() {
 
 	textarea = createDiv(displayed_text);
 	textarea.id('text');
+	textarea.class('text-display');
 
 	var nounDiv =  createDiv('');
 	nounDiv.id('input');
@@ -91,7 +92,9 @@ function prepareHTML() {
 
 	var areaWidth = (windowWidth / 6) * 4;
 	textarea.style('max-width', areaWidth);
-	textarea.position(windowWidth * 2/6, windowHeight * 7/16);
+	textarea.style('margin-top', '2cm');
+	textarea.parent('sketchContainer');
+
 }
 
 function submition() {
