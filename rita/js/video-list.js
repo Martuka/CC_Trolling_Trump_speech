@@ -59,9 +59,10 @@ function requestVideoPlaylist(playlistId, pageToken) {
 function displayResult(videoSnippet, increment) {
 	var title = videoSnippet.title;
 	var videoId = videoSnippet.resourceId.videoId;
-	$('#video-container').append('<p id=' + '"' + increment + '"' + '>' + title + ' - ' + videoId + '</p>');
+	$('#video-container').append('<p id=' + '"' + increment + '"' + '>' + title + '</p>');
 	$('#' + increment).click(function() {
-		alert(videoId);
+		// alert(videoId);
+		videoID = videoId;
 		downloadCaptions(videoId);
 	});
 }
@@ -76,8 +77,7 @@ function previousPage() {
 	requestVideoPlaylist(playlistId, prevPageToken);
 }
 
-
+//
 function downloadCaptions(input) {
 	listCaptionFiles(input);
-	// downloadCaptionFile(capList[0].id);
 }

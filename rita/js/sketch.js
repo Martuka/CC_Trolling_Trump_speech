@@ -1,35 +1,29 @@
 var displayed_text;
 var text_content;
+var captions;
 
 var textarea;
 var nounInput;
 var nounThresh;
 var verbInput;
 var verbThresh;
+var uploadDiv;
+var videoID;
 
 function preload() {
-	// text_content = loadStrings('text/textfile.txt');
 	displayed_text = '';
-	text_content = loadStrings('text/captions.sbv');
+	text_content = [];
 }
 
 function setup() {
-	for (var i = 0; i < text_content.length; i++) {
-		displayed_text += text_content[i] + '<br>';
-	}
 	prepareHTML();
 }
 
-function draw() {
-}
+function draw() {}
 
 // This function builds the web page HTML elements
 function prepareHTML() {
 	var title = createElement('h1', 'Trolling Trump');
-
-	textarea = createDiv(displayed_text);
-	textarea.id('text');
-	textarea.class('text-display');
 
 	var nounDiv =  createDiv('');
 	nounDiv.id('input');
@@ -83,25 +77,31 @@ function prepareHTML() {
 	submit.parent(buttonDiv);
 
 	title.style('margin-top', '2cm');
-	title.parent('sketchContainer');
+	title.parent('title');
 	nounDiv.style('margin-top', '2cm');
 	nounDiv.parent('sketchContainer');
 	verbDiv.parent('sketchContainer');
 	buttonDiv.style('margin-top', '1cm');
 	buttonDiv.parent('sketchContainer');
 
-	var areaWidth = (windowWidth / 6) * 4;
-	textarea.style('max-width', areaWidth);
-	textarea.style('margin-top', '2cm');
-	textarea.parent('sketchContainer');
-
+	uploadDiv = createDiv('');
+	uploadDiv.id('input');
+	var uploadBtn = createButton('Upload');
+	uploadBtn.mousePressed(uploadCaptionFile);
+	uploadBtn.parent(uploadDiv);
+	uploadDiv.style('margin-top', '0.5cm');
+	uploadDiv.style('display', 'none');
+	uploadDiv.parent('sketchContainer');
 }
 
 function submition() {
-
 	var new_text = troll(textarea.html(), nounInput.value(), (100 - (+nounThresh.value()))/100, ['nn', 'nns']);
 	new_text = troll(new_text, verbInput.value(), (100 - (+verbThresh.value()))/100, ['vb', 'vbp', 'vbg']);
-		textarea.html(new_text);
+	textarea.html(new_text);
+	displayed_text = new_text;
+	console.info('displayed text =\n', displayed_text);
+	console.info('text_content before recreate function = ',text_content);
+	recreateCaptionFile();
 }
 
 // This function replaces words in a text by a specified word using RiTa library
@@ -165,4 +165,37 @@ function troll(text, noun, thresh, pos_to_replace) {
 	});
 
 	return graphs.join('<br>');
+}
+
+
+function displayText() {
+	textarea = createDiv(displayed_text);
+	textarea.id('text');
+	textarea.class('text-display');
+
+	var areaWidth = (windowWidth / 6) * 4;
+	// textarea.style('max-width', areaWidth);
+	textarea.style('margin-top', '2cm');
+	textarea.parent('sketchContainer');
+}
+
+function recreateCaptionFile() {
+	var tmp = displayed_text.split('<br> ');
+	var j = 0;
+	var a = [];
+	for (var i = 0; i < text_content.length; i++) {
+		if (i % 4 == 2) {
+			text_content[i] = tmp[j++];
+		}
+	}
+	console.info('final file = ', text_content);
+	var captionFile = text_content.join('\n');
+	uploadDiv.style('display', '');
+}
+
+function uploadCaptionFile() {
+	console.info('VideoID = ', videoID);
+	var request = gapi.client.youtube.captions.insert({
+		part: 'snippet'
+	});
 }
