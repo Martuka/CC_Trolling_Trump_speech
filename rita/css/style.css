@@ -1,6 +1,10 @@
 body {
 	/*max-width: 900px;*/
-	margin: auto;
+	padding: none;;
+	border: 0;
+	margin: 0;
+	/*margin-top: -40px;*/
+	overflow: scroll;
 }
 
 textarea {
@@ -14,12 +18,23 @@ input,
 textarea,
 button {
 	font-size: 30px;
-	font-family: "helvetica", sans-serif;
+	font-family: 'helvetica-neue-regular', sans-serif;
 }
 
 h1 {
-	margin: 10px;
+	vertical-align: middle;
 	text-align: center;
+	line-height: 6cm;
+}
+
+#title {
+	color: white;
+	background-color: black;
+	height: 6cm;
+}
+
+#login-container {
+	background-color: red;
 }
 
 #input {
@@ -31,12 +46,46 @@ h1 {
 	margin: 10px 0px;
 }
 
+#video-container {
+	background-color: red;
+	/*margin-top: -30px;*/
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#sketchContainer {
+	background-color: blue;
+}
+
+#video-player {
+	text-align: center;
+	visibility: hidden;
+}
+
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color: black;
+}
+
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color: black;
+   opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color: black;
+   opacity:  1;
+}
+
+.vid-list-el {
+
+}
+
 .paging-button {
   visibility: hidden;
 }
 
 .button-container {
   clear: both;
+  background-color: blue;
 }
 
 .text-display {

@@ -59,10 +59,10 @@ function requestVideoPlaylist(playlistId, pageToken) {
 function displayResult(videoSnippet, increment) {
 	var title = videoSnippet.title;
 	var videoId = videoSnippet.resourceId.videoId;
-	$('#video-container').append('<p id=' + '"' + increment + '"' + '>' + title + '</p>');
+	$('#video-container').append('<p id=' + '"' + increment + '"' + ' class="vid-list-el">' + title + '</p>');
 	$('#' + increment).click(function() {
-		// alert(videoId);
 		videoID = videoId;
+		videoTitle = title;
 		downloadCaptions(videoId);
 	});
 }

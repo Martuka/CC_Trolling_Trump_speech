@@ -9,6 +9,8 @@ var verbInput;
 var verbThresh;
 var uploadDiv;
 var videoID;
+var captionFile;
+var videoTitle;
 
 function preload() {
 	displayed_text = '';
@@ -23,7 +25,7 @@ function draw() {}
 
 // This function builds the web page HTML elements
 function prepareHTML() {
-	var title = createElement('h1', 'Trolling Trump');
+	var title = createElement('h1', 'Trolling Trump Speech');
 
 	var nounDiv =  createDiv('');
 	nounDiv.id('input');
@@ -36,6 +38,8 @@ function prepareHTML() {
 	nounInput.attribute('placeholder', 'noun');
 	nounInput.attribute('value', '');
 	nounInput.style('border', '0');
+	nounInput.style('background-color', 'blue');
+	nounInput.style('color', 'black');
 
 	nounThresh = createInput('');
 	nounThresh.id('thresh_noun')
@@ -43,9 +47,10 @@ function prepareHTML() {
 	nounThresh.attribute('placeholder', '%');
 	nounThresh.attribute('min', '0');
 	nounThresh.attribute('max', '100');
-	nounThresh.attribute('value', '50');
 	nounThresh.attribute('size', '3');
 	nounThresh.style('border', '0');
+	nounThresh.style('background-color', 'blue');
+	nounThresh.style('color', 'black');
 
 	verbInput = createInput('');
 	verbInput.id('verb');
@@ -53,6 +58,8 @@ function prepareHTML() {
 	verbInput.attribute('placeholder', 'verb');
 	verbInput.attribute('value', '');
 	verbInput.style('border', '0');
+	verbInput.style('background-color', 'blue');
+	verbInput.style('color', 'black');
 
 	verbThresh = createInput('');
 	verbThresh.id('thresh_verb')
@@ -60,12 +67,15 @@ function prepareHTML() {
 	verbThresh.attribute('placeholder', '%');
 	verbThresh.attribute('min', '0');
 	verbThresh.attribute('max', '100');
-	verbThresh.attribute('value', '50');
 	verbThresh.attribute('size', '3');
 	verbThresh.style('border', '0');
+	verbThresh.style('background-color', 'blue');
+	verbThresh.style('color', 'black');
 
 	var buttonDiv = createDiv('');
 	buttonDiv.id('input');
+	buttonDiv.style('padding-top', '10px');
+	buttonDiv.style('padding-bottom', '10px');
 
 	var submit = createButton('Submit');
 	submit.mousePressed(submition);
@@ -76,12 +86,12 @@ function prepareHTML() {
 	verbThresh.parent(verbDiv);
 	submit.parent(buttonDiv);
 
-	title.style('margin-top', '2cm');
 	title.parent('title');
-	nounDiv.style('margin-top', '2cm');
+	nounDiv.style('padding-top', '1cm');
+	// nounDiv.style('padding-bottom', '1cm');
 	nounDiv.parent('sketchContainer');
 	verbDiv.parent('sketchContainer');
-	buttonDiv.style('margin-top', '1cm');
+	// buttonDiv.style('margin-top', '1cm');
 	buttonDiv.parent('sketchContainer');
 
 	uploadDiv = createDiv('');
@@ -89,8 +99,9 @@ function prepareHTML() {
 	var uploadBtn = createButton('Upload');
 	uploadBtn.mousePressed(uploadCaptionFile);
 	uploadBtn.parent(uploadDiv);
-	uploadDiv.style('margin-top', '0.5cm');
-	uploadDiv.style('display', 'none');
+	uploadDiv.style('padding-bottom', '0.5cm');
+	// uploadDiv.style('display', 'none');
+	uploadDiv.style('visibility', 'hidden');
 	uploadDiv.parent('sketchContainer');
 }
 
@@ -101,6 +112,7 @@ function submition() {
 	displayed_text = new_text;
 	console.info('displayed text =\n', displayed_text);
 	console.info('text_content before recreate function = ',text_content);
+	uploadDiv.style('visibility', 'visible');
 	recreateCaptionFile();
 }
 
@@ -172,10 +184,11 @@ function displayText() {
 	textarea = createDiv(displayed_text);
 	textarea.id('text');
 	textarea.class('text-display');
+	textarea.style('background-color', 'white');
 
 	var areaWidth = (windowWidth / 6) * 4;
 	// textarea.style('max-width', areaWidth);
-	textarea.style('margin-top', '2cm');
+	textarea.style('padding-top', '2cm');
 	textarea.parent('sketchContainer');
 }
 
@@ -189,13 +202,10 @@ function recreateCaptionFile() {
 		}
 	}
 	console.info('final file = ', text_content);
-	var captionFile = text_content.join('\n');
-	uploadDiv.style('display', '');
+	captionFile = text_content.join('\n');
+	console.log('captionFile = ', captionFile);
 }
 
 function uploadCaptionFile() {
-	console.info('VideoID = ', videoID);
-	var request = gapi.client.youtube.captions.insert({
-		part: 'snippet'
-	});
+	uploadFile(videoID);
 }
