@@ -1,6 +1,4 @@
-# CC_Trolling_Trump_speech
-
-Trolling Trump Speech
+# Trolling Trump Speech
 
 Trolling Trump Speech is a web application that can modify and save captions directly from Youtube videos. You can troll Donald Trump speeches by modifying the Youtube subtitles of his videos.
 
