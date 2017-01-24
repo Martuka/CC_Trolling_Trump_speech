@@ -7,3 +7,5 @@ The web application will automatically get caption tracks from Youtube videos an
 Interested by forms of political communication and the relationship between information and technology I’m watching the campaign of Donald J. Trump with a mix of fascination, sarcasm and hopelessness. Furthermore, I am a supporter of creative commons art, vandalism forms and use of offbeat humour on the web. I find it just fun to openly laugh at Trump on Youtube.
 
 This project is aimed at those who have a bit of troll in them.
+
+![tt_submit](https://cloud.githubusercontent.com/assets/22668207/22249001/7b3ecdd0-e241-11e6-9b4a-5d77821c9184.png)
