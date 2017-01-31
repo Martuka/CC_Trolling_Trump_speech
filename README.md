@@ -8,4 +8,4 @@ Interested by forms of political communication and the relationship between info
 
 This project is aimed at those who have a bit of troll in them.
 
-![tt_submit](https://cloud.githubusercontent.com/assets/22668207/22249001/7b3ecdd0-e241-11e6-9b4a-5d77821c9184.png)
+![screen shot 2017-01-31 at 00 44 23](https://cloud.githubusercontent.com/assets/22668207/22460548/a0f007ec-e7a5-11e6-92a4-d4e097a1ffd4.png)
