@@ -193,15 +193,27 @@ function displayText() {
 }
 
 function recreateCaptionFile() {
-	var tmp = displayed_text.split('<br> ');
+	var tmp = displayed_text.split('<br>');
 	var j = 0;
-	var a = [];
+
 	for (var i = 0; i < text_content.length; i++) {
 		if (i % 4 == 2) {
 			text_content[i] = tmp[j++];
 		}
 	}
-	console.info('final file = ', text_content);
+
+	var a = text_content;
+	var tmp2 = text_content;
+	for (var i = 0; i < text_content.length - 4; i++) {
+		if (i % 4 == 1) {
+			s = tmp2[i].split(' --> ');
+			s2 = tmp2[i+4].split(' --> ');
+			a[i] = s[0] + ' --> ' + s2[0]
+		}
+	}
+	text_content = a;
+
+	console.info('final text_content = ', text_content);
 	captionFile = text_content.join('\n');
 	console.log('captionFile = ', captionFile);
 }
